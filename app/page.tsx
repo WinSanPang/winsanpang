@@ -13,7 +13,7 @@ export default function Page() {
           src="/profile.jpeg"
           width={150}
           height={150}
-          className="rounded-full"
+          className="rounded-full mr-4"
           alt="A photograph of Win San Pang"
         />
         <h1
@@ -22,7 +22,7 @@ export default function Page() {
           <strong>Win San Pang</strong>
         </h1>
       </div>
-      <p className="text-white">
+      <p className="text-white text-center">
         Hello and welcome to my personal website👋 Please feel free to navigate
         your way around and find out more about my career as a Software
         Engineer, educational experience, skills, portfolio and personal
@@ -37,20 +37,6 @@ export default function Page() {
         </a>{" "}
         to view it in PDF format.
       </p>
-      <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
-        <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-2/5 md:px-20">
-          <div className="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black" />
-          <Link
-            href="/login"
-            className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base"
-          >
-            <span>Log in</span> <ArrowRightIcon className="w-5 md:w-6" />
-          </Link>
-        </div>
-        <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
-          {/* Add Hero Images Here */}
-        </div>
-      </div>
     </>
   )
 }
