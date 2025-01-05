@@ -41,7 +41,7 @@ export default function TimelineSection({
         <div className="rounded-full bg-white size-8"></div>
         {!isLast && (
           <div
-            className={`absolute top-0.5 inset-1/2 ${height} bg-white w-[4px]`}
+            className={`absolute top-0.5 inset-1/2 bg-white w-[4px] ${height}`}
           />
         )}
       </div>
