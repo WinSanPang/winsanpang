@@ -6,12 +6,12 @@ import { workData } from "./data"
 export default function Timeline() {
   return (
     <div>
-      <div className="md:flex justify-center gap-2">
+      <div className="flex justify-center gap-2">
         {workData.map(({ id, companyName, colours }) => (
           <a
             key={id}
             href={`#${id}`}
-            className={`${colours.background} rounded-full p-2 m-2 border-2 ${colours.border}`}
+            className={`${colours.background} rounded-full p-1 md:p-2 md:m-2 border-2 ${colours.border}`}
           >
             <strong>
               <span className={colours.title}>{companyName}</span>

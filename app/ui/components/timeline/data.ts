@@ -102,7 +102,7 @@ export const workData = [
       title: "text-butternut-brown",
       text: "text-butternut-blue",
     },
-    height: "h-[1500px]",
+    height: "h-[4100px] md:h-[1500px]",
   },
   {
     id: "justpark",
@@ -261,7 +261,7 @@ export const workData = [
       title: "text-justpark",
       text: "text-black",
     },
-    height: "h-[2200px]",
+    height: "h-[5400px] md:h-[2200px]",
   },
   {
     id: "ofcom",
@@ -306,7 +306,7 @@ export const workData = [
       title: "text-ofcom-red",
       text: "text-ofcom-blue",
     },
-    height: "h-[550px]",
+    height: "h-[1280px] md:h-[550px]",
   },
   {
     id: "handy",

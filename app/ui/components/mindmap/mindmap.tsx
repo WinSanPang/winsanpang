@@ -8,7 +8,6 @@ export default function Mindmap() {
   return (
     <div className="relative">
       <div className="relative w-full h-[600px] mb-36">
-        {/* Brain SVG icon from SVG Repo at https://www.svgrepo.com/svg/441585/brain */}
         <Image
           src="/icons/brain.svg"
           alt="An illustration icon of a brain's side profile"
@@ -38,7 +37,6 @@ export default function Mindmap() {
       </div>
       <div className="border-b border-white mb-8 mx-28" />
       <div className="relative w-full h-[600px] mb-4">
-        {/* Brain SVG icon from SVG Repo at https://www.svgrepo.com/svg/441585/brain */}
         <Image
           src="/icons/brain.svg"
           alt="An illustration icon of a brain's side profile"
@@ -68,7 +66,6 @@ export default function Mindmap() {
       </div>
       <div className="border-b border-white mb-8 mx-28" />
       <div className="relative w-full h-[600px] mb-4">
-        {/* Brain SVG icon from SVG Repo at https://www.svgrepo.com/svg/441585/brain */}
         <Image
           src="/icons/brain.svg"
           alt="An illustration icon of a brain's side profile"
