@@ -1,7 +1,7 @@
 export const workData = [
   {
     id: "butternut",
-    companyName: "Butternut Box",
+    companyName: "Butternut Box 🐶",
     summary:
       "I joined Butternut Box as a Junior Frontend Engineer and have progressed into a Software Engineer over the course of the years. I have worked primarily on the Acquisition team, responsible for building high-quality UI and UX with the primary goal of supporting the company's international growth and expansion.",
     roles: [
@@ -106,7 +106,7 @@ export const workData = [
   },
   {
     id: "justpark",
-    companyName: "JustPark",
+    companyName: "JustPark 🚗",
     summary:
       "I joined JustPark as a Customer Happiness Associate and gradually transitioned into the Engineering team, starting off as an Associate QA Engineer and later progressing into an Associate Frontend Engineer role.",
     roles: [
@@ -265,7 +265,7 @@ export const workData = [
   },
   {
     id: "ofcom",
-    companyName: "Ofcom",
+    companyName: "Ofcom 📺",
     summary:
       "I worked at Ofcom as a Consumer Contact Associate, where I gained extensive knowledge of telecom and broadcast-related rules and regulations and further enhanced my professionalism in handling customer enquiries.",
     roles: [
@@ -310,7 +310,7 @@ export const workData = [
   },
   {
     id: "handy",
-    companyName: "Handy",
+    companyName: "Handy 🧹",
     summary:
       "I started at Handy as a Customer Service Agent and quickly progressed to the role of Customer Service Shift Leader. This was my first job after graduating from university and I learned a lot about customer service, leadership, and teamwork.",
     roles: [

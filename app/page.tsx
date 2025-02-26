@@ -4,6 +4,7 @@ import { ArrowRightIcon } from "@heroicons/react/24/outline"
 
 import "@/app/ui/global.css"
 import { lobster } from "@/app/ui/fonts"
+import Carousel from "@/app/ui/components/carousel"
 
 export default function Page() {
   return (
@@ -13,7 +14,7 @@ export default function Page() {
           src="/profile.jpeg"
           width={150}
           height={150}
-          className="rounded-full mr-4"
+          className="rounded-full mr-4 h-auto w-[150px]"
           alt="A photograph of Win San Pang"
         />
         <h1
@@ -27,16 +28,25 @@ export default function Page() {
         your way around and find out more about my career as a Software
         Engineer, educational experience, skills, portfolio and personal
         interests. If you'd prefer to just take a look at my CV, click{" "}
-        <a
+        <Link
           href="/win-san-pang-cv.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="text-sky-500 underline"
         >
           here
-        </a>{" "}
+        </Link>{" "}
         to view it in PDF format.
       </p>
+      <div className="border-b border-white m-8" />
+      <div className="p-6 md:px-28 md:pb-12">
+        <h2
+          className={`${lobster.className} text-lg text-white text-center md:text-4xl md:leading-normal md:mb-8`}
+        >
+          <strong>Who am I?</strong>
+        </h2>
+        <Carousel />
+      </div>
     </>
   )
 }

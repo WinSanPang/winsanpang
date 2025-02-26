@@ -1,8 +1,9 @@
 "use client"
+
 import Image from "next/image"
+import { usePathname } from "next/navigation"
 
 import { Navbar } from "flowbite-react"
-import { usePathname } from "next/navigation"
 
 export default function Navigation() {
   const pathname = usePathname()
@@ -18,7 +19,7 @@ export default function Navigation() {
   ]
 
   return (
-    <Navbar fluid rounded className="bg-cyan-950">
+    <Navbar fluid className="bg-cyan-950">
       <Navbar.Brand href="/">
         <Image
           src="/profile.jpeg"
