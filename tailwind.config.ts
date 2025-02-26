@@ -2,12 +2,7 @@ import type { Config } from "tailwindcss"
 const flowbite = require("flowbite-react/tailwind")
 
 const config: Config = {
-  content: [
-    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./app/**/*.{js,ts,jsx,tsx,mdx}",
-    flowbite.content(),
-  ],
+  content: ["./src/app/**/*.{js,ts,jsx,tsx,mdx}", flowbite.content()],
   theme: {
     extend: {
       gridTemplateColumns: {
@@ -27,7 +22,6 @@ const config: Config = {
         "ofcom-blue": "#000045",
         "handy-blue": "#00cded",
         "handy-grey": "#434343",
-        "custom-active": "black", // Example custom blue
       },
     },
     keyframes: {
