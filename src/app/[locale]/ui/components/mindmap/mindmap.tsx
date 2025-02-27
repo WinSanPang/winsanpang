@@ -1,3 +1,4 @@
+import { useTranslations } from "next-intl"
 import Image from "next/image"
 
 import { lobster } from "@/src/app/[locale]/ui/fonts"
@@ -5,6 +6,8 @@ import { lobster } from "@/src/app/[locale]/ui/fonts"
 import { creativeSkills, generalSkills, programmingLanguages } from "./data"
 
 export default function Mindmap() {
+  const t = useTranslations("skills.mindmap")
+
   return (
     <div className="relative">
       <div className="relative w-full h-[600px] mb-36">
@@ -18,15 +21,17 @@ export default function Mindmap() {
         <h3
           className={`${lobster.className} text-center text-4xl text-sky-900 font-bold mt-8 [text-shadow:_-1.0px_1.0px_2.0px_white,1.0px_1.0px_2.0px_white,1.0px_-1.0px_0_white,-1.0px_-1.0px_0_white]`}
         >
-          Programming Languages
+          {t("programming_languages.title")}
         </h3>
         {programmingLanguages.map(
-          ({ name, mainPosition, pillPosition, linePosition, colour }) => (
-            <div key={name} className={`absolute ${mainPosition}`}>
+          ({ key, mainPosition, pillPosition, linePosition, colour }) => (
+            <div key={key} className={`absolute ${mainPosition}`}>
               <div
                 className={`${colour} rounded-full px-4 py-2 border border-white ${pillPosition}`}
               >
-                <p className="text-white text-xl">{name}</p>
+                <p className="text-white text-xl">
+                  {t(`programming_languages.${key}`)}
+                </p>
               </div>
               <div className="flex justify-center">
                 <div className={`bg-white w-[2px] h-[100px] ${linePosition}`} />
@@ -39,7 +44,7 @@ export default function Mindmap() {
       <div className="relative w-full h-[600px] mb-4">
         <Image
           src="/icons/brain.svg"
-          alt="An illustration icon of a brain's side profile"
+          alt={t("brain_icon_alt")}
           width={300}
           height={300}
           className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
@@ -50,12 +55,12 @@ export default function Mindmap() {
           General
         </h3>
         {generalSkills.map(
-          ({ name, mainPosition, pillPosition, linePosition, colour }) => (
-            <div key={name} className={`absolute ${mainPosition}`}>
+          ({ key, mainPosition, pillPosition, linePosition, colour }) => (
+            <div key={key} className={`absolute ${mainPosition}`}>
               <div
                 className={`${colour} rounded-full px-4 py-2 border border-white ${pillPosition}`}
               >
-                <p className="text-white text-xl">{name}</p>
+                <p className="text-white text-xl">{t(`general.${key}`)}</p>
               </div>
               <div className="flex justify-center">
                 <div className={`bg-white w-[2px] h-[100px] ${linePosition}`} />
@@ -79,12 +84,12 @@ export default function Mindmap() {
           Creative
         </h3>
         {creativeSkills.map(
-          ({ name, mainPosition, pillPosition, linePosition, colour }) => (
-            <div key={name} className={`absolute ${mainPosition}`}>
+          ({ key, mainPosition, pillPosition, linePosition, colour }) => (
+            <div key={key} className={`absolute ${mainPosition}`}>
               <div
                 className={`${colour} rounded-full px-4 py-2 border border-white ${pillPosition}`}
               >
-                <p className="text-white text-xl">{name}</p>
+                <p className="text-white text-xl">{t(`creative.${key}`)}</p>
               </div>
               <div className="flex justify-center">
                 <div className={`bg-white w-[2px] h-[100px] ${linePosition}`} />

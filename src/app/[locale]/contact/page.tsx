@@ -1,20 +1,17 @@
+import { useTranslations } from "next-intl"
+
 import Hero from "@/src/app/[locale]/ui/components/hero"
-import BusinessCard from "../ui/business-card"
+import BusinessCard from "@/src/app/[locale]/ui/business-card"
+import SvgRepoCredit from "@/src/app/[locale]/ui/components/svg-repo-credit"
 
 export default function Page() {
+  const t = useTranslations("contact")
+
   return (
     <div>
-      <Hero
-        title="Contact 📱"
-        subtitle="Please feel free to get in touch with me via the contact details below. Whether it's a job opportunity, a collaboration project, or even just some general feedback about my website, I'd love to hear from you!"
-      />
+      <Hero title={t("title")} subtitle={t("subtitle")} />
       <BusinessCard />
-      <p className="text-center text-gray-500 mt-4 text-xs">
-        Vectors and icons by{" "}
-        <a href="https://www.svgrepo.com" target="_blank">
-          SVG Repo
-        </a>
-      </p>
+      <SvgRepoCredit />
     </div>
   )
 }

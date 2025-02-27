@@ -1,5 +1,6 @@
 "use client"
 
+import { useTranslations } from "next-intl"
 import Image from "next/image"
 import { usePathname } from "next/navigation"
 
@@ -7,15 +8,15 @@ import { Navbar } from "flowbite-react"
 
 export default function Navigation() {
   const pathname = usePathname()
+  const t = useTranslations("navigation")
 
   const navigation = [
-    { name: "Home", href: "/" },
-    { name: "Skills", href: "/skills" },
-    { name: "Work", href: "/work" },
-    { name: "Education", href: "/education" },
-    { name: "Hobbies", href: "/hobbies" },
-    { name: "Portfolio", href: "/portfolio" },
-    { name: "Contact", href: "/contact" },
+    { name: "home", href: "/" },
+    { name: "skills", href: "/skills" },
+    { name: "work", href: "/work" },
+    { name: "education", href: "/education" },
+    { name: "portfolio", href: "/portfolio" },
+    { name: "contact", href: "/contact" },
   ]
 
   return (
@@ -31,15 +32,15 @@ export default function Navigation() {
       </Navbar.Brand>
       <Navbar.Toggle />
       <Navbar.Collapse>
-        {navigation.map((item) => (
+        {navigation.map(({ name, href }) => (
           <Navbar.Link
-            key={item.name}
-            href={item.href}
+            key={name}
+            href={href}
             className={`text-white ${
-              pathname === item.href ? "border-white border-1" : "" // Not sure why styling isn't working here
+              pathname === href ? "border-white border-1" : "" // Not sure why styling isn't working here
             }`}
           >
-            {item.name}
+            {t(`${name}`)}
           </Navbar.Link>
         ))}
       </Navbar.Collapse>

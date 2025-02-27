@@ -1,5 +1,417 @@
 {
-  "homepage": {
-    "title": "Hi, I'm Win 👋"
+  "navigation": {
+    "home": "Home",
+    "skills": "Skills",
+    "work": "Work",
+    "education": "Education",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Hi, I'm Win 👋",
+    "subtitle": "Hello, my name is Win San Pang and welcome to my personal website 👋 Please feel free to navigate your way around and find out more about my career as a Software Engineer, educational experience, skills, portfolio and personal interests. If you'd prefer to just take a look at my CV, click <cv>here</cv> to view it in PDF format.",
+    "carousel_section": {
+      "title": "Who am I?",
+      "subtitle": "Click through the carousel to find out more about me!",
+      "slides": {
+        "software_engineer": {
+          "title": "I'm a Software Engineer 🧑🏻‍💻",
+          "content_1": "In 2017, whilst working at a tech startup named JustPark, I took an interest in web development and software engineering. It started off with learning HTML, tweaking some CSS here or there and practising bits of SQL.",
+          "content_2": "By 2019, I began taking it more seriously and was doing React courses and attending workshops. In Jan 2020, I began working as a Junior Frontend Engineer and have progressed to a Software Engineer since.",
+          "img_alt": ""
+        },
+        "wife": {
+          "title": "I'm a Wife 🥰",
+          "content_1": "I matched with Adél on Tinder on the 7th August 2018 after spending almost a year on dating apps and on the verge of giving it up. Luckily, I didn't and I matched with the love of my life. We talked for hours on end, met up for several dates, and moved in together after 7 months of dating.",
+          "content_2": "In January 2023 we got engaged whilst on holiday in the Thailand (she beat me to proposing first) and we got married on the 7th August 2023, on our 5th year anniversary. During our time together so far, we've gone on countless amazing holidays, bought our own home, added a gorgeous little dog to our family unit, supported each other through difficult times, and encouraged each other to grow. I'm so grateful to have her in my life and I can't wait to see what the future holds for us.",
+          "img_alt": "A photo of me and Adél, dressed up for our wedding dinner and looking at each other"
+        },
+        "dog_mum": {
+          "title": "I'm a Dog Mum 🐶",
+          "content_1": "In 2022, we added an adorable little Labrador puppy to our family and named her Donut. We first met Donut in July when she was just a teeny tiny 3 weeks old puppy. We fell in love with her and knew she was our fur baby. The puppy stages were tough - lots of training, cleaning up messes, and sleepless nights. But it was all worth it. ",
+          "content_2": "She's grown to become a very well-behaved, loving, playful and happy-go-lucky dog who loves cuddles, food, and playing all day every day. She's brought so much joy, fun and love into our lives. In 2024, we took her with us on a Europe road trip and it was so special to see her fascinated by everything we saw and did. She's our little adventurer and we can't wait to take her on more trips with us.",
+          "img_alt": "A photo of me holding Donut's paw and smiling at her on a beach in Croatia"
+        },
+        "travel": {
+          "title": "I love to travel ✈️",
+          "content_1": "As a child, I travelled to Hong Kong every 2 - 3 years to visit family. I adore the food and culture there, but above all I'm amazed by the country's landscape - that amongst all the skyscrapers you can still see the backdrop of mountains and nature. I've also enjoyed exploring other parts of Asia, including the Maldives, Thailand, South Korea, Singapore, Taiwan and Japan.",
+          "content_2": "Over the years, I've also seen more of Europe, including Portugal, Spain, Greece and Iceland. In 2024, my wife and I did our first Europe road trip together so we could bring our pup on holiday with us. We drove from the UK to Germany, Italy, Croatia, Hungary, and Austria. We absolutely loved being in the car together, watching the beautiful sights of nature along the way and listening to our favourite songs. I've found that travelling has really expanded my horizons and understanding of different cultures, and with each new destination I discover new flavours, experiences and sensations that makes our world beautifully colourful.",
+          "img_alt": ""
+        },
+        "geek": {
+          "title": "I'm a Geek 🤓",
+          "content_1": "Growing up, I felt like being geeky was seen as 'uncool', but that's exactly who I was and nowadays I'm proud to embrace my hobbies and interests. I love reading, video games, Dungeons and Dragons, Lego and board games. Fandom wise, talk to me about anything related to Pokémon, Marvel and Harry Potter.",
+          "content_2": "",
+          "img_alt": ""
+        }
+      }
+    }
+  },
+  "skills": {
+    "title": "Skills 💻",
+    "subtitle": "Here you can see my current skillset in the form of a mindmap, broken down into Programming Languages, General and Creative",
+    "mindmap": {
+      "brain_icon_alt": "An illustration icon of a brain's side profile",
+      "programming_languages": {
+        "title": "Programming Languages",
+        "react": "React",
+        "typescript": "TypeScript",
+        "javascript": "JavaScript",
+        "apollo": "Apollo GraphQL",
+        "react_native": "React Native",
+        "css": "CSS",
+        "styled_components": "Styled Components",
+        "sass": "Sass",
+        "scss": "SCSS",
+        "sql": "SQL",
+        "ruby": "Ruby on Rails"
+      },
+      "general": {
+        "problem_solving": "Problem solving",
+        "multi_tasking": "Multi-tasking",
+        "communication": "Communication",
+        "teamwork": "Teamwork",
+        "attention_to_detail": "Attention to detail",
+        "leadership": "Leadership",
+        "cantonese": "Cantonese",
+        "customer_service": "Customer service"
+      },
+      "creative": {
+        "imovie": "iMovie",
+        "photoshop": "Photoshop",
+        "photography": "Photography",
+        "creative_writing": "Creative writing"
+      }
+    }
+  },
+  "work": {
+    "title": "Work 🧑🏻‍💻",
+    "subtitle": "I'm an accomplished Full Stack Software Engineer with a strong emphasis on frontend development. I have 5+ years experience in creating high-quality user interfaces that enhance conversion rates and user engagement. I transitioned from customer service background to web development, demonstrating commitment, self-motivation, and initiative. Below you'll find a timeline of my career journey so far - feel free to scroll down or use the buttons to navigate the sections :)",
+    "timeline": {
+      "butternut_box": {
+        "company_name": "Butternut Box 🐶",
+        "summary": "I joined Butternut Box as a Junior Frontend Engineer and have progressed into a Software Engineer over the course of the years. I have worked primarily on the Acquisition team, responsible for building high-quality UI and UX with the primary goal of supporting the company's international growth and expansion.",
+        "roles": {
+          "software_engineer": {
+            "title": "Software Engineer",
+            "start_date": "Feb 2021",
+            "end_date": "Present",
+            "responsibilities": {
+              "acquisition": {
+                "heading": "Acquisition Product Area",
+                "description": "Predominantly worked in the business' Acquisition digital product remit and developed high-quality user interfaces. Utilised AB testing within the product feature development process and achieved a 13% improvement in conversion rates and led to increased sign-ups. Key features include the homepage, public-facing support and landing pages, the entire sign-up and checkout journey, and the refer-a-friend scheme."
+              },
+              "localisation": {
+                "heading": "Localisation Expert",
+                "description": "Supported the company's growth and expansion into five new countries and four languages using tools like Phrase and i18n."
+              },
+              "blog": {
+                "heading": "Built in-House Blog System",
+                "description": "Built an internal blog system as part of a temporary team with another engineer, later optimising and iterating on it when it became part of the Acquisition product area."
+              },
+              "debugging": {
+                "heading": "Debugging and Incident Resolution",
+                "description": "Proactively debugged and resolved issues raised in the internal team incidents channel."
+              },
+              "quality": {
+                "heading": "Code Maintenance and Quality",
+                "description": "Leveraged prior QA experience to establish and refine a formal QA process to ensure features and releases met high standards. Frequently performed code cleanups and refactors, including deleting over 13,000 lines of code in a single Pull Request."
+              },
+              "testing": {
+                "heading": "Test Coverage",
+                "description": "Wrote and maintained automated tests across various frameworks using Cypress, Jest, RSpec, and Cucumber-Rails."
+              },
+              "optimisation": {
+                "heading": "Core Web Vitals Optimisation",
+                "description": "Explored and implemented improvements to drive higher Core Web Vital and Lighthouse scores (25% desktop improvement, 68% mobile improvement), enhancing SEO performance."
+              },
+              "documentation": {
+                "heading": "Wrote Extensive Documentation",
+                "description": "Authored comprehensive documentation, including exploratory spikes, localisation processes, key features, and post-mortems."
+              },
+              "knowledge_sharing": {
+                "heading": "Knowledge Sharing",
+                "description": "Ran React learning classes for engineering colleagues looking to upskill their frontend knowledge."
+              },
+              "project_leadership": {
+                "heading": "Project Leadership",
+                "description": "Led several key projects, including multiple significant rebuilds of the customer sign-up journey."
+              },
+              "mentorship": {
+                "heading": "Team Leadership and Mentorship",
+                "description": "Acted as team lead during manager’s absence. Mentored junior engineers, providing guidance and support for their professional growth."
+              },
+              "communication": {
+                "heading": "Communication Skills",
+                "description": "Effectively collaborated with and articulated complex technical solutions to both technical and non- technical audiences, including product managers, designers, and stakeholders."
+              },
+              "recruitment": {
+                "heading": "Recruitment",
+                "description": "Participated in the interview process for new candidates, helping to identify top engineering talent."
+              }
+            },
+            "polaroids": {
+              "summer_party": {
+                "img_alt": "A photograph of me with Butternut Box colleagues at a summer party",
+                "caption": "Having fun with the team at the Summer party 😎"
+              },
+              "office_day": {
+                "img_alt": "A photograph of my dog, Donut, sitting on a chair in the office",
+                "caption": "My dog, Donut, attending our team meeting at the office 🐶"
+              },
+              "christmas_party": {
+                "img_alt": "A photograph of me with Butternut Box colleagues at a Christmas party",
+                "caption": "All dressed up and lookin' glam for the Christmas party ✨"
+              }
+            }
+          }
+        }
+      },
+      "justpark": {
+        "company_name": "JustPark 🚗",
+        "summary": "I joined JustPark as a Customer Happiness Associate and gradually transitioned into the Engineering team, starting off as an Associate QA Engineer and later progressing into an Associate Frontend Engineer role.",
+        "roles": {
+          "associate_frontend_engineer": {
+            "title": "Associate Frontend Engineer",
+            "start_date": "Jan 2020",
+            "end_date": "Feb 2021",
+            "responsibilities": {
+              "development": {
+                "heading": "Application Development and Maintenance",
+                "description": "Developed, enhanced, and maintained the codebase for the company's five core web applications. Contributions included creating UI components, reducers, and full-page flows using React 16 and Redux Toolkit, as well as updating automated test suites with Jest, Enzyme, Mocha, and Cypress."
+              },
+              "collaboration": {
+                "heading": "Cross-Functional Collaboration",
+                "description": "Collaborated with Backend, QA, and Product teams to ensure the timely delivery of high-quality features and product improvements."
+              },
+              "tools": {
+                "heading": "Development Tools",
+                "description": "Employed various software and tools, including PhpStorm, Jenkins, JIRA, GitHub, Percy, Zeplin, and Paw, for development and self-testing purposes, ensuring code changes aligned with intended product designs."
+              }
+            },
+            "polaroids": {
+              "fav_dev": {
+                "img_alt": "A screenshot of a conversation where a QA colleague very kindly praises my dev work",
+                "caption": "Winning high praise from a QA colleague for my dev work 😍"
+              }
+            }
+          },
+          "associate_qa_engineer": {
+            "title": "Associate QA Engineer",
+            "start_date": "Jan 2019",
+            "end_date": "Jan 2020",
+            "responsibilities": {
+              "testing": {
+                "heading": "Comprehensive Testing and Debugging",
+                "description": "Executed thorough testing and debugging of product changes across four development teams - Frontend, Backend, Mobile (Apps), and Infrastructure - with a primary focus on Backend code."
+              },
+              "bdd": {
+                "heading": "Behaviour Driven Development (BDD) Implementation",
+                "description": "Applied the Behaviour Driven Development framework to systematically test and ensure code changes met relevant business or stakeholder requirements."
+              },
+              "automation": {
+                "heading": "Automated Testing and Efficiency Enhancement",
+                "description": "Developed automated tests using Cypress and TestCafe, and created Laravel Seeders to improve the efficiency of the QA and development processes."
+              },
+              "tools": {
+                "heading": "Development Tools",
+                "description": "Employed a range of software tools, including Paw, Jenkins, JIRA, GitHub, Percy, Sequel Pro, and TablePlus, to ensure code changes were tested thoroughly and effectively."
+              },
+              "demos": {
+                "heading": "Product Demos",
+                "description": "Regularly presented product changes to the wider company during fortnightly Product Demo sessions, facilitating transparency and cross-team collaboration."
+              },
+              "service_desk": {
+                "heading": "Service Desk Management",
+                "description": "Managed the company Service Desk by handling enquiries and issues reported by internal teams, investigating root causes, and collaborating with the Engineering team to develop effective solutions."
+              }
+            },
+            "polaroids": {
+              "banter": {
+                "img_alt": "A screenshot of a conversation between myself, another QA and a developer, where the developer praises me as the best backend QA",
+                "caption": "Some classic QA & Dev banter 🤣"
+              }
+            }
+          },
+          "senior_customer_happiness_associate": {
+            "title": "Senior Customer Happiness Associate",
+            "start_date": "Jan 2018",
+            "end_date": "Jan 2019",
+            "responsibilities": {
+              "escalations": {
+                "heading": "Handling escalations",
+                "description": "Handling escalated customer complaints as well as assisting regular customer enquiries during busy periods."
+              },
+              "mentoring": {
+                "heading": "Training and Mentoring",
+                "description": "Training and managing new starters to ensure a smooth onboarding process."
+              },
+              "monitoring": {
+                "heading": "Monitoring",
+                "description": "Monitoring the customer database for suspicious user activity and handling fraudulent cases, such as chargebacks."
+              },
+              "collaboration": {
+                "heading": "Collaboration",
+                "description": "Engaging in regular meetings with other departments, including product design and marketing, to formulate wider business goals and to feedback information to the customer support team."
+              },
+              "reporting": {
+                "heading": "Reporting",
+                "description": "Compiling reports and presentations for weekly team meetings."
+              }
+            },
+            "polaroids": {
+              "christmas_social": {
+                "img_alt": "A photograph of Win San Pang with Customer Happiness team colleagues at a Christmas social night out",
+                "caption": "Getting in the Chrismas spirit with fellow Customer Happiness colleagues 🤶🎅️"
+              }
+            }
+          },
+          "customer_happiness_associate": {
+            "title": "Customer Happiness Associate",
+            "start_date": "Apr 2017",
+            "end_date": "Jan 2018",
+            "responsibilities": {
+              "customer_service": {
+                "heading": "Helping customers",
+                "description": "Providing top quality, professional customer service and resolving customer enquiries and complaints via phone, email (Zendesk) and social media platforms."
+              },
+              "targets": {
+                "heading": "Hitting targets",
+                "description": "Consistently exceeded KPIs including customer satisfaction, call duration and cases handled."
+              },
+              "collaboration": {
+                "heading": "Collaboration",
+                "description": "Working together with various departments, including finance and account management, to resolve customer issues."
+              }
+            },
+            "polaroids": {
+              "positive_feedback": {
+                "img_alt": "A screenshot of four positive feedback responses I received from JustPark customers",
+                "caption": "Lovely feedback I received from happy JustPark customers 🥰"
+              }
+            }
+          }
+        }
+      },
+      "ofcom": {
+        "company_name": "Ofcom 📺",
+        "summary": "I worked at Ofcom as a Consumer Contact Associate, where I gained extensive knowledge of telecom and broadcast-related rules and regulations and further enhanced my professionalism in handling customer enquiries.",
+        "roles": {
+          "consumer_contact_associate": {
+            "title": "Consumer Contact Associate",
+            "start_date": "June 2015",
+            "end_date": "Dec 2016",
+            "responsibilities": {
+              "customer_service": {
+                "heading": "Professional Customer Service",
+                "description": "Providing high quality, professional customer service to consumers’ telecoms and broadcast-related enquiries and complaints over the phone."
+              },
+              "targets": {
+                "heading": "Hitting Targets",
+                "description": "Consistently met KPIs including quality assessment target for compiled case records and call handling quality standards for both call duration and customer satisfaction."
+              },
+              "collaboration": {
+                "heading": "Team Collaboration",
+                "description": "Liaising with specialist policy and investigations teams within Ofcom, working with these departments where necessary to resolve consumer enquiries."
+              }
+            },
+            "polaroids": {
+              "christmas": {
+                "img_alt": "A photograph of my printed picture hung up as an ornament on a Christmas tree",
+                "caption": "Featuring on the Ofcom Christmas tree for my love of Lego & Pokemon 🎄"
+              }
+            }
+          }
+        }
+      },
+      "handy": {
+        "company_name": "Handy 🧹",
+        "summary": "I started at Handy as a Customer Service Agent and quickly progressed to the role of Customer Service Shift Leader. This was my first job after graduating from university and I learned a lot about customer service, leadership, and teamwork.",
+        "roles": {
+          "customer_service_shift_leader": {
+            "title": "Customer Service Shift Leader",
+            "start_date": "Oct 2014",
+            "end_date": "May 2015",
+            "responsibilities": {
+              "customer_service": {
+                "heading": "Quality Customer Service",
+                "description": "Providing exemplary customer service over the phone and via email."
+              },
+              "leadership": {
+                "heading": "Leadership Skills",
+                "description": "Promoted to the role of Shift Leader, with responsibilities including coordinating the customer service team, handling escalations, training new team members, and interviewing applicants."
+              },
+              "awards": {
+                "heading": "Team Awards",
+                "description": "Was awarded the titles: 'Above and Beyond', 'Best Team Player' and 'Employee of the Week'."
+              }
+            },
+            "polaroids": {
+              "halloween_social": {
+                "img_alt": "A photograph of Win San Pang with Handy colleagues at a Halloween team social",
+                "caption": "Dressed up as a Vampire for the Handy Halloween Party 🧛"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio 📁",
+    "subtitle": "Here you can find some projects I've participated in and the websites that have been subsequently built.",
+    "the_cerberus_affair": {
+      "title": "The Cerberus Affair",
+      "description_1": "The Cerberus Affair website was built bespoke to complement my neighbour's book launch in May 2020 and provide an interactive and engaging experience to potential readers and fans, allowing them to find out a bit more about the story, characters and the author. I was solely responsible for the entire creation of the website, from the design through to building and deploying it to production.",
+      "description_2": "The website was built using React and my inspiration for the design came from reading the book as research for the project. This ensured that the website would be an accurate representation of the story and enhance readers' interest in the book. You can view the website and find out more about The Cerberus Affair by visiting:",
+      "img_alt_1": "The Cerberus Affair website homepage",
+      "img_alt_2": "The Cerberus Affair website read the book page",
+      "img_alt_3": "The Cerberus Affair website about page",
+      "skills": {
+        "react": "React",
+        "hooks": "React Hooks",
+        "scss": "SCSS",
+        "photoshop": "Photoshop"
+      }
+    },
+    "connected_learning": {
+      "title": "Connected Learning",
+      "description_1": "Connected Learning was born out of the #UKvsCOVID 2020 Hackathon, which was organised by Women Driven Development to help tackle some of the core problems created by the impact of coronavirus and the national lockdown. The education sector was one of many hit by lockdown restrictions, as it meant traditional learning in the classroom was no longer possible and the pressure shifted onto parents, who were overwhelmed by the range of online learning resources, not knowing where to start or how to use them.",
+      "description_2": "On the Hackthon, I took the lead in forming the ConnectEducate team and together, with a group of eight other women, we created Connected Learning, a user-friendly online learning platform designed to provide parents with a focused platform of resources and, most importantly, make it possible for them to connect with vetted mentors who could support their children's educational needs. The platform was built using React and Ruby on Rails.",
+      "img_alt_1": "The Connected Learning website homepage",
+      "img_alt_2": "The Connected Learning website resources page",
+      "img_alt_3": "The Connected Learning website about page",
+      "skills": {
+        "react": "React",
+        "ruby": "Ruby on Rails",
+        "scss": "SCSS",
+        "photoshop": "Photoshop"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact 📱",
+    "subtitle": "Please feel free to get in touch with me via the contact details below. Whether it's a job opportunity, a collaboration project, or even just some general feedback about my website, I'd love to hear from you!",
+    "name": "Win San Pang",
+    "role_title": "Software Engineer",
+    "phone": {
+      "icon_alt": "An illustrated telephone icon"
+    },
+    "email": {
+      "icon_alt": "An illustrated envelope icon"
+    },
+    "linkedin": {
+      "icon_alt": "The LinkedIn logo"
+    },
+    "github": {
+      "icon_alt": "The GitHub logo"
+    },
+    "instagram": {
+      "icon_alt": "The Instagram logo"
+    }
+  },
+  "footer": {
+    "svg_repo_credit": "Vectors and icons by <svgrepo>SVG Repo</svgrepo> 🧠",
+    "made_with_love": "Made with ❤️ by Win San Pang"
   }
 }

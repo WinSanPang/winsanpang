@@ -1,20 +1,17 @@
+import { useTranslations } from "next-intl"
+
 import Hero from "@/src/app/[locale]/ui/components/hero"
 import Mindmap from "@/src/app/[locale]/ui/components/mindmap/mindmap"
+import SvgRepoCredit from "@/src/app/[locale]/ui/components/svg-repo-credit"
 
 export default function Page() {
+  const t = useTranslations("skills")
+
   return (
     <div>
-      <Hero
-        title="Skills 💻"
-        subtitle="Here you can see my current skillset in the form of a mindmap, broken down into Programming Languages, General and Creative"
-      />
+      <Hero title={t("title")} subtitle={t("subtitle")} />
       <Mindmap />
-      <p className="text-center text-gray-500 mt-4 text-xs">
-        Vectors and icons by{" "}
-        <a href="https://www.svgrepo.com" target="_blank">
-          SVG Repo
-        </a>
-      </p>
+      <SvgRepoCredit />
     </div>
   )
 }

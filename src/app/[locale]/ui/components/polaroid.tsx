@@ -22,5 +22,3 @@ export default function Polaroid({ img, alt, caption }: Props) {
     </div>
   )
 }
-
-export type { Props as PolaroidProps }
