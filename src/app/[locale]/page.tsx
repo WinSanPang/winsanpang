@@ -7,6 +7,7 @@ import "@/src/app/[locale]/ui/global.css"
 import { lobster } from "@/src/app/[locale]/ui/fonts"
 import Hero from "@/src/app/[locale]/ui/components/hero"
 import Carousel from "@/src/app/[locale]/ui/components/carousel"
+import CarbonBadge from "@/src/app/[locale]/ui/components/carbon-badge"
 
 export default function Page() {
   const t = useTranslations("home")
@@ -40,6 +41,7 @@ export default function Page() {
         </p>
         <Carousel />
       </div>
+      <CarbonBadge />
     </>
   )
 }
