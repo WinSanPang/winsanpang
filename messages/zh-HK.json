@@ -366,7 +366,7 @@
     "the_cerberus_affair": {
       "title": "The Cerberus Affair",
       "description_1": "《The Cerberus Affair》嘅網站係為咗配合我鄰居喺2020年5月嘅書籍發布會而度身打造，目標係畀潛在讀者同粉絲一個互動同有趣嘅體驗，令佢哋可以了解更多關於故事、人物同作者嘅資料。我全程負責網站嘅創建，由設計到建設，再到部署上線。",
-      "description_2": "網站係用React建設，而我嘅設計靈感係來自閱讀呢本書，幫助我做好呢個項目嘅研究。咁樣可以確保網站準確反映故事，提升讀者對書本嘅興趣。你可以透過以下網址瀏覽網站同了解更多關於《The Cerberus Affai》嘅資訊：",
+      "description_2": "網站係用React建設，而我嘅設計靈感係來自閱讀呢本書，幫助我做好呢個項目嘅研究。咁樣可以確保網站準確反映故事，提升讀者對書本嘅興趣。你可以透過以下網址瀏覽網站同了解更多關於《The Cerberus Affair》嘅資訊：",
       "img_alt_1": "《The Cerberus Affair》網站首頁",
       "img_alt_2": "《The Cerberus Affair》網站閱讀書籍頁面",
       "img_alt_3": "《The Cerberus Affair》網站關於頁面",
@@ -394,7 +394,7 @@
   },
   "contact": {
     "title": "聯絡 📱",
-    "subtitle": "你可以透過以下嘅聯絡資料搵我，唔論係關於工作機會、合作項目，定係對我網站有啲意見，我都好樂意收到你嘅訊息！",
+    "subtitle": "你可以透過以下嘅聯絡資料搵我 - 無論係關於工作機會、合作項目，定係對我網站有啲意見，我都好歡迎你聯絡我！",
     "name": "Win San Pang",
     "role_title": "軟件工程師",
     "photo_alt": "一張我對住鏡頭微笑嘅照片",
@@ -415,7 +415,7 @@
     }
   },
   "footer": {
-    "svg_repo_credit": "Vectors and icons by <svgrepo>SVG Repo</svgrepo> 🧠",
+    "svg_repo_credit": "圖示由<svgrepo>SVG Repo</svgrepo>提供 🧠",
     "made_with_love": "Made with ❤️ by Win San Pang"
   }
 }
