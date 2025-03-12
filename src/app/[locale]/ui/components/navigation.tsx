@@ -27,7 +27,7 @@ export default function Navigation() {
           width={100}
           height={100}
           className="size-10 rounded-full"
-          alt="A photograph of Win San Pang"
+          alt={t("photo_alt")}
         />
       </Navbar.Brand>
       <Navbar.Toggle />

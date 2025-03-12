@@ -1,60 +1,60 @@
 {
   "navigation": {
-    "home": "Home",
-    "skills": "Skills",
-    "work": "Work",
-    "education": "Education",
-    "portfolio": "Portfolio",
-    "contact": "Contact",
-    "photo_alt": "A photograph of me smiling at the camera"
+    "home": "主頁",
+    "skills": "專長",
+    "work": "工作經驗",
+    "education": "學歷",
+    "portfolio": "作品集",
+    "contact": "聯絡",
+    "photo_alt": "一張我對住鏡頭微笑嘅照片"
   },
   "home": {
-    "title": "Hi, I'm Win 👋",
-    "subtitle": "Hello, my name is Win San Pang and welcome to my personal website 👋 Please feel free to navigate your way around and find out more about my career as a Software Engineer, educational experience, skills, portfolio and personal interests. If you'd prefer to just take a look at my CV, click <cv>here</cv> to view it in PDF format.",
+    "title": "你好啊, 我係阿珊 👋",
+    "subtitle": "你好，我叫彭詠珊，歡迎嚟到我嘅個人網站 👋 歡迎你隨便瀏覽，了解下我做軟件工程師嘅經歷、學歷、專長、作品集同埋興趣。如果你想即刻睇我嘅履歷，click <cv>呢度</cv> 就可以下載PDF格式啦!",
     "carousel_section": {
-      "title": "Who am I?",
-      "subtitle": "Click through the carousel to find out more about me!",
+      "title": "我係邊個?",
+      "subtitle": "Click下一步可以了解更多關於我嘅野!",
       "slides": {
         "software_engineer": {
-          "title": "I'm a Software Engineer 🧑🏻‍💻",
-          "content_1": "In 2017, whilst working at a tech startup named JustPark, I took an interest in web development and software engineering. It started off with learning HTML, tweaking some CSS here or there and practising bits of SQL in my spare time.",
-          "content_2": "By 2019, I began taking it more seriously and was doing React courses and attending workshops. In Jan 2020, I began working as a Junior Frontend Engineer and have progressed to a Software Engineer since.",
-          "img_alt": "A photo of me sitting on the Ngong Ping 360 cable car ride in Hong Kong, with the mountains in the background"
+          "title": "我係軟件工程師 🧑🏻‍💻",
+          "content_1": "喺2017年，我喺一間叫JustPark嘅科技初創公司工作時，對網頁開發同軟件工程產生咗興趣。當時係由學習HTML開始，間中調整啲CSS，仲有練下SQL。",
+          "content_2": "到咗2019年，我開始更加認真，參加React課程同埋講座。到2020年1月，我開始做初級前端工程師，之後升職做咗軟件工程師。",
+          "img_alt": "一張我坐喺香港昂坪360纜車上，背景係山景嘅相"
         },
         "wife": {
-          "title": "I'm a Wife 🥰",
-          "content_1": "I matched with Adél on Tinder on the 7th August 2018 after spending almost a year on dating apps and on the verge of giving it up. Luckily, I didn't and I matched with the love of my life. We talked for hours on end, met up for several dates, and moved in together after 7 months of dating.",
-          "content_2": "In January 2023 we got engaged whilst on holiday in the Thailand (she beat me to proposing first) and we got married on the 7th August 2023, on our 5th year anniversary. During our time together so far, we've gone on countless amazing holidays, bought our own home, added a gorgeous little dog to our family unit, supported each other through difficult times, and encouraged each other to grow. I'm so grateful to have her in my life and I can't wait to see what the future holds for us.",
-          "img_alt": "A photo of me and Adél, dressed up for our wedding dinner and looking at each other"
+          "title": "我係人妻 🥰",
+          "content_1": "2018年8月7日，我喺Tinder同Adél開始認識對方。當時我已經用咗交友App差唔多一年，差啲想放棄。但好彩最後我冇放棄到，因為我遇到我生命中最愛嘅人。我哋會傾電話傾通宵, 週圍去拍拖同玩。我哋拍拖七個月之後就搬埋一齊住。",
+          "content_2": "2023年1月，我哋去泰國旅行嗰陣訂婚（佢比我快一步求婚🤣），之後喺2023年8月7日，亦即係我哋拍拖五周年紀念日結婚. 喺呢幾年入面，我哋一齊週圍去旅行，買屋，養咗隻好可愛嘅狗仔，組織咗我哋嘅幸福小家庭, 互相支持對方渡過難關，亦鼓勵大家一齊成長。我真係好感恩有佢喺我生命入面，亦都好期待我哋嘅將來！",
+          "img_alt": "一張我同Adél為結婚晚飯扮靚靚對望對方嘅相"
         },
         "dog_mum": {
-          "title": "I'm a Dog Mum 🐶",
-          "content_1": "In 2022, we added an adorable little Labrador puppy to our family and named her Donut. We first met Donut in July when she was just a teeny tiny 3 weeks old puppy. We fell in love with her and knew she was our fur baby. The puppy stages were tough - lots of training, cleaning up messes, and sleepless nights. But it was all worth it. ",
-          "content_2": "She's grown to become a very well-behaved, loving, playful and happy-go-lucky dog who loves cuddles, food, and playing all day every day. She's brought so much joy, fun and love into our lives. In 2024, we took her with us on a Europe road trip and it was so special to see her fascinated by everything we saw and did. She's our little adventurer and we can't wait to take her on more trips with us.",
-          "img_alt": "A photo of me holding Donut's paw and smiling at her on a beach in Croatia"
+          "title": "我係狗媽媽 🐶",
+          "content_1": "喺2022年，我哋將一隻超得意嘅拉布拉多犬加入咗我哋嘅家庭 — 佢叫Donut。第一次見Donut係喺7月，佢嗰陣時淨係得3個星期大，仲係一隻好細細隻嘅狗仔。 我哋第一眼已經即刻愛上佢，並知道佢將會係我哋嘅心肝寶貝。Donut幼犬嗰段時間我哋都過得好辛苦 — 我哋用咗好多心機同時間去訓練同栽培佢，又要幫佢清理大小便, 佢有時仲會成晚喊搞到我哋冇覺好瞓。但係一切都真係值得嘅。",
+          "content_2": "而家Donut已經長大成為一隻好聽話、充滿愛心、鍾意玩同好活潑開朗嘅狗仔。Donut最鍾意人哋攬住佢、超鍾意食嘢，仲可以日日玩到唔停。佢帶咗好多歡樂同愛畀我哋。喺2024年，我哋第一次帶佢同我哋一齊去歐洲自駕旅行，見到佢對住我哋所見所做嘅嘢都好興奮，實在好難忘。佢係我哋嘅小冒險家，我哋好期待可以再帶佢去更多地方旅行。",
+          "img_alt": "一張我捉住Donut隻手仔，笑住望住佢，喺克羅地亞嘅沙灘上"
         },
         "travel": {
-          "title": "I love to travel ✈️",
-          "content_1": "As a child, I travelled to Hong Kong every 2 - 3 years to visit family. I adore the food and culture there, but above all I'm amazed by the country's landscape - that amongst all the skyscrapers you can still see the backdrop of mountains and nature. I've also enjoyed exploring other parts of Asia, including the Maldives, Thailand, South Korea, Singapore, Taiwan and Japan.",
-          "content_2": "Over the years, I've also seen more of Europe, including Portugal, Spain, Greece and Iceland. In 2024, my wife and I did our first Europe road trip together so we could bring our pup on holiday with us. We drove from the UK to Germany, Italy, Croatia, Hungary, and Austria. We absolutely loved being in the car together, watching the beautiful sights of nature along the way and listening to our favourite songs. I've found that travelling has really expanded my horizons and understanding of different cultures, and with each new destination I discover new flavours, experiences and sensations that makes our world beautifully colourful.",
-          "img_alt": "A photo of me sitting on a swing on the beach in the Maldives"
+          "title": "我鍾意去旅行 ✈️",
+          "content_1": "細個嗰陣，我每兩三年就會去香港探屋企人。我好鍾意香港嘅美食同文化，但最令我著迷嘅係嗰度嘅景色 — 喺高樓大廈之間，仲可以見到後面嘅山同大自然。我仲好享受去其他亞洲國家旅行，例如馬爾代夫、泰國、韓國、新加坡、台灣同日本。",
+          "content_2": "呢幾年，我亦都去咗歐洲其他國家，例如葡萄牙、西班牙、希臘同冰島。2024年，我同太太第一次一齊自駕遊歐洲，因為咁樣可以帶埋我哋隻狗仔去旅行。我哋由英國出發，去到德國、意大利、克羅地亞、匈牙利同奧地利。我哋好鍾意一齊喺車入面，睇住沿途靚景，聽住我哋最鍾意嘅歌。我發現旅行真係擴闊咗我自己嘅眼界，令我對唔同文化有更深嘅認識。每去一個新地方，我都會嘗試新嘅味道、新嘅體驗同感受，令我發現呢個世界有幾多姿多彩。",
+          "img_alt": "一張我喺馬爾代夫坐喺海灘鞦韆上嘅相"
         },
         "geek": {
-          "title": "I'm a Geek 🤓",
-          "content_1": "Growing up, I felt like being geeky was seen as 'uncool', but nowadays I'm proud to embrace my inner Geek. I love reading - my favourite books being the CHERUB series by Robert Muchamore, and I was lucky enough to meet him at a book signing event in June 2016. As an adult I'm still a big fan and have enjoyed reading his latest Robin Hood series. Other favourite reads in my collection include Harry Potter and The Hunger Games.",
-          "content_2": "I also enjoy playing video games - some of my top favourites being Pokémon Yellow, Let's Go Pikachu, Hogwarts Legacy, The Sims 3, and Super Mario Odyssey. In 2019, I started playing Dungeons and Dragons with some colleagues and it turned out that escaping to a fantasy land was a great way to stay sane during lockdown. We've continued to play since and it's always a fantastic laugh and I love how creative and silly we can be. I'm also a huge fan of building Lego - the biggest challenge being a Lego Spider-Man that took three days - and playing board games.",
-          "img_alt": "A photo of me at the Warner Bros. Studio Tour in London, posing in front of a sword in the Gringotts section"
+          "title": "我係發燒友 🤓",
+          "content_1": "細個嗰陣，成日覺得做發燒友好羅, 驚畀人笑，但依家就唔同啦，反而覺得做返自己，接受自己鍾意嘅嘢，係件好開心嘅事。我鍾意睇書，最鍾意嘅書係Robert Muchamore寫嘅《CHERUB系列》。我仲好幸運可以喺2016年6月去佢嘅簽書會見到佢真人。到而家，我都仲係佢嘅忠實粉絲，亦都好最鍾佢最新嘅《Robin Hood系列》。我其他珍藏嘅書仲有《Harry Potter》同《Hunger Games》。",
+          "content_2": "我亦都好鍾意打機，最鍾意嘅遊戲包括《Pokémon Yellow》、《Let's Go Pikachu》、《Hogwarts Legacy》、《The Sims 3》同《Super Mario Odyssey》。2019年，我開始同一班同事玩《龍與地下城》（Dungeons and Dragons），發現透過呢個奇幻世界，真係可以帶俾我哋好多快樂同創意，特別係疫情封城期間，係一個好有趣同有意義嘅活動。我哋而家都仲keep住玩，每次都笑到停唔到，玩到好癲。我仲係Lego超級粉絲，砌過最大件作品係一隻用咗三日先砌完嘅Lego Spider-Man。另外，我都鍾意玩board games。",
+          "img_alt": "一張我喺倫敦Warner Bros. Studio Tour，喺古靈閣入面一把劍前面擺pose嘅相"
         }
       }
     }
   },
   "skills": {
-    "title": "Skills 💻",
-    "subtitle": "Here you can see my current skillset in the form of a mindmap, broken down into Programming Languages, General and Creative",
+    "title": "專長 💻",
+    "subtitle": "喺呢度，你可以睇到我而家嘅專長組合，以思維導圖形式呈現，分為程式語言、一般技能同創意技能",
     "mindmap": {
-      "brain_icon_alt": "An illustration icon of a brain's side profile",
+      "brain_icon_alt": "腦部側面圖示",
       "programming_languages": {
-        "title": "Programming Languages",
+        "title": "程式語言",
         "react": "React",
         "typescript": "TypeScript",
         "javascript": "JavaScript",
@@ -68,27 +68,27 @@
         "ruby": "Ruby on Rails"
       },
       "general": {
-        "title": "General",
-        "problem_solving": "Problem solving",
-        "multi_tasking": "Multi-tasking",
-        "communication": "Communication",
-        "teamwork": "Teamwork",
-        "attention_to_detail": "Attention to detail",
-        "leadership": "Leadership",
-        "cantonese": "Cantonese",
-        "customer_service": "Customer service"
+        "title": "一般技能",
+        "problem_solving": "解難",
+        "multi_tasking": "多工處理",
+        "communication": "溝通",
+        "teamwork": " 團隊合作",
+        "attention_to_detail": "仔細",
+        "leadership": "領導",
+        "cantonese": "廣東話",
+        "customer_service": "客戶服務"
       },
       "creative": {
-        "title": "Creative",
+        "title": "創意技能",
         "imovie": "iMovie",
         "photoshop": "Photoshop",
-        "photography": "Photography",
-        "creative_writing": "Creative writing"
+        "photography": "攝影",
+        "creative_writing": "創意寫作"
       }
     }
   },
   "work": {
-    "title": "Work 🧑🏻‍💻",
+    "title": "工作經驗 🧑🏻‍💻",
     "subtitle": "I'm an accomplished Full Stack Software Engineer with a strong emphasis on frontend development. I have 5+ years experience in creating high-quality user interfaces that enhance conversion rates and user engagement. I transitioned from customer service background to web development, demonstrating commitment, self-motivation, and initiative. Below you'll find a timeline of my career journey so far - feel free to scroll down or use the buttons to navigate the sections :)",
     "timeline": {
       "butternut_box": {
@@ -361,15 +361,15 @@
     }
   },
   "portfolio": {
-    "title": "Portfolio 📁",
-    "subtitle": "Here you can find some projects I've participated in and the websites that have been subsequently built.",
+    "title": "作品集 📁",
+    "subtitle": "喺呢度，你可以睇到我參與過嘅項目，同埋其後建立嘅網站。",
     "the_cerberus_affair": {
       "title": "The Cerberus Affair",
-      "description_1": "The Cerberus Affair website was built bespoke to complement my neighbour's book launch in May 2020 and provide an interactive and engaging experience to potential readers and fans, allowing them to find out a bit more about the story, characters and the author. I was solely responsible for the entire creation of the website, from the design through to building and deploying it to production.",
-      "description_2": "The website was built using React and my inspiration for the design came from reading the book as research for the project. This ensured that the website would be an accurate representation of the story and enhance readers' interest in the book. You can view the website and find out more about The Cerberus Affair by visiting:",
-      "img_alt_1": "The Cerberus Affair website homepage",
-      "img_alt_2": "The Cerberus Affair website read the book page",
-      "img_alt_3": "The Cerberus Affair website about page",
+      "description_1": "《The Cerberus Affair》嘅網站係為咗配合我鄰居喺2020年5月嘅書籍發布會而度身打造，目標係畀潛在讀者同粉絲一個互動同有趣嘅體驗，令佢哋可以了解更多關於故事、人物同作者嘅資料。我全程負責網站嘅創建，由設計到建設，再到部署上線。",
+      "description_2": "網站係用React建設，而我嘅設計靈感係來自閱讀呢本書，幫助我做好呢個項目嘅研究。咁樣可以確保網站準確反映故事，提升讀者對書本嘅興趣。你可以透過以下網址瀏覽網站同了解更多關於《The Cerberus Affai》嘅資訊：",
+      "img_alt_1": "《The Cerberus Affair》網站首頁",
+      "img_alt_2": "《The Cerberus Affair》網站閱讀書籍頁面",
+      "img_alt_3": "《The Cerberus Affair》網站關於頁面",
       "skills": {
         "react": "React",
         "hooks": "React Hooks",
@@ -379,11 +379,11 @@
     },
     "connected_learning": {
       "title": "Connected Learning",
-      "description_1": "Connected Learning was born out of the #UKvsCOVID 2020 Hackathon, which was organised by Women Driven Development to help tackle some of the core problems created by the impact of coronavirus and the national lockdown. The education sector was one of many hit by lockdown restrictions, as it meant traditional learning in the classroom was no longer possible and the pressure shifted onto parents, who were overwhelmed by the range of online learning resources, not knowing where to start or how to use them.",
-      "description_2": "On the Hackthon, I took the lead in forming the ConnectEducate team and together, with a group of eight other women, we created Connected Learning, a user-friendly online learning platform designed to provide parents with a focused platform of resources and, most importantly, make it possible for them to connect with vetted mentors who could support their children's educational needs. The platform was built using React and Ruby on Rails.",
-      "img_alt_1": "The Connected Learning website homepage",
-      "img_alt_2": "The Connected Learning website resources page",
-      "img_alt_3": "The Connected Learning website about page",
+      "description_1": "Connected Learning 係由 #UKvsCOVID 2020 黑客松而誕生，呢個活動係由 Women Driven Development 主辦，目標係幫助解決冠狀病毒同全國封城帶來嘅一些核心問題。教育行業係其中一個受封城限制影響嘅行業，因為傳統嘅課堂學習唔能夠進行，壓力轉移到父母身上，佢哋對於唔同嘅網上學習資源感到好困惑，唔知道從邊度開始或者點樣使用。",
+      "description_2": "喺呢個黑客松入面，我領導同組成咗 ConnectEducate 團隊，同其他八位女士們一齊創造咗 Connected Learning。呢個平台係一個簡單易用嘅網上學習平台，喺為父母提供集中嘅資源平台，最重要嘅係可以幫佢哋同經過認證嘅導師建立聯繫，支援佢哋小朋友嘅教育需求。呢個平台係用 React 同 Ruby on Rails 建造嘅。.",
+      "img_alt_1": "Connected Learning 網站首頁",
+      "img_alt_2": "Connected Learning 網站資源頁",
+      "img_alt_3": "Connected Learning 網站關於頁面e",
       "skills": {
         "react": "React",
         "ruby": "Ruby on Rails",
@@ -393,29 +393,29 @@
     }
   },
   "contact": {
-    "title": "Contact 📱",
-    "subtitle": "Please feel free to get in touch with me via the contact details below. Whether it's a job opportunity, a collaboration project, or even just some general feedback about my website, I'd love to hear from you!",
+    "title": "聯絡 📱",
+    "subtitle": "你可以透過以下嘅聯絡資料搵我，唔論係關於工作機會、合作項目，定係對我網站有啲意見，我都好樂意收到你嘅訊息！",
     "name": "Win San Pang",
-    "role_title": "Software Engineer",
-    "photo_alt": "A photograph of me smiling at the camera",
+    "role_title": "軟件工程師",
+    "photo_alt": "一張我對住鏡頭微笑嘅照片",
     "phone": {
-      "icon_alt": "An illustrated telephone icon"
+      "icon_alt": "電話圖示"
     },
     "email": {
-      "icon_alt": "An illustrated envelope icon"
+      "icon_alt": "信封圖示"
     },
     "linkedin": {
-      "icon_alt": "The LinkedIn logo"
+      "icon_alt": "LinkedIn 標誌"
     },
     "github": {
-      "icon_alt": "The GitHub logo"
+      "icon_alt": "GitHub 標誌"
     },
     "instagram": {
-      "icon_alt": "The Instagram logo"
+      "icon_alt": "Instagram 標誌"
     }
   },
   "footer": {
     "svg_repo_credit": "Vectors and icons by <svgrepo>SVG Repo</svgrepo> 🧠",
-    "made_with_love": "Built using NextJS and Tailwind CSS. Made with ❤️"
+    "made_with_love": "Made with ❤️ by Win San Pang"
   }
 }

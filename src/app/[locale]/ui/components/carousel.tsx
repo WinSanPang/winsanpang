@@ -11,7 +11,7 @@ export default function HomepageCarousel() {
   const carouselSlides = [
     {
       key: "software_engineer",
-      img: "/profile.jpeg",
+      img: "software-engineer.jpg",
     },
     {
       key: "wife",
@@ -23,11 +23,11 @@ export default function HomepageCarousel() {
     },
     {
       key: "travel",
-      img: "dog-mum.jpg",
+      img: "travel.jpg",
     },
     {
       key: "geek",
-      img: "dog-mum.jpg",
+      img: "geek.jpg",
     },
   ]
 

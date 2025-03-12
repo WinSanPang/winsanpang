@@ -52,7 +52,7 @@ export default function Mindmap() {
         <h3
           className={`${lobster.className} text-center text-4xl text-indigo-800 font-bold mt-8 [text-shadow:_-1.0px_1.0px_2.0px_white,1.0px_1.0px_2.0px_white,1.0px_-1.0px_0_white,-1.0px_-1.0px_0_white]`}
         >
-          General
+          {t("general.title")}
         </h3>
         {generalSkills.map(
           ({ key, mainPosition, pillPosition, linePosition, colour }) => (
@@ -81,7 +81,7 @@ export default function Mindmap() {
         <h3
           className={`${lobster.className} text-center text-4xl text-purple-800 font-bold mt-8 [text-shadow:_-1.0px_1.0px_2.0px_white,1.0px_1.0px_2.0px_white,1.0px_-1.0px_0_white,-1.0px_-1.0px_0_white]`}
         >
-          Creative
+          {t("creative.title")}
         </h3>
         {creativeSkills.map(
           ({ key, mainPosition, pillPosition, linePosition, colour }) => (

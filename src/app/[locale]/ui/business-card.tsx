@@ -60,14 +60,16 @@ export default function BusinessCard() {
             width={150}
             height={150}
             className="rounded-full m-auto"
-            alt="A photograph of Win San Pang"
+            alt={t("photo_alt")}
           />
           <h3
             className={`${lobster.className} text-3xl text-white md:text-6xl md:leading-normal my-4`}
           >
             {t("name")}
           </h3>
-          <p className="text-white my-2 text-xl">{t("role_title")}</p>
+          <p className="text-white my-2 text-xl md:text-2xl font-bold">
+            {t("role_title")}
+          </p>
         </div>
         <div className="bg-white w-[2px] h-full m-auto hidden md:block" />
         <div className="w-full text-center md:self-center">
