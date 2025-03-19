@@ -10,28 +10,28 @@
   },
   "home": {
     "title": "你好啊, 我係阿珊 👋",
-    "subtitle": "你好，我叫彭詠珊，歡迎嚟到我嘅個人網站 👋 歡迎你隨便瀏覽，了解下我做軟件工程師嘅經歷、學歷、專長、作品集同埋興趣。如果你想即刻睇我嘅履歷，click <cv>呢度</cv> 就可以下載PDF格式啦!",
+    "subtitle": "你好，我叫彭詠珊，歡迎嚟到我嘅個人網站 👋 歡迎你隨便瀏覽，了解下我做 Software Engineer 嘅經歷、學歷、專長、作品集同埋興趣。如果你想即刻睇我嘅履歷，click <cv>呢度</cv> 就可以下載 PDF 格式啦!",
     "carousel_section": {
       "title": "我係邊個?",
-      "subtitle": "Click下一步可以了解更多關於我嘅野!",
+      "subtitle": "Click 下一步可以了解更多關於我嘅野!",
       "slides": {
         "software_engineer": {
-          "title": "我係軟件工程師 🧑🏻‍💻",
-          "content_1": "喺2017年，我喺一間叫JustPark嘅科技初創公司工作時，對網頁開發同軟件工程產生咗興趣。當時係由學習HTML開始，間中調整啲CSS，仲有練下SQL。",
-          "content_2": "到咗2019年，我開始更加認真，參加React課程同埋講座。到2020年1月，我開始做初級前端工程師，之後升職做咗軟件工程師。",
+          "title": "我係Software Engineer 🧑🏻‍💻",
+          "content_1": "喺2017年，我喺一間叫JustPark嘅科技初創公司工作時，對網頁開發同軟件工程產生咗興趣。當時係由學習 HTML 開始，間中調整啲 CSS，仲有練下 SQL。",
+          "content_2": "到咗2019年，我開始更加認真，參加React課程同埋講座。到2020年1月，我開始做 Junior Frontend Engineer，之後升職做咗 Software Engineer。",
           "img_alt": "一張我坐喺香港昂坪360纜車上，背景係山景嘅相"
         },
         "wife": {
           "title": "我係人妻 🥰",
-          "content_1": "2018年8月7日，我喺Tinder同Adél開始認識對方。當時我已經用咗交友App差唔多一年，差啲想放棄。但好彩最後我冇放棄到，因為我遇到我生命中最愛嘅人。我哋會傾電話傾通宵, 週圍去拍拖同玩。我哋拍拖七個月之後就搬埋一齊住。",
+          "content_1": "2018年8月7日，我喺 Tinder 同 Adél 開始認識對方。當時我已經用咗交友App差唔多一年，差啲想放棄。但好彩最後我冇放棄到，因為我遇到我生命中最愛嘅人。我哋會傾電話傾通宵, 週圍去拍拖同玩。我哋拍拖七個月之後就搬埋一齊住。",
           "content_2": "2023年1月，我哋去泰國旅行嗰陣訂婚（佢比我快一步求婚🤣），之後喺2023年8月7日，亦即係我哋拍拖五周年紀念日結婚. 喺呢幾年入面，我哋一齊週圍去旅行，買屋，養咗隻好可愛嘅狗仔，組織咗我哋嘅幸福小家庭, 互相支持對方渡過難關，亦鼓勵大家一齊成長。我真係好感恩有佢喺我生命入面，亦都好期待我哋嘅將來！",
           "img_alt": "一張我同Adél為結婚晚飯扮靚靚對望對方嘅相"
         },
         "dog_mum": {
           "title": "我係狗媽媽 🐶",
-          "content_1": "喺2022年，我哋將一隻超得意嘅拉布拉多犬加入咗我哋嘅家庭 — 佢叫Donut。第一次見Donut係喺7月，佢嗰陣時淨係得3個星期大，仲係一隻好細細隻嘅狗仔。 我哋第一眼已經即刻愛上佢，並知道佢將會係我哋嘅心肝寶貝。Donut幼犬嗰段時間我哋都過得好辛苦 — 我哋用咗好多心機同時間去訓練同栽培佢，又要幫佢清理大小便, 佢有時仲會成晚喊搞到我哋冇覺好瞓。但係一切都真係值得嘅。",
-          "content_2": "而家Donut已經長大成為一隻好聽話、充滿愛心、鍾意玩同好活潑開朗嘅狗仔。Donut最鍾意人哋攬住佢、超鍾意食嘢，仲可以日日玩到唔停。佢帶咗好多歡樂同愛畀我哋。喺2024年，我哋第一次帶佢同我哋一齊去歐洲自駕旅行，見到佢對住我哋所見所做嘅嘢都好興奮，實在好難忘。佢係我哋嘅小冒險家，我哋好期待可以再帶佢去更多地方旅行。",
-          "img_alt": "一張我捉住Donut隻手仔，笑住望住佢，喺克羅地亞嘅沙灘上"
+          "content_1": "喺2022年，我哋將一隻超得意嘅拉布拉多犬加入咗我哋嘅家庭 — 佢叫 Donut。第一次見 Donut 係喺7月，佢嗰陣時淨係得3個星期大，仲係一隻好細細隻嘅狗仔。 我哋第一眼已經即刻愛上佢，並知道佢將會係我哋嘅心肝寶貝。Donut 幼犬嗰段時間我哋都過得好辛苦 — 我哋用咗好多心機同時間去訓練同栽培佢，又要幫佢清理大小便, 佢有時仲會成晚喊搞到我哋冇覺好瞓。但係一切都真係值得嘅。",
+          "content_2": "而家 Donut 已經長大成為一隻好聽話、充滿愛心、鍾意玩同好活潑開朗嘅狗仔。Donut 最鍾意人哋攬住佢、超鍾意食嘢，仲可以日日玩到唔停。佢帶咗好多歡樂同愛畀我哋。喺2024年，我哋第一次帶佢同我哋一齊去歐洲自駕旅行，見到佢對住我哋所見所做嘅嘢都好興奮，實在好難忘。佢係我哋嘅小冒險家，我哋好期待可以再帶佢去更多地方旅行。",
+          "img_alt": "一張我捉住 Donut 隻手仔，笑住望住佢，喺克羅地亞嘅沙灘上"
         },
         "travel": {
           "title": "我鍾意去旅行 ✈️",
@@ -41,9 +41,9 @@
         },
         "geek": {
           "title": "我係發燒友 🤓",
-          "content_1": "細個嗰陣，成日覺得做發燒友好羅, 驚畀人笑，但依家就唔同啦，反而覺得做返自己，接受自己鍾意嘅嘢，係件好開心嘅事。我鍾意睇書，最鍾意嘅書係Robert Muchamore寫嘅《CHERUB系列》。我仲好幸運可以喺2016年6月去佢嘅簽書會見到佢真人。到而家，我都仲係佢嘅忠實粉絲，亦都好最鍾佢最新嘅《Robin Hood系列》。我其他珍藏嘅書仲有《Harry Potter》同《Hunger Games》。",
+          "content_1": "細個嗰陣，成日覺得做發燒友好羅, 驚畀人笑，但依家就唔同啦，反而覺得做返自己，接受自己鍾意嘅嘢，係件好開心嘅事。我鍾意睇書，最鍾意嘅書係 Robert Muchamore 寫嘅《CHERUB 系列》。我仲好幸運可以喺2016年6月去佢嘅簽書會見到佢真人。到而家，我都仲係佢嘅忠實粉絲，亦都好最鍾佢最新嘅《Robin Hood 系列》。我其他珍藏嘅書仲有《Harry Potter》同《Hunger Games》。",
           "content_2": "我亦都好鍾意打機，最鍾意嘅遊戲包括《Pokémon Yellow》、《Let's Go Pikachu》、《Hogwarts Legacy》、《The Sims 3》同《Super Mario Odyssey》。2019年，我開始同一班同事玩《龍與地下城》（Dungeons and Dragons），發現透過呢個奇幻世界，真係可以帶俾我哋好多快樂同創意，特別係疫情封城期間，係一個好有趣同有意義嘅活動。我哋而家都仲keep住玩，每次都笑到停唔到，玩到好癲。我仲係Lego超級粉絲，砌過最大件作品係一隻用咗三日先砌完嘅Lego Spider-Man。另外，我都鍾意玩board games。",
-          "img_alt": "一張我喺倫敦Warner Bros. Studio Tour，喺古靈閣入面一把劍前面擺pose嘅相"
+          "img_alt": "一張我喺倫敦 Warner Bros. Studio Tour，喺古靈閣入面一把劍前面擺 pose 嘅相"
         }
       }
     }
@@ -89,95 +89,91 @@
   },
   "work": {
     "title": "工作經驗 🧑🏻‍💻",
-    "subtitle": "I'm an accomplished Full Stack Software Engineer with a strong emphasis on frontend development. I have 5+ years experience in creating high-quality user interfaces that enhance conversion rates and user engagement. I transitioned from customer service background to web development, demonstrating commitment, self-motivation, and initiative. Below you'll find a timeline of my career journey so far - feel free to scroll down or use the buttons to navigate the sections :)",
+    "subtitle": "我係一位經驗豐富嘅 Full Stack Software Engineer，專注於前端開發。擁有5年以上經驗，致力於打造高質量嘅用戶界面，以提升轉化率同用戶參與度。我由客戶服務行業轉型做網頁開發，展現出我對學習嘅決心、自我推動力同主動性。下面你可以睇到我嘅職業旅程時間線 —— 你可以向下滾動或者用按鈕來瀏覽各個部分 :)",
     "timeline": {
       "butternut_box": {
-        "company_name": "Butternut Box 🐶",
-        "summary": "I joined Butternut Box as a Junior Frontend Engineer and have progressed into a Software Engineer over the course of the years. I have worked primarily on the Acquisition team, responsible for building high-quality UI and UX with the primary goal of supporting the company's international growth and expansion.",
+        "summary": "我以 Junior Frontend Engineer 嘅身份加入 Butternut Box，經過多年發展，晉升為 Software Engineer。主要喺 Acquisition 團隊工作，負責打造高質量嘅 UI 同 UX，重點支援公司嘅國際增長同擴展",
         "roles": {
           "software_engineer": {
-            "title": "Software Engineer",
-            "start_date": "Feb 2021",
-            "end_date": "Present",
+            "start_date": "2021年2月",
+            "end_date": "至今",
             "responsibilities": {
               "acquisition": {
-                "heading": "Acquisition Product Area",
-                "description": "Predominantly worked in the business' Acquisition digital product remit and developed high-quality user interfaces. Utilised AB testing within the product feature development process and achieved a 13% improvement in conversion rates and led to increased sign-ups. Key features include the homepage, public-facing support and landing pages, the entire sign-up and checkout journey, and the refer-a-friend scheme."
+                "heading": "Acquisition 產品範疇",
+                "description": "負責業務嘅 Acquisition 數碼產品範圍，專注開發高質素嘅使用者介面。應用 AB 測試於產品功能開發過程中，成功提升 13% 轉換率，帶動更多用戶註冊。核心功能包括: 網站首頁, 面向公眾嘅支援及登陸頁面, 完整嘅註冊及結帳流程同推薦朋友計劃。"
               },
               "localisation": {
-                "heading": "Localisation Expert",
-                "description": "Supported the company's growth and expansion into five new countries and four languages using tools like Phrase and i18n."
+                "heading": "本地化專家",
+                "description": "幫助公司拓展至五個國家，支援四種語言，使用 Phrase 及 i18n 等工具確保內容翻譯同本地化流程順暢。"
               },
               "blog": {
-                "heading": "Built in-House Blog System",
-                "description": "Built an internal blog system as part of a temporary team with another engineer, later optimising and iterating on it when it became part of the Acquisition product area."
+                "heading": "建立內部 Blog 系統",
+                "description": "參與臨時團隊開發內部 Blog 系統，負責開發及後續優化。之後 Blog 系統被納入 Acquisition 產品範圍，持續改進及維護。"
               },
               "debugging": {
-                "heading": "Debugging and Incident Resolution",
-                "description": "Proactively debugged and resolved issues raised in the internal team incidents channel."
+                "heading": "除錯與事件處理",
+                "description": "主動 Debug 及解決內部團隊 Incident Channel 提報嘅問題 — 例如網站功能失效等。"
               },
               "quality": {
-                "heading": "Code Maintenance and Quality",
-                "description": "Leveraged prior QA experience to establish and refine a formal QA process to ensure features and releases met high standards. Frequently performed code cleanups and refactors, including deleting over 13,000 lines of code in a single Pull Request."
+                "heading": "代碼維護及質量保證",
+                "description": "憑藉 QA 經驗，建立及優化 QA 流程，確保功能及版本符合高標準。進行代碼清理及重構，包括曾經單次 Pull Request 刪除超過 13,000 行代碼。"
               },
               "testing": {
-                "heading": "Test Coverage",
-                "description": "Wrote and maintained automated tests across various frameworks using Cypress, Jest, RSpec, and Cucumber-Rails."
+                "heading": "測試覆蓋率",
+                "description": "撰寫及維護自動化測試，涵蓋 Cypress、Jest、RSpec 及 Cucumber-Rails 等框架。"
               },
               "optimisation": {
-                "heading": "Core Web Vitals Optimisation",
-                "description": "Explored and implemented improvements to drive higher Core Web Vital and Lighthouse scores (25% desktop improvement, 68% mobile improvement), enhancing SEO performance."
+                "heading": "Core Web Vitals 優化",
+                "description": "研究同埋實施改進，令 Core Web Vitals 同 Lighthouse 分數大幅提升（桌面版提升 25%，手機版提升 68%），優化 SEO 表現。"
               },
               "documentation": {
-                "heading": "Wrote Extensive Documentation",
-                "description": "Authored comprehensive documentation, including exploratory spikes, localisation processes, key features, and post-mortems."
+                "heading": "撰寫詳細技術文件",
+                "description": "撰寫各類技術文檔，包括探索性研究（spikes）、本地化流程、關鍵功能及故障復盤（post-mortem）。"
               },
               "knowledge_sharing": {
-                "heading": "Knowledge Sharing",
-                "description": "Ran React learning classes for engineering colleagues looking to upskill their frontend knowledge."
+                "heading": "知識分享",
+                "description": "為工程團隊開設 React 學習課程，幫助同事提升前端開發技能。"
               },
               "project_leadership": {
-                "heading": "Project Leadership",
-                "description": "Led several key projects, including multiple significant rebuilds of the customer sign-up journey."
+                "heading": "項目領導",
+                "description": "領導多個重要項目，包括多次重構客戶註冊流程，"
               },
               "mentorship": {
-                "heading": "Team Leadership and Mentorship",
-                "description": "Acted as team lead during manager’s absence. Mentored junior engineers, providing guidance and support for their professional growth."
+                "heading": "團隊領導及指導",
+                "description": "在經理缺席期間擔任臨時 Team Lead，指導初級工程師，提供專業發展支援。"
               },
               "communication": {
-                "heading": "Communication Skills",
-                "description": "Effectively collaborated with and articulated complex technical solutions to both technical and non- technical audiences, including product managers, designers, and stakeholders."
+                "heading": "溝通技巧",
+                "description": "與技術及非技術團隊有效合作，向產品經理、設計師及持份者清晰表達技術方案。"
               },
               "recruitment": {
-                "heading": "Recruitment",
-                "description": "Participated in the interview process for new candidates, helping to identify top engineering talent."
+                "heading": "招聘參與",
+                "description": "參與招聘流程，幫助篩選及識別優秀工程人才。"
               }
             },
             "polaroids": {
               "summer_party": {
-                "img_alt": "A photograph of me with Butternut Box colleagues at a summer party",
-                "caption": "Having fun with the team at the Summer party 😎"
+                "img_alt": "我同 Butternut Box 嘅同事喺夏日派對玩得好開心嘅相",
+                "caption": "同團隊一齊喺夏日派對玩得好開心 😎"
               },
               "office_day": {
-                "img_alt": "A photograph of my dog, Donut, sitting on a chair in the office",
-                "caption": "My dog, Donut, attending our team meeting at the office 🐶"
+                "img_alt": "我隻狗 Donut 坐喺辦公室張椅度嘅相",
+                "caption": "我隻狗 Donut 出席我哋嘅團隊會議 🐶"
               },
               "christmas_party": {
-                "img_alt": "A photograph of me with Butternut Box colleagues at a Christmas party",
-                "caption": "All dressed up and lookin' glam for the Christmas party ✨"
+                "img_alt": "我同 Butternut Box 嘅同事喺聖誕派對合照",
+                "caption": "盛裝打扮去參加聖誕派對 ✨"
               }
             }
           }
         }
       },
       "justpark": {
-        "company_name": "JustPark 🚗",
         "summary": "I joined JustPark as a Customer Happiness Associate and gradually transitioned into the Engineering team, starting off as an Associate QA Engineer and later progressing into an Associate Frontend Engineer role.",
         "roles": {
           "associate_frontend_engineer": {
-            "title": "Associate Frontend Engineer",
-            "start_date": "Jan 2020",
-            "end_date": "Feb 2021",
+            "start_date": "2020年1月",
+            "end_date": "2021年2月",
             "responsibilities": {
               "development": {
                 "heading": "Application Development and Maintenance",
@@ -201,8 +197,8 @@
           },
           "associate_qa_engineer": {
             "title": "Associate QA Engineer",
-            "start_date": "Jan 2019",
-            "end_date": "Jan 2020",
+            "start_date": "2019年1月",
+            "end_date": "2020年1月",
             "responsibilities": {
               "testing": {
                 "heading": "Comprehensive Testing and Debugging",
@@ -238,8 +234,8 @@
           },
           "senior_customer_happiness_associate": {
             "title": "Senior Customer Happiness Associate",
-            "start_date": "Jan 2018",
-            "end_date": "Jan 2019",
+            "start_date": "2018年1月",
+            "end_date": "2019年1月",
             "responsibilities": {
               "escalations": {
                 "heading": "Handling escalations",
@@ -271,8 +267,8 @@
           },
           "customer_happiness_associate": {
             "title": "Customer Happiness Associate",
-            "start_date": "Apr 2017",
-            "end_date": "Jan 2018",
+            "start_date": "2017年4月",
+            "end_date": "2018年1月",
             "responsibilities": {
               "customer_service": {
                 "heading": "Helping customers",
@@ -297,13 +293,12 @@
         }
       },
       "ofcom": {
-        "company_name": "Ofcom 📺",
         "summary": "I worked at Ofcom as a Consumer Contact Associate, where I gained extensive knowledge of telecom and broadcast-related rules and regulations and further enhanced my professionalism in handling customer enquiries.",
         "roles": {
           "consumer_contact_associate": {
             "title": "Consumer Contact Associate",
-            "start_date": "June 2015",
-            "end_date": "Dec 2016",
+            "start_date": "2015年6月",
+            "end_date": "2016年12月",
             "responsibilities": {
               "customer_service": {
                 "heading": "Professional Customer Service",
@@ -328,13 +323,12 @@
         }
       },
       "handy": {
-        "company_name": "Handy 🧹",
         "summary": "I started at Handy as a Customer Service Agent and quickly progressed to the role of Customer Service Shift Leader. This was my first job after graduating from university and I learned a lot about customer service, leadership, and teamwork.",
         "roles": {
           "customer_service_shift_leader": {
             "title": "Customer Service Shift Leader",
-            "start_date": "Oct 2014",
-            "end_date": "May 2015",
+            "start_date": "2014年10月",
+            "end_date": "2015年5月",
             "responsibilities": {
               "customer_service": {
                 "heading": "Quality Customer Service",
@@ -395,8 +389,6 @@
   "contact": {
     "title": "聯絡 📱",
     "subtitle": "你可以透過以下嘅聯絡資料搵我 - 無論係關於工作機會、合作項目，定係對我網站有啲意見，我都好歡迎你聯絡我！",
-    "name": "Win San Pang",
-    "role_title": "軟件工程師",
     "photo_alt": "一張我對住鏡頭微笑嘅照片",
     "phone": {
       "icon_alt": "電話圖示"
