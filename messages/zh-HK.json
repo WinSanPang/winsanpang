@@ -169,29 +169,29 @@
         }
       },
       "justpark": {
-        "summary": "I joined JustPark as a Customer Happiness Associate and gradually transitioned into the Engineering team, starting off as an Associate QA Engineer and later progressing into an Associate Frontend Engineer role.",
+        "summary": "我喺 JustPark 以客戶服務專員身份加入公司，之後逐步轉型進入工程團隊，首先擔任 Associate QA Engineer，之後晉升為 Associate Frontend Engineer。",
         "roles": {
           "associate_frontend_engineer": {
             "start_date": "2020年1月",
             "end_date": "2021年2月",
             "responsibilities": {
               "development": {
-                "heading": "Application Development and Maintenance",
-                "description": "Developed, enhanced, and maintained the codebase for the company's five core web applications. Contributions included creating UI components, reducers, and full-page flows using React 16 and Redux Toolkit, as well as updating automated test suites with Jest, Enzyme, Mocha, and Cypress."
+                "heading": "應用程式開發與維護",
+                "description": "負責開發、改進同維護公司五個核心網頁應用程式嘅代碼庫，工作包括使用 React 16 同 Redux Toolkit 製作 UI 元件、reducers 及整頁流程，並更新 Jest、Enzyme、Mocha 同 Cypress 嘅自動化測試套件。"
               },
               "collaboration": {
-                "heading": "Cross-Functional Collaboration",
-                "description": "Collaborated with Backend, QA, and Product teams to ensure the timely delivery of high-quality features and product improvements."
+                "heading": "跨職能團隊協作",
+                "description": "同後端、QA 及產品團隊緊密合作，確保高品質功能同產品改進可以準時交付。"
               },
               "tools": {
-                "heading": "Development Tools",
-                "description": "Employed various software and tools, including PhpStorm, Jenkins, JIRA, GitHub, Percy, Zeplin, and Paw, for development and self-testing purposes, ensuring code changes aligned with intended product designs."
+                "heading": "開發工具",
+                "description": "運用多種軟件同工具，包括 PhpStorm、Jenkins、JIRA、GitHub、Percy、Zeplin 同 Paw 進行開發同自測，確保代碼改動符合設計預期。"
               }
             },
             "polaroids": {
               "fav_dev": {
-                "img_alt": "A screenshot of a conversation where a QA colleague very kindly praises my dev work",
-                "caption": "Winning high praise from a QA colleague for my dev work 😍"
+                "img_alt": "一張 QA 同事大讚我工作質素嘅對話嘅截圖",
+                "caption": "QA 同事對我工作質素嘅高度讚賞 😍"
               }
             }
           },
@@ -201,92 +201,92 @@
             "end_date": "2020年1月",
             "responsibilities": {
               "testing": {
-                "heading": "Comprehensive Testing and Debugging",
-                "description": "Executed thorough testing and debugging of product changes across four development teams - Frontend, Backend, Mobile (Apps), and Infrastructure - with a primary focus on Backend code."
+                "heading": "全面測試與偵錯",
+                "description": "負責對產品變更進行徹底測試及偵錯，涵蓋四個開發團隊——Frontend、Backend、Mobile（App）同 Infrastructure，主要專注於 Backend 代碼。"
               },
               "bdd": {
-                "heading": "Behaviour Driven Development (BDD) Implementation",
-                "description": "Applied the Behaviour Driven Development framework to systematically test and ensure code changes met relevant business or stakeholder requirements."
+                "heading": "行為驅動開發（BDD）實施",
+                "description": "運用行為驅動開發框架，系統性測試代碼變更，確保符合業務或持份者需求。"
               },
               "automation": {
-                "heading": "Automated Testing and Efficiency Enhancement",
-                "description": "Developed automated tests using Cypress and TestCafe, and created Laravel Seeders to improve the efficiency of the QA and development processes."
+                "heading": "自動化測試與效能提升",
+                "description": "開發自動化測試，使用 Cypress 及 TestCafe，並建立 Laravel Seeders，提高 QA 及開發流程嘅效率。"
               },
               "tools": {
-                "heading": "Development Tools",
-                "description": "Employed a range of software tools, including Paw, Jenkins, JIRA, GitHub, Percy, Sequel Pro, and TablePlus, to ensure code changes were tested thoroughly and effectively."
+                "heading": "開發工具",
+                "description": "運用多種軟件工具，包括 Paw、Jenkins、JIRA、GitHub、Percy、Sequel Pro 及 TablePlus，確保代碼變更經過全面測試。"
               },
               "demos": {
-                "heading": "Product Demos",
-                "description": "Regularly presented product changes to the wider company during fortnightly Product Demo sessions, facilitating transparency and cross-team collaboration."
+                "heading": "產品展示",
+                "description": "定期喺雙週產品展示環節向公司展示產品變更，促進透明度及跨團隊協作。"
               },
               "service_desk": {
-                "heading": "Service Desk Management",
-                "description": "Managed the company Service Desk by handling enquiries and issues reported by internal teams, investigating root causes, and collaborating with the Engineering team to develop effective solutions."
+                "heading": "服務台管理",
+                "description": "負責公司服務台，處理內部團隊回報嘅查詢及問題，調查根本原因，並同工程團隊合作制定解決方案。"
               }
             },
             "polaroids": {
               "banter": {
-                "img_alt": "A screenshot of a conversation between myself, another QA and a developer, where the developer praises me as the best backend QA",
-                "caption": "Some classic QA & Dev banter 🤣"
+                "img_alt": "一張截圖，顯示我同另一位 QA 及一位 Engineer 嘅對話，Engineer 人員稱讚我係最強 Backend QA",
+                "caption": "QA 同 Engineer 之間經典搞笑互動 🤣"
               }
             }
           },
           "senior_customer_happiness_associate": {
-            "title": "Senior Customer Happiness Associate",
+            "title": "高級客戶服務專員",
             "start_date": "2018年1月",
             "end_date": "2019年1月",
             "responsibilities": {
               "escalations": {
-                "heading": "Handling escalations",
-                "description": "Handling escalated customer complaints as well as assisting regular customer enquiries during busy periods."
+                "heading": "處理升級投訴",
+                "description": "負責處理升級投訴個案，亦會喺繁忙時段協助解答一般客戶查詢。"
               },
               "mentoring": {
-                "heading": "Training and Mentoring",
-                "description": "Training and managing new starters to ensure a smooth onboarding process."
+                "heading": "培訓同指導",
+                "description": "負責培訓同管理新入職員工，確保佢哋順利適應工作流程。"
               },
               "monitoring": {
-                "heading": "Monitoring",
-                "description": "Monitoring the customer database for suspicious user activity and handling fraudulent cases, such as chargebacks."
+                "heading": "監察",
+                "description": "監察客戶資料庫，留意可疑用戶行為，並處理例如信用卡退款詐騙等欺詐個案。"
               },
               "collaboration": {
-                "heading": "Collaboration",
-                "description": "Engaging in regular meetings with other departments, including product design and marketing, to formulate wider business goals and to feedback information to the customer support team."
+                "heading": "跨部門協作",
+                "description": "定期同其他部門（包括產品設計同市場營銷）開會，制定公司整體業務目標，並向客戶服務團隊回饋相關資訊。"
               },
               "reporting": {
-                "heading": "Reporting",
-                "description": "Compiling reports and presentations for weekly team meetings."
+                "heading": "報告製作",
+                "description": "整理數據同準備報告，喺每星期團隊會議中作匯報。"
               }
             },
             "polaroids": {
               "christmas_social": {
-                "img_alt": "A photograph of Win San Pang with Customer Happiness team colleagues at a Christmas social night out",
-                "caption": "Getting in the Chrismas spirit with fellow Customer Happiness colleagues 🤶🎅️"
+                "img_alt": "一張我同客戶服務團隊同事喺聖誕聚會嘅合照",
+                "caption": "同客戶服務團隊一齊感受聖誕氣氛 🤶🎅️"
               }
             }
           },
           "customer_happiness_associate": {
-            "title": "Customer Happiness Associate",
+            "title": "客戶服務專員",
             "start_date": "2017年4月",
             "end_date": "2018年1月",
             "responsibilities": {
               "customer_service": {
-                "heading": "Helping customers",
-                "description": "Providing top quality, professional customer service and resolving customer enquiries and complaints via phone, email (Zendesk) and social media platforms."
+                "heading": "協助客戶",
+                "description": "提供高質素、專業嘅客戶服務，透過電話、電郵（Zendesk）同社交媒體平台解答客戶查詢，處理投訴。"
               },
               "targets": {
-                "heading": "Hitting targets",
-                "description": "Consistently exceeded KPIs including customer satisfaction, call duration and cases handled."
+                "heading": "超越績效目標",
+                "description": "持續超額完成KPI，包括客戶滿意度、通話時長同處理個案數量。"
               },
               "collaboration": {
-                "heading": "Collaboration",
-                "description": "Working together with various departments, including finance and account management, to resolve customer issues."
+                "heading": "團隊協作",
+                "description": "同財務部、賬戶管理等部門緊密合作，共同解決客戶問題。"
               }
             },
             "polaroids": {
               "positive_feedback": {
-                "img_alt": "A screenshot of four positive feedback responses I received from JustPark customers",
-                "caption": "Lovely feedback I received from happy JustPark customers 🥰"
+                "img_alt": "JustPark 客戶俾我嘅正面評價截圖",
+                "caption": "來自滿意客戶嘅窩心好評 🥰"
               }
             }
           }

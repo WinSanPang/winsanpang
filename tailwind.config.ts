@@ -22,6 +22,12 @@ const config: Config = {
         "ofcom-blue": "#000045",
         "handy-blue": "#00cded",
         "handy-grey": "#434343",
+        "kings-college-red": "#e12726",
+        "highams-park-green": "#36562e",
+        "willowfield-blue": "#263593",
+      },
+      fontFamily: {
+        "times-new-roman": ['"Times New Roman"', "serif"],
       },
     },
     keyframes: {

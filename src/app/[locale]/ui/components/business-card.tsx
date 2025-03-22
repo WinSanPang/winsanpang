@@ -5,7 +5,8 @@ import Image from "next/image"
 import { lobster } from "@/src/app/[locale]/ui/fonts"
 
 export default function BusinessCard() {
-  const t = useTranslations("contact")
+  const contactT = useTranslations("contact")
+  const sharedT = useTranslations("shared")
 
   const contactDetails = [
     {
@@ -44,15 +45,15 @@ export default function BusinessCard() {
             width={150}
             height={150}
             className="rounded-full m-auto"
-            alt={t("photo_alt")}
+            alt={contactT("photo_alt")}
           />
           <h3
             className={`${lobster.className} text-3xl text-white md:text-6xl md:leading-normal my-4`}
           >
-            {t("name")}
+            {sharedT("name")}
           </h3>
           <p className="text-white my-2 text-xl md:text-2xl font-bold">
-            {t("role_title")}
+            {contactT("role_title")}
           </p>
         </div>
         <div className="bg-white w-[2px] h-full m-auto hidden md:block" />
@@ -68,7 +69,7 @@ export default function BusinessCard() {
                 >
                   <Image
                     src={`/icons/${icon}.svg`}
-                    alt={t(`${icon}.icon_alt`)}
+                    alt={contactT(`${icon}.icon_alt`)}
                     width={20}
                     height={20}
                     className="mr-2"

@@ -88,7 +88,7 @@ export default function TimelineSection({
                 {polaroids.map(({ polaroid, img }) => (
                   <Polaroid
                     key={`${id}-${role}-${polaroid}`}
-                    img={img}
+                    img={`/work/${img}`}
                     alt={t(`${id}.roles.${role}.polaroids.${polaroid}.img_alt`)}
                     caption={t(
                       `${id}.roles.${role}.polaroids.${polaroid}.caption`

@@ -264,7 +264,7 @@
             },
             "polaroids": {
               "christmas_social": {
-                "img_alt": "A photograph of Win San Pang with Customer Happiness team colleagues at a Christmas social night out",
+                "img_alt": "A photograph of me with Customer Happiness team colleagues at a Christmas social night out",
                 "caption": "Getting in the Chrismas spirit with fellow Customer Happiness colleagues 🤶🎅️"
               }
             }
@@ -360,6 +360,53 @@
       }
     }
   },
+  "education": {
+    "title": "Education 🎓",
+    "subtitle": "Here you can read about what I've studied, from school to online courses I've taken. As you will probably figure out, I was a bit of a bookworm and became particularly interested in studying the English Language and how language worked. It wasn't until I started working at JustPark that I developed an interest in programming languages. In my teenage years, I dismissed coding as being too much of a Science/Maths type stubject for me, but little did I know how much I would come to love it years later.",
+    "udemy": {
+      "title": "Udemy",
+      "logo_alt": "The Udemy logo",
+      "description": "is awarded this certificate in recognition of successful completion of the hours of study required for the following online courses",
+      "achievements": {
+        "javascript_react": "Modern JavaScript for React JS - ES6",
+        "react_guide": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "react_bootcamp": "The Modern React Bootcamp (Hooks, Context, NextJS, Router)",
+        "date": "2020"
+      }
+    },
+    "kings_college_london": {
+      "title": "King's College London",
+      "logo_alt": "The King's College London logo",
+      "description": "having completed the approved programme of study and satisfied the examiners has this day been admitted to the King's College London degree of",
+      "achievements": {
+        "degree": "Bachelor of Arts",
+        "in": "in",
+        "subject": "English Language and Communication",
+        "grade": "FIRST CLASS HONOURS (76%)",
+        "date": "1 August 2014"
+      }
+    },
+    "highams_park": {
+      "title": "Highams Park Sixth Form College",
+      "logo_alt": "The Highams Park Sixth Form College logo",
+      "description": "having successfully completed the prescribed course of study, is hereby recognised for the following achievements at Highams Park Sixth Form College",
+      "achievements": {
+        "a_levels": "A-Levels: English Language (A*), Psychology (A*), History (A)",
+        "as_levels": "Media Studies (A), Critical Thinking (B)",
+        "course": "Additional Course: The Open University: Start Writing Fiction module, OU Level 1, 10 credits (Pass)",
+        "date": "2011"
+      }
+    },
+    "willowfield": {
+      "title": "Willowfield School",
+      "logo_alt": "The Willowfield School logo",
+      "description": "has successfully completed the required programme of study at Willowfield School and is awarded this certificate in recognition of the following academic achievement",
+      "achievements": {
+        "gcse": "GCSEs: 13 grade A* - C (including English and Maths)",
+        "date": "2009"
+      }
+    }
+  },
   "portfolio": {
     "title": "Portfolio 📁",
     "subtitle": "Here you can find some projects I've participated in and the websites that have been subsequently built.",
@@ -395,7 +442,6 @@
   "contact": {
     "title": "Contact 📱",
     "subtitle": "Please feel free to get in touch with me via the contact details below. Whether it's a job opportunity, a collaboration project, or even just some general feedback about my website, I'd love to hear from you!",
-    "name": "Win San Pang",
     "role_title": "Software Engineer",
     "photo_alt": "A photograph of me smiling at the camera",
     "phone": {
@@ -417,5 +463,8 @@
   "footer": {
     "svg_repo_credit": "Vectors and icons by <svgrepo>SVG Repo</svgrepo> 🧠",
     "made_with_love": "Built using NextJS and Tailwind CSS. Made with ❤️"
+  },
+  "shared": {
+    "name": "Win San Pang"
   }
 }

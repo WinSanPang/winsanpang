@@ -22,15 +22,15 @@ export const workData = [
         polaroids: [
           {
             polaroid: "summer_party",
-            img: "/work/bb-summer-party.jpg",
+            img: "bb-summer-party.jpg",
           },
           {
             polaroid: "office_day",
-            img: "/work/bb-donut-office-day.jpg",
+            img: "bb-donut-office-day.jpg",
           },
           {
             polaroid: "christmas_party",
-            img: "/work/bb-christmas-party.jpg",
+            img: "bb-christmas-party.jpg",
           },
         ],
       },
@@ -52,7 +52,7 @@ export const workData = [
         polaroids: [
           {
             polaroid: "fav_dev",
-            img: "/work/jp-qas-fav-dev.png",
+            img: "jp-qas-fav-dev.png",
           },
         ],
       },
@@ -69,7 +69,7 @@ export const workData = [
         polaroids: [
           {
             polaroid: "banter",
-            img: "/work/jp-qa-dev-banter.png",
+            img: "jp-qa-dev-banter.png",
           },
         ],
       },
@@ -85,7 +85,7 @@ export const workData = [
         polaroids: [
           {
             polaroid: "christmas_social",
-            img: "/work/jp-ch-night-out.png",
+            img: "jp-ch-night-out.png",
           },
         ],
       },
@@ -95,7 +95,7 @@ export const workData = [
         polaroids: [
           {
             polaroid: "positive_feedback",
-            img: "/work/jp-ch-feedback.png",
+            img: "jp-ch-feedback.png",
           },
         ],
       },
@@ -117,7 +117,7 @@ export const workData = [
         polaroids: [
           {
             polaroid: "christmas",
-            img: "/work/ofcom-christmas-tree.jpg",
+            img: "ofcom-christmas-tree.jpg",
           },
         ],
       },
@@ -139,7 +139,7 @@ export const workData = [
         polaroids: [
           {
             polaroid: "halloween_social",
-            img: "/work/handy-halloween.jpg",
+            img: "handy-halloween.jpg",
           },
         ],
       },
