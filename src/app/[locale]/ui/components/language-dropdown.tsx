@@ -13,6 +13,7 @@ export default function LanguageDropdown() {
   const languages = [
     { code: "en", label: "English 🇬🇧" },
     { code: "zh-HK", label: "廣東話 🇭🇰" },
+    { code: "hu", label: "Magyar 🇭🇺" },
   ]
 
   const currentLanguage =

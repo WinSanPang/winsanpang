@@ -1,0 +1,50 @@
+{
+  "navigation": {
+    "home": "Kezdőlap",
+    "skills": "Erősségek",
+    "work": "Szakmai Tapasztalat",
+    "education": "Tanulmányok",
+    "portfolio": "Portfólió",
+    "contact": "Kapcsolat"
+  },
+  "home": {
+    "title": "Halihó, Win vagyok! 👋",
+    "subtitle": "Hali, a nevem Win San Pang, és üdvözöllek a személyes weboldalamon 👋 Nyugodtan böngéssz az oldalon, és ismerd meg a szoftverfejlesztői pályafutásomat, tanulmányaimat, készségeimet, portfóliómat és személyes érdeklődési köreimet. Ha inkább csak az önéletrajzomat szeretnéd megnézni, kattints <cv>ide</cv>, hogy PDF formátumban megtekintsd.",
+    "carousel_section": {
+      "title": "Ki vagyok én?",
+      "subtitle": "Kattints végig a körhintán, hogy többet megtudj rólam!",
+      "slides": {
+        "software_engineer": {
+          "title": "Szoftverfejlesztő vagyok 🧑🏻‍💻",
+          "content_1": "2017-ben, miközben a JustPark nevű tech startupnál dolgoztam, érdeklődni kezdtem a webfejlesztés és a szoftvermérnökség iránt. Kezdetben HTML-t tanultam, itt-ott módosítottam a CSS-t, és szabadidőmben gyakoroltam egy kicsit az SQL-t.",
+          "content_2": "2019-re komolyabban kezdtem foglalkozni vele, React tanfolyamokat végeztem és workshopokra jártam. 2020 januárjában Junior Frontend Engineer-ként kezdtem dolgozni, azóta pedig Software Engineer-ré léptem elő.",
+          "img_alt": ""
+        },
+        "wife": {
+          "title": "Feleség vagyok 🥰",
+          "content_1": "2018. augusztus 7-én match-eltem Adéllal a Tinderen, miután majdnem egy évet töltöttem társkereső appokon, és már azon voltam, hogy feladom. Szerencsére nem tettem, és találkoztam életem szerelmével. Órákig beszélgettünk, számtalan randira mentünk, és hét hónap után össze is költöztünk.",
+          "content_2": "2023 januárjában, egy thaiföldi nyaralás során eljegyeztük egymást (ő előbb megkérte a kezemet, mint ahogy én terveztem), majd 2023. augusztus 7-én, az ötödik évfordulónkon összeházasodtunk. Az együtt töltött idő alatt rengeteg csodás utazáson vettünk részt, megvettük az első, majd második közös otthonunkat, egy gyönyörű kiskutyával bővítettük a családunkat, támogattuk egymást a nehéz időkben, és mindig arra bátorítottuk a másikat, hogy fejlődjön. Végtelenül hálás vagyok, hogy az életem része, és alig várom, mit tartogat számunkra a jövő.",
+          "img_alt": "Egy fotó rólam és Adélról, felöltözve az esküvői vacsoránkra, miközben egymásra nézünk."
+        },
+        "dog_mum": {
+          "title": "Kutya Mami vagyok 🐶",
+          "content_1": "2022-ben egy imádnivaló kis labrador kölyökkel bővült a családunk, akit Donutnak neveztünk el. Először júliusban találkoztunk vele, amikor még csak egy apró, háromhetes kiskutya volt. Azonnal beleszerettünk, és tudtuk, hogy ő a mi szőrös kisbabánk. A kölyökkor kihívásokkal teli volt – sok tréning, takarítás és álmatlan éjszakák –, de minden pillanata megérte.",
+          "content_2": "Azóta egy jól nevelt, szeretetteljes, játékos és mindig vidám kutya lett belőle, aki imádja az öleléseket, az ételt és azt, hogy egész nap játszhat. Rengeteg örömöt, nevetést és szeretetet hozott az életünkbe. 2024-ben elvittük őt egy európai autós utazásra, és csodálatos élmény volt látni, mennyire lenyűgözte minden, amit láttunk és csináltunk. Ő a mi kis kalandorunk, és alig várjuk, hogy még több utazásra magunkkal vigyük.",
+          "img_alt": "Egy fotó rólam, ahogy Donut mancsát fogom, és rá mosolygok egy horvátországi tengerparton."
+        },
+        "travel": {
+          "title": "Utazó vagyok ✈️",
+          "content_1": "Gyerekkoromban 2-3 évente utaztam Hongkongba, hogy meglátogassam a családomat. Imádom az ottani ételeket és kultúrát, de leginkább az ország csodálatos tájai nyűgöznek le – hogy a felhőkarcolók között is mindig látható a hegyek és a természet háttérképe. Emellett Ázsia más részeit is volt szerencsém felfedezni, többek között a Maldív-szigeteket, Thaiföldet, Dél-Koreát, Szingapúrt, Tajvant és Japánt.",
+          "content_2": "Az évek során Európát is jobban megismertem, például Portugáliát, Spanyolországot, Görögországot és Izlandot. 2024-ben a feleségemmel megtettük az első közös európai autós utazásunkat, hogy a kutyánkat is magunkkal vihessük a nyaralásra. Az Egyesült Királyságból Németországon, Olaszországon, Horvátországon, Magyarországon és Ausztrián át vezettünk. Imádtuk együtt tölteni az időt az autóban, gyönyörködni a természet csodálatos látványában és hallgatni a kedvenc dalainkat. Úgy érzem, az utazás rengeteget tágított a látókörömön, és segített jobban megérteni más kultúrákat. Minden egyes új úti cél új ízeket, élményeket és érzéseket hoz az életembe, amelyek még színesebbé teszik a világot.",
+          "img_alt": "Egy fotó rólam, ahogy egy hintán ülök a Maldív-szigeteken, a tengerparton."
+        },
+        "geek": {
+          "title": "Geek vagyok 🤓",
+          "content_1": "Gyerekként úgy éreztem, hogy geeknek lenni „cikinek” számít, de ma már büszkén vállalom a bennem élő geeket. Imádok olvasni – a kedvenc könyvsorozatom Robert Muchamore CHERUB-sorozata, és hatalmas szerencsémre 2016 júniusában egy dedikáláson találkozhattam is vele. Felnőttként is nagy rajongója vagyok, és nagyon élveztem a legújabb Robin Hood-sorozatát is. További kedvenc könyveim közé tartozik a Harry Potter és Az éhezők viadala.",
+          "content_2": "Emellett szeretek videojátékokat játszani – a legnagyobb kedvenceim a Pokémon Yellow, Let's Go Pikachu, Hogwarts Legacy, The Sims 3 és a Super Mario Odyssey. 2019-ben elkezdtem Dungeons and Dragons-t játszani néhány kollégámmal, és kiderült, hogy egy fantáziavilágba menekülni remek módja a józanság megőrzésének a karantén alatt. Azóta is rendszeresen játszunk, mindig rengeteget nevetünk, és imádom, hogy mennyire kreatívak és bolondosak lehetünk. Emellett hatalmas Lego-rajongó vagyok – a legnagyobb kihívásom egy három napig tartó Lego Pókember építése volt –, és imádok társasjátékozni is.",
+          "img_alt": ""
+        }
+      }
+    }
+  }
+}
