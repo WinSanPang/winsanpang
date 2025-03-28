@@ -4,7 +4,7 @@ import Image from "next/image"
 
 import { education } from "./data"
 
-import { lobster } from "@/src/app/[locale]/ui/fonts"
+import { lobster } from "@/app/[locale]/ui/fonts"
 
 export default function Certificate() {
   const educationT = useTranslations("education")

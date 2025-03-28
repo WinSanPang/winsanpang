@@ -2,11 +2,11 @@ import { useTranslations } from "next-intl"
 import Link from "next/link"
 import Image from "next/image"
 
-import { lobster } from "@/src/app/[locale]/ui/fonts"
+import { lobster } from "@/app/[locale]/ui/fonts"
 
-import Hero from "@/src/app/[locale]/ui/components/hero"
+import Hero from "@/app/[locale]/ui/components/hero"
 
-import { portfolioSections } from "@/src/app/[locale]/portfolio/data"
+import { portfolioSections } from "@/app/[locale]/portfolio/data"
 
 export default function Page() {
   const t = useTranslations("portfolio")

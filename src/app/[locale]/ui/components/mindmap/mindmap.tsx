@@ -1,7 +1,7 @@
 import { useTranslations } from "next-intl"
 import Image from "next/image"
 
-import { lobster } from "@/src/app/[locale]/ui/fonts"
+import { lobster } from "@/app/[locale]/ui/fonts"
 
 import { creativeSkills, generalSkills, programmingLanguages } from "./data"
 

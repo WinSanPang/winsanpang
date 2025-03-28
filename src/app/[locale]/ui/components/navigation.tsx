@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl"
 import Image from "next/image"
 import { usePathname } from "next/navigation"
 
+import LanguageDropdown from "@/app/[locale]/ui/components/language-dropdown"
 import { Navbar } from "flowbite-react"
 
 export default function Navigation() {
@@ -19,6 +20,8 @@ export default function Navigation() {
     { name: "contact", href: "/contact" },
   ]
 
+  const sanitisedPathname = pathname.replace(/^\/[a-z]{2}(\/|$)/, "/")
+
   return (
     <Navbar fluid className="bg-cyan-950">
       <Navbar.Brand href="/">
@@ -30,14 +33,17 @@ export default function Navigation() {
           alt={t("photo_alt")}
         />
       </Navbar.Brand>
-      <Navbar.Toggle />
+      <div className="flex md:order-2">
+        <LanguageDropdown />
+        <Navbar.Toggle />
+      </div>
       <Navbar.Collapse>
         {navigation.map(({ name, href }) => (
           <Navbar.Link
             key={name}
             href={href}
             className={`text-white ${
-              pathname === href ? "border-white border-1" : "" // Not sure why styling isn't working here
+              sanitisedPathname === href ? "!border-b border-white" : ""
             }`}
           >
             {t(`${name}`)}

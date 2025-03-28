@@ -2,7 +2,7 @@ import { useTranslations } from "next-intl"
 import Link from "next/link"
 import Image from "next/image"
 
-import { lobster } from "@/src/app/[locale]/ui/fonts"
+import { lobster } from "@/app/[locale]/ui/fonts"
 
 export default function BusinessCard() {
   const contactT = useTranslations("contact")

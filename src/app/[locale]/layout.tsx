@@ -2,9 +2,9 @@ import { NextIntlClientProvider } from "next-intl"
 import { getMessages } from "next-intl/server"
 
 import { ReactNode } from "react"
-import "@/src/app/[locale]/ui/global.css"
-import { inter } from "@/src/app/[locale]/ui/fonts"
-import Navigation from "@/src/app/[locale]/ui/components/navigation"
+import "@/app/[locale]/ui/global.css"
+import { inter } from "@/app/[locale]/ui/fonts"
+import Navigation from "@/app/[locale]/ui/components/navigation"
 
 type Props = {
   children: ReactNode

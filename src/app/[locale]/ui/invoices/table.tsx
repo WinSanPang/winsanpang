@@ -2,10 +2,10 @@ import Image from "next/image"
 import {
   UpdateInvoice,
   DeleteInvoice,
-} from "@/src/app/[locale]/ui/invoices/buttons"
-import InvoiceStatus from "@/src/app/[locale]/ui/invoices/status"
-import { formatDateToLocal, formatCurrency } from "@/src/app/[locale]/lib/utils"
-import { fetchFilteredInvoices } from "@/src/app/[locale]/lib/data"
+} from "@/app/[locale]/ui/invoices/buttons"
+import InvoiceStatus from "@/app/[locale]/ui/invoices/status"
+import { formatDateToLocal, formatCurrency } from "@/app/[locale]/lib/utils"
+import { fetchFilteredInvoices } from "@/app/[locale]/lib/data"
 
 export default async function InvoicesTable({
   query,

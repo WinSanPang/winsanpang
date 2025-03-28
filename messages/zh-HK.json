@@ -196,7 +196,6 @@
             }
           },
           "associate_qa_engineer": {
-            "title": "Associate QA Engineer",
             "start_date": "2019年1月",
             "end_date": "2020年1月",
             "responsibilities": {
@@ -233,7 +232,6 @@
             }
           },
           "senior_customer_happiness_associate": {
-            "title": "高級客戶服務專員",
             "start_date": "2018年1月",
             "end_date": "2019年1月",
             "responsibilities": {
@@ -266,7 +264,6 @@
             }
           },
           "customer_happiness_associate": {
-            "title": "客戶服務專員",
             "start_date": "2017年4月",
             "end_date": "2018年1月",
             "responsibilities": {
@@ -293,64 +290,109 @@
         }
       },
       "ofcom": {
-        "summary": "I worked at Ofcom as a Consumer Contact Associate, where I gained extensive knowledge of telecom and broadcast-related rules and regulations and further enhanced my professionalism in handling customer enquiries.",
+        "summary": "我喺 Ofcom 擔任 Consumer Contact Associate，期間深入了解電訊同廣播相關嘅規則同法規，並進一步提升咗我處理客戶查詢時嘅專業水平。",
         "roles": {
           "consumer_contact_associate": {
-            "title": "Consumer Contact Associate",
             "start_date": "2015年6月",
             "end_date": "2016年12月",
             "responsibilities": {
               "customer_service": {
-                "heading": "Professional Customer Service",
-                "description": "Providing high quality, professional customer service to consumers’ telecoms and broadcast-related enquiries and complaints over the phone."
+                "heading": "專業客戶服務",
+                "description": "以專業態度為消費者提供高質素嘅客戶服務，解答有關電訊同廣播方面嘅查詢同投訴。"
               },
               "targets": {
-                "heading": "Hitting Targets",
-                "description": "Consistently met KPIs including quality assessment target for compiled case records and call handling quality standards for both call duration and customer satisfaction."
+                "heading": "達標表現",
+                "description": "持續達成各項 KPI 指標，包括案件記錄質量評估標準、通話處理質量標準，例如通話時長同客戶滿意度。"
               },
               "collaboration": {
-                "heading": "Team Collaboration",
-                "description": "Liaising with specialist policy and investigations teams within Ofcom, working with these departments where necessary to resolve consumer enquiries."
+                "heading": "團隊協作",
+                "description": "與 Ofcom 內部嘅專責政策同調查團隊保持聯繫，並根據需要合作解決消費者查詢。"
               }
             },
             "polaroids": {
               "christmas": {
-                "img_alt": "A photograph of my printed picture hung up as an ornament on a Christmas tree",
-                "caption": "Featuring on the Ofcom Christmas tree for my love of Lego & Pokemon 🎄"
+                "img_alt": "一張印有我相片嘅裝飾掛喺聖誕樹上",
+                "caption": "因為我鍾意 LEGO 同 Pokémon，而登上 Ofcom 聖誕樹 🎄"
               }
             }
           }
         }
       },
       "handy": {
-        "summary": "I started at Handy as a Customer Service Agent and quickly progressed to the role of Customer Service Shift Leader. This was my first job after graduating from university and I learned a lot about customer service, leadership, and teamwork.",
+        "summary": "我喺 Handy 擔任 Customer Service Agent，並迅速晉升為 Customer Service Shift Leader。呢份係我大學畢業後第一份工，令我學到好多有關客戶服務、領導力同團隊合作嘅經驗。",
         "roles": {
           "customer_service_shift_leader": {
-            "title": "Customer Service Shift Leader",
             "start_date": "2014年10月",
             "end_date": "2015年5月",
             "responsibilities": {
               "customer_service": {
-                "heading": "Quality Customer Service",
-                "description": "Providing exemplary customer service over the phone and via email."
+                "heading": "優質客戶服務",
+                "description": "透過電話同電郵提供卓越嘅客戶服務。"
               },
               "leadership": {
-                "heading": "Leadership Skills",
-                "description": "Promoted to the role of Shift Leader, with responsibilities including coordinating the customer service team, handling escalations, training new team members, and interviewing applicants."
+                "heading": "領導能力",
+                "description": "晉升為 Shift Leader，負責協調客戶服務團隊、處理升級投訴、培訓新同事，以及參與招聘面試。"
               },
               "awards": {
-                "heading": "Team Awards",
-                "description": "Was awarded the titles: 'Above and Beyond', 'Best Team Player' and 'Employee of the Week'."
+                "heading": "團隊獎項",
+                "description": "榮獲「Above and Beyond」、「Best Team Player」同「Employee of the Week」等獎項。"
               }
             },
             "polaroids": {
               "halloween_social": {
-                "img_alt": "A photograph of Win San Pang with Handy colleagues at a Halloween team social",
-                "caption": "Dressed up as a Vampire for the Handy Halloween Party 🧛"
+                "img_alt": "我同 Handy 同事喺萬聖節聚會合照",
+                "caption": "萬聖節派對打扮成吸血鬼 🧛"
               }
             }
           }
         }
+      }
+    }
+  },
+  "education": {
+    "title": "學歷 🎓",
+    "subtitle": "喺呢度你可以睇到我讀過啲咩， 由學校到我上過嘅網上課程。你可能都會發現，我以前幾鍾意讀書，特別對英文語言學同語言點運作感興趣。不過，直到我喺 JustPark 開始做嘢，我先開始對編程語言有興趣。青少年時期，我覺得寫程式太偏向科學同數學，唔啱我，但當時真係估唔到，過咗幾年後，我會咁鍾意寫程式！"
+  },
+    "udemy": {
+      "logo_alt": "Udemy 標誌",
+      "description": "is awarded this certificate in recognition of successful completion of the hours of study required for the following online courses",
+      "achievements": {
+        "javascript_react": "Modern JavaScript for React JS - ES6",
+        "react_guide": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "react_bootcamp": "The Modern React Bootcamp (Hooks, Context, NextJS, Router)",
+        "date": "2020"
+      }
+    },
+    "kings_college_london": {
+      "title": "King's College London",
+      "logo_alt": "King's College London 標誌",
+      "description": "having completed the approved programme of study and satisfied the examiners has this day been admitted to the King's College London degree of",
+      "achievements": {
+        "degree": "Bachelor of Arts",
+        "in": "in",
+        "subject": "English Language and Communication",
+        "grade": "FIRST CLASS HONOURS (76%)",
+        "date": "1 August 2014"
+      }
+    },
+    "highams_park": {
+      "title": "Highams Park Sixth Form College",
+      "logo_alt": "Highams Park Sixth Form College 標誌",
+      "description": "having successfully completed the prescribed course of study, is hereby recognised for the following achievements at Highams Park Sixth Form College",
+      "achievements": {
+        "a_levels": "A-Levels: English Language (A*), Psychology (A*), History (A)",
+        "as_levels": "Media Studies (A), Critical Thinking (B)",
+        "course": "Additional Course: The Open University: Start Writing Fiction module, OU Level 1, 10 credits (Pass)",
+        "date": "2011"
+      }
+    },
+    "willowfield": {
+      "title": "Willowfield School",
+      "logo_alt": "Willowfield School 標誌",
+      "description": "has successfully completed the required programme of study at Willowfield School and is awarded this certificate in recognition of the following academic achievement",
+      "achievements": {
+        "gcse": "GCSEs: 13 grade A* - C (including English and Maths)",
+        "date": "2009"
       }
     }
   },

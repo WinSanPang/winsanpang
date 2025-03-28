@@ -3,11 +3,11 @@ import Link from "next/link"
 
 import { ArrowRightIcon } from "@heroicons/react/24/outline"
 
-import "@/src/app/[locale]/ui/global.css"
-import { lobster } from "@/src/app/[locale]/ui/fonts"
-import Hero from "@/src/app/[locale]/ui/components/hero"
-import Carousel from "@/src/app/[locale]/ui/components/carousel"
-import CarbonBadge from "@/src/app/[locale]/ui/components/carbon-badge"
+import "@/app/[locale]/ui/global.css"
+import { lobster } from "@/app/[locale]/ui/fonts"
+import Hero from "@/app/[locale]/ui/components/hero"
+import Carousel from "@/app/[locale]/ui/components/carousel"
+import CarbonBadge from "@/app/[locale]/ui/components/carbon-badge"
 
 export default function Page() {
   const t = useTranslations("home")

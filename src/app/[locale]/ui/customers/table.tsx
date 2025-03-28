@@ -1,10 +1,10 @@
 import Image from "next/image"
-import { lusitana } from "@/src/app/[locale]/ui/fonts"
-import Search from "@/src/app/[locale]/ui/search"
+import { lusitana } from "@/app/[locale]/ui/fonts"
+import Search from "@/app/[locale]/ui/search"
 import {
   CustomersTableType,
   FormattedCustomersTable,
-} from "@/src/app/[locale]/lib/definitions"
+} from "@/app/[locale]/lib/definitions"
 
 export default async function CustomersTable({
   customers,

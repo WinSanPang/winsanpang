@@ -1,6 +1,6 @@
 import { useTranslations } from "next-intl"
 
-import { lobster } from "@/src/app/[locale]/ui/fonts"
+import { lobster } from "@/app/[locale]/ui/fonts"
 
 import Polaroid from "../polaroid"
 
