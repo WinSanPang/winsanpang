@@ -46,6 +46,134 @@
           "img_alt": "一張我喺倫敦 Warner Bros. Studio Tour，喺古靈閣入面一把劍前面擺 pose 嘅相"
         }
       }
+    },
+    "working_style_section": {
+      "title": "我嘅工作風格",
+      "subtitle": "下面你會見到我嘅色彩性格分析同 MBTI（Myers–Briggs 性格指標）結果。我一向相信了解自己點樣做嘢，同點樣可以同人合作得更好係好重要。知道自己嘅強項同弱項可以幫到我提升自我認知，同時可以更加有效咁同身邊嘅人溝通，無論係工作定私人生活都一樣。",
+      "colour_profile": {
+        "title": "色彩性格分析",
+        "description": "呢啲圓餅圖展示咗我嘅自然同適應行為，用唔同顏色代表，係根據 <url>C-me</url> 提供嘅色彩性格報告。顏色代表以下四種唔同嘅特質：",
+        "colours": {
+          "blue": {
+            "title": "冷靜藍",
+            "description": "精確、謹慎、鍾意發問、小心翼翼、較為正式"
+          },
+          "green": {
+            "title": "大地綠",
+            "description": "有同理心、樂於鼓勵、樂於分享、有耐性、輕鬆自在"
+          },
+          "yellow": {
+            "title": "陽光黃",
+            "description": "善於交際、有活力、外向、熱情、有說服力"
+          },
+          "red": {
+            "title": "火紅色",
+            "description": "有競爭心、要求高、有決心、意志堅定、有目標感"
+          }
+        },
+        "natural": {
+          "title": "自然行為模式",
+          "description": "自然行為反映咗我冇經過修飾、比較本能嘅做事方式，亦都係我喺舒適環境下嘅自然表現。",
+          "analysis": "我嘅自然傾向係用邏輯去思考、分析細節、謹慎咁處理事情，同時對身邊人保持關心同尊重。"
+        },
+        "adapted": {
+          "title": "適應行為模式",
+          "description": "適應行為多數反映我經過調整或者學習後嘅反應，例如喺工作場合點樣表現。",
+          "analysis": "從圖表可以見到，我嘅行為喺呢方面比較平衡，會減低啲自然嘅『藍色』特質，改用一種比較直接同目標導向嘅方式。"
+        }
+      },
+      "myers_briggs": {
+        "title": "Myers–Briggs Type Indicator (MBTI)",
+        "description": "The Myers–Briggs Type Indicator (MBTI) is a personality test that categorises people into 16 different personality types based on four dichotomies. My test results from <url>16Personalities</url> concluded that my personality type is a Logistician (ISTJ-A) - someone who is hard-working, practical, dependable, meticulous and driven by a strong sense of duty. I bring structure and order to what I do, though I know my preference for tradition and routine can sometimes make adapting to change a bit of a challenge. My results showed the following percentage breakdown for each dichotomy:",
+        "traits": {
+          "energy": {
+            "title": "Energy",
+            "trait_start": "Introverted (I)",
+            "trait_end": "Extraverted (E)",
+            "percentage": "{percentage}% Introverted"
+          },
+          "mind": {
+            "title": "Mind",
+            "trait_start": "Sensing (S)",
+            "trait_end": "Intuition (N)",
+            "percentage": "{percentage}% Sensing"
+          },
+          "nature": {
+            "title": "Nature",
+            "trait_start": "Thinking (T)",
+            "trait_end": "Feeling (F)",
+            "percentage": "{percentage}% Thinking"
+          },
+          "tactics": {
+            "title": "Tactics",
+            "trait_start": "Judging (J)",
+            "trait_end": "Perceiving (P)",
+            "percentage": "{percentage}% Judging"
+          },
+          "identity": {
+            "title": "Identity",
+            "trait_start": "Assertive (A)",
+            "trait_end": "Turbulent (T)",
+            "percentage": "{percentage}% Assertive"
+          }
+        },
+        "results": {
+          "introversion": {
+            "title": "Introversion",
+            "description": "I prefer to focus on my inner world and thoughts rather than the outer world."
+          },
+          "intuition": {
+            "title": "Intuition",
+            "description": "I prefer to focus on the big picture and future possibilities rather than concrete facts."
+          },
+          "feeling": {
+            "title": "Feeling",
+            "description": "I prefer to make decisions based on personal values and how they affect others."
+          },
+          "judging": {
+            "title": "Judging",
+            "description": "I prefer to plan things in advance and stick to a schedule rather than being spontaneous."
+          }
+        }
+      },
+      "strengths_weaknesses": {
+        "title": "Strengths and Weaknesses",
+        "description": "I believe that understanding my strengths and weaknesses is key to my personal and professional development, and serves as a guide on which abilities I need to focus working on and which I should continue to foster. Interestingly, both my colour profile and MBTI results provided very similar conclusions to where my strengths and weaknesses lie:",
+        "strengths": {
+          "title": "Strengths",
+          "list": {
+            "reliable": {
+              "title": "Reliable and Responsible",
+              "description": "I am a reliable and responsible individual who can be counted on to deliver and complete tasks on time and to a high standard"
+            },
+            "problem_solving": {
+              "title": "Efficient Problem-Solving",
+              "description": "I excel at finding realistic solutions to complex issues and solving them in a methodical and methodical manner"
+            },
+            "detail": {
+              "title": "Attention to Detail",
+              "description": "My attention to detail ensures nothing falls through the cracks"
+            }
+          }
+        },
+        "weaknesses": {
+          "title": "Weaknesses",
+          "list": {
+            "risk": {
+              "title": "Risk-Averse",
+              "description": "My preference for the familiar and established ways of doing things can limit potential for innovation and exploration"
+            },
+            "critical": {
+              "title": "Self-Critical",
+              "description": "My high self-expectations can lead to unnecessary stress"
+            },
+            "networking": {
+              "title": "Perfectionism",
+              "description": "I can be overly fixated on doing things the right way"
+            }
+          }
+        }
+      }
     }
   },
   "skills": {
@@ -351,8 +479,7 @@
   },
   "education": {
     "title": "學歷 🎓",
-    "subtitle": "喺呢度你可以睇到我讀過啲咩， 由學校到我上過嘅網上課程。你可能都會發現，我以前幾鍾意讀書，特別對英文語言學同語言點運作感興趣。不過，直到我喺 JustPark 開始做嘢，我先開始對編程語言有興趣。青少年時期，我覺得寫程式太偏向科學同數學，唔啱我，但當時真係估唔到，過咗幾年後，我會咁鍾意寫程式！"
-  },
+    "subtitle": "喺呢度你可以睇到我讀過啲咩， 由學校到我上過嘅網上課程。你可能都會發現，我以前幾鍾意讀書，特別對英文語言學同語言點運作感興趣。不過，直到我喺 JustPark 開始做嘢，我先開始對編程語言有興趣。青少年時期，我覺得寫程式太偏向科學同數學，唔啱我，但當時真係估唔到，過咗幾年後，我會咁鍾意寫程式！",
     "udemy": {
       "logo_alt": "Udemy 標誌",
       "description": "is awarded this certificate in recognition of successful completion of the hours of study required for the following online courses",

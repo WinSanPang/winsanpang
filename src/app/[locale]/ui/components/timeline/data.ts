@@ -128,7 +128,7 @@ export const workData = [
       title: "text-ofcom-red",
       text: "text-ofcom-blue",
     },
-    height: "h-[1280px] md:h-[550px]",
+    height: "h-[1280px] md:h-[570px]",
   },
   {
     id: "handy",
