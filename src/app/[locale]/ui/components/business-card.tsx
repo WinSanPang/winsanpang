@@ -38,7 +38,7 @@ export default function BusinessCard() {
 
   return (
     <div className="h-[550px] flex bg-cover bg-center bg-[url(https://images.unsplash.com/photo-1444080748397-f442aa95c3e5?q=80&w=3132&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)] p-2 border border-white outline">
-      <div className="flex flex-wrap w-full bg-[rgba(255,255,255,0.2)] p-4 md:grid md:grid-cols-[10fr,1fr,10fr] md: md:gap-4">
+      <div className="flex flex-wrap w-full bg-[rgba(255,255,255,0.2)] p-4 md:grid md:grid-cols-[10fr,1fr,10fr] md:gap-4">
         <div className="w-full text-center mb-4 md:self-center md-justify-right">
           <Image
             src="/profile.jpeg"

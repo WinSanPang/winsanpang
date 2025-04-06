@@ -46,6 +46,135 @@
           "img_alt": "A photo of me at the Warner Bros. Studio Tour in London, posing in front of a sword in the Gringotts section"
         }
       }
+    },
+    "working_style_section": {
+      "title": "How I work",
+      "subtitle": "Below you'll find my colour profile breakdown and Myers–Briggs Type Indicator (MBTI) results. I'm a firm believer in understanding how I work and how I can work better with others. I find that knowing my strengths and weaknesses helps me to be more self-aware and to communicate more effectively with others around me, whether that's in my personal or work life.",
+      "colour_profile": {
+        "title": "Colour Profile",
+        "description": "These pie charts show my adapted and natural ways of doing things represented in colours, as per a report of my Colour Profile provided by <url>C-me</url>. The colours symbolise the following four different traits:",
+        "colours": {
+          "blue": {
+            "title": "Cool Blue",
+            "description": "Precise, deliberate, questioning, cautious and formal"
+          },
+          "green": {
+            "title": "Earth Green",
+            "description": "Caring, encouraging, sharing, patient, and relaxed"
+          },
+
+          "yellow": {
+            "title": "Sunshine Yellow",
+            "description": "Sociable, dynamic, demonstrative, enthusiastic, and persuasive"
+          },
+          "red": {
+            "title": "Fiery Red",
+            "description": "Competitive, demanding, determined, strong-willed, and purposeful"
+          }
+        },
+        "natural": {
+          "title": "Natural Behaviour",
+          "description": "My natural behaviour reflects my less filtered, more instinctive approach to tasks, and is how I behave when I'm in a comfortable environment.",
+          "analysis": "My natural preference is to apply logic, analyse the details and think things through carefully whilst showing support and respect to those around me."
+        },
+        "adapted": {
+          "title": "Adapted Behaviour",
+          "description": "My adapted behaviour tends to reflect my more modified and learned behaviours, such as how I would behave in a work environment. ",
+          "analysis": "As apparent in the chart, my behaviour here is more balanced and I tone down my natural 'blue' behaviours with a more direct and goal-oriented approach."
+        }
+      },
+      "myers_briggs": {
+        "title": "Myers–Briggs Type Indicator (MBTI)",
+        "description": "The Myers–Briggs Type Indicator (MBTI) is a personality test that categorises people into 16 different personality types based on four dichotomies. My test results from <url>16Personalities</url> concluded that my personality type is a Logistician (ISTJ-A) - someone who is hard-working, practical, dependable, meticulous and driven by a strong sense of duty. I bring structure and order to what I do, though I know my preference for tradition and routine can sometimes make adapting to change a bit of a challenge. My results showed the following percentage breakdown for each dichotomy:",
+        "traits": {
+          "energy": {
+            "title": "Energy",
+            "trait_start": "Introverted (I)",
+            "trait_end": "Extraverted (E)",
+            "percentage": "{percentage}% Introverted"
+          },
+          "mind": {
+            "title": "Mind",
+            "trait_start": "Sensing (S)",
+            "trait_end": "Intuition (N)",
+            "percentage": "{percentage}% Sensing"
+          },
+          "nature": {
+            "title": "Nature",
+            "trait_start": "Thinking (T)",
+            "trait_end": "Feeling (F)",
+            "percentage": "{percentage}% Thinking"
+          },
+          "tactics": {
+            "title": "Tactics",
+            "trait_start": "Judging (J)",
+            "trait_end": "Perceiving (P)",
+            "percentage": "{percentage}% Judging"
+          },
+          "identity": {
+            "title": "Identity",
+            "trait_start": "Assertive (A)",
+            "trait_end": "Turbulent (T)",
+            "percentage": "{percentage}% Assertive"
+          }
+        },
+        "results": {
+          "introversion": {
+            "title": "Introversion",
+            "description": "I prefer to focus on my inner world and thoughts rather than the outer world."
+          },
+          "intuition": {
+            "title": "Intuition",
+            "description": "I prefer to focus on the big picture and future possibilities rather than concrete facts."
+          },
+          "feeling": {
+            "title": "Feeling",
+            "description": "I prefer to make decisions based on personal values and how they affect others."
+          },
+          "judging": {
+            "title": "Judging",
+            "description": "I prefer to plan things in advance and stick to a schedule rather than being spontaneous."
+          }
+        }
+      },
+      "strengths_weaknesses": {
+        "title": "Strengths and Weaknesses",
+        "description": "I believe that understanding my strengths and weaknesses is key to my personal and professional development, and serves as a guide on which abilities I need to focus working on and which I should continue to foster. Interestingly, both my colour profile and MBTI results provided very similar conclusions to where my strengths and weaknesses lie:",
+        "strengths": {
+          "title": "Strengths",
+          "list": {
+            "reliable": {
+              "title": "Reliable and Responsible",
+              "description": "I am a reliable and responsible individual who can be counted on to deliver and complete tasks on time and to a high standard"
+            },
+            "problem_solving": {
+              "title": "Efficient Problem-Solving",
+              "description": "I excel at finding realistic solutions to complex issues and solving them in a methodical and methodical manner"
+            },
+            "detail": {
+              "title": "Attention to Detail",
+              "description": "My attention to detail ensures nothing falls through the cracks"
+            }
+          }
+        },
+        "weaknesses": {
+          "title": "Weaknesses",
+          "list": {
+            "risk": {
+              "title": "Risk-Averse",
+              "description": "My preference for the familiar and established ways of doing things can limit potential for innovation and exploration"
+            },
+            "critical": {
+              "title": "Self-Critical",
+              "description": "My high self-expectations can lead to unnecessary stress"
+            },
+            "networking": {
+              "title": "Perfectionism",
+              "description": "I can be overly fixated on doing things the right way"
+            }
+          }
+        }
+      }
     }
   },
   "skills": {
