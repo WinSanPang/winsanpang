@@ -8,7 +8,7 @@ type Props = {
 
 export default function Polaroid({ img, alt, caption }: Props) {
   return (
-    <div className="bg-white relative w-[300px] h-[360px] rounded-lg p-4 shadow-lg border border-black mb-4">
+    <div className="bg-white relative w-[300px] h-[300px] md:h-[360px] rounded-lg p-4 shadow-lg border border-black mb-4">
       <Image
         className="absolute top-0 left-0 p-4"
         src={img}

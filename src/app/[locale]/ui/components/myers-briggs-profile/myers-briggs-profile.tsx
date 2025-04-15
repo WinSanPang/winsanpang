@@ -56,17 +56,15 @@ export default function MyersBriggsProfile() {
         })}
       </p>
       {traits.map(({ key, colour, percentage, position }) => (
-        <div key={key} className="relative mb-4 mx-24">
+        <div key={key} className="relative mb-4 md:mx-24">
           <p className="font-bold mb-12 md:text-lg">
             {t(`${copyContext}.traits.${key}.title`)}
           </p>
           <div className={`absolute top-[38%] ${position}`}>
-            <div className="flex flex-wrap justify-center w-[130px]">
-              <p className="font-bold">
-                {t(`${copyContext}.traits.${key}.percentage`, { percentage })}
-              </p>
-              <div className="w-0 h-0 border-l-[15px] border-l-transparent border-r-[15px] border-r-transparent border-t-[25px] border-t-white" />
-            </div>
+            <p className="font-bold">
+              {t(`${copyContext}.traits.${key}.percentage`, { percentage })}
+            </p>
+            <div className="w-0 h-0 border-l-[15px] border-l-transparent border-r-[15px] border-r-transparent border-t-[25px] border-t-white" />
           </div>
           <div className={`h-[15px] w-full rounded-lg ${colour}`}></div>
           <div className="flex justify-between mt-2">

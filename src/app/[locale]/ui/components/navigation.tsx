@@ -33,7 +33,7 @@ export default function Navigation() {
           alt={t("photo_alt")}
         />
       </Navbar.Brand>
-      <div className="flex md:order-2">
+      <div className="flex md:order-2 gap-2">
         <LanguageDropdown />
         <Navbar.Toggle />
       </div>

@@ -17,8 +17,8 @@
       "slides": {
         "software_engineer": {
           "title": "我係Software Engineer 🧑🏻‍💻",
-          "content_1": "喺2017年，我喺一間叫JustPark嘅科技初創公司工作時，對網頁開發同軟件工程產生咗興趣。當時係由學習 HTML 開始，間中調整啲 CSS，仲有練下 SQL。",
-          "content_2": "到咗2019年，我開始更加認真，參加React課程同埋講座。到2020年1月，我開始做 Junior Frontend Engineer，之後升職做咗 Software Engineer。",
+          "content_1": "喺2017年，我喺一間叫JustPark嘅科技初創公司工作時，對網頁開發同軟件工程產生咗興趣。當時係由學習 HTML 開始，間中調整啲 CSS，仲有練下 SQL。到咗2019年，我開始更加認真，參加React課程同埋講座。到2020年1月，我開始做 Junior Frontend Engineer，之後升職做咗 Software Engineer。",
+          "content_2": "我中學時期嘅自己，係絕對冇諗過會從事 Software Engineering 嘅工作，因為當時我以為自己對創意藝術有興趣。不過，隨著時間推移，我開始意識到 Engineering 係充滿咗解決複雜問題嘅創意方案。我鍾意編程中解決問題嘅過程，同埋從零開始建設一樣嘢嘅滿足感。",
           "img_alt": "一張我坐喺香港昂坪360纜車上，背景係山景嘅相"
         },
         "wife": {
@@ -36,13 +36,13 @@
         "travel": {
           "title": "我鍾意去旅行 ✈️",
           "content_1": "細個嗰陣，我每兩三年就會去香港探屋企人。我好鍾意香港嘅美食同文化，但最令我著迷嘅係嗰度嘅景色 — 喺高樓大廈之間，仲可以見到後面嘅山同大自然。我仲好享受去其他亞洲國家旅行，例如馬爾代夫、泰國、韓國、新加坡、台灣同日本。",
-          "content_2": "呢幾年，我亦都去咗歐洲其他國家，例如葡萄牙、西班牙、希臘同冰島。2024年，我同太太第一次一齊自駕遊歐洲，因為咁樣可以帶埋我哋隻狗仔去旅行。我哋由英國出發，去到德國、意大利、克羅地亞、匈牙利同奧地利。我哋好鍾意一齊喺車入面，睇住沿途靚景，聽住我哋最鍾意嘅歌。我發現旅行真係擴闊咗我自己嘅眼界，令我對唔同文化有更深嘅認識。每去一個新地方，我都會嘗試新嘅味道、新嘅體驗同感受，令我發現呢個世界有幾多姿多彩。",
+          "content_2": "2024年，我同太太第一次一齊自駕遊歐洲，因為咁樣可以帶埋我哋隻狗仔去旅行。我哋由英國出發，去到德國、意大利、克羅地亞、匈牙利同奧地利。我哋好鍾意一齊喺車入面，睇住沿途靚景，聽住我哋最鍾意嘅歌。我發現旅行真係擴闊咗我自己嘅眼界，令我對唔同文化有更深嘅認識。每去一個新地方，我都會嘗試新嘅味道、新嘅體驗同感受，令我發現呢個世界有幾多姿多彩。",
           "img_alt": "一張我喺馬爾代夫坐喺海灘鞦韆上嘅相"
         },
         "geek": {
           "title": "我係發燒友 🤓",
-          "content_1": "細個嗰陣，成日覺得做發燒友好羅, 驚畀人笑，但依家就唔同啦，反而覺得做返自己，接受自己鍾意嘅嘢，係件好開心嘅事。我鍾意睇書，最鍾意嘅書係 Robert Muchamore 寫嘅《CHERUB 系列》。我仲好幸運可以喺2016年6月去佢嘅簽書會見到佢真人。到而家，我都仲係佢嘅忠實粉絲，亦都好最鍾佢最新嘅《Robin Hood 系列》。我其他珍藏嘅書仲有《Harry Potter》同《Hunger Games》。",
-          "content_2": "我亦都好鍾意打機，最鍾意嘅遊戲包括《Pokémon Yellow》、《Let's Go Pikachu》、《Hogwarts Legacy》、《The Sims 3》同《Super Mario Odyssey》。2019年，我開始同一班同事玩《龍與地下城》（Dungeons and Dragons），發現透過呢個奇幻世界，真係可以帶俾我哋好多快樂同創意，特別係疫情封城期間，係一個好有趣同有意義嘅活動。我哋而家都仲keep住玩，每次都笑到停唔到，玩到好癲。我仲係Lego超級粉絲，砌過最大件作品係一隻用咗三日先砌完嘅Lego Spider-Man。另外，我都鍾意玩board games。",
+          "content_1": "細個嗰陣，成日覺得做發燒友好羅, 驚畀人笑，但依家反而覺得做返自己，接受自己鍾意嘅嘢，係件好開心嘅事。我鍾意睇書，最鍾嘅係 Robert Muchamore 嘅《CHERUB 系列》。我仲好幸運可以喺2016年6月去佢嘅簽書會見到佢真人。我其他珍藏嘅書仲有《Harry Potter》同《Hunger Games》。",
+          "content_2": "我亦都好鍾意打機，最鍾意嘅遊戲包括《Pokémon Yellow》、《Let's Go Pikachu》、《Hogwarts Legacy》、同《The Sims 3》。2019年，我開始玩《龍與地下城》（Dungeons and Dragons），發現透過呢個奇幻世界，真係可以帶俾我哋好多快樂同創意，特別係疫情封城期間，係一個好有趣同有意義嘅活動。我哋而家都仲keep住玩，每次都笑到停唔到，玩到好癲。我仲係Lego超級粉絲，砌過最大件作品係一隻用咗三日先砌完嘅Lego Spider-Man。",
           "img_alt": "一張我喺倫敦 Warner Bros. Studio Tour，喺古靈閣入面一把劍前面擺 pose 嘅相"
         }
       }
@@ -83,93 +83,75 @@
         }
       },
       "myers_briggs": {
-        "title": "Myers–Briggs Type Indicator (MBTI)",
-        "description": "The Myers–Briggs Type Indicator (MBTI) is a personality test that categorises people into 16 different personality types based on four dichotomies. My test results from <url>16Personalities</url> concluded that my personality type is a Logistician (ISTJ-A) - someone who is hard-working, practical, dependable, meticulous and driven by a strong sense of duty. I bring structure and order to what I do, though I know my preference for tradition and routine can sometimes make adapting to change a bit of a challenge. My results showed the following percentage breakdown for each dichotomy:",
+        "title": "MBTI 性格測試",
+        "description": "MBTI（Myers–Briggs Type Indicator）係一種性格測試，會根據四組性格特質將人分成 16 種唔同類型。我喺 <url>16Personalities</url> 做咗個測試，結果顯示我係 Logistician（ISTJ-A）型：一個勤力實際、有責任感、做事一絲不苟，而且好靠得住嘅人。我鍾意做事有條理、有規律，不過我都知道自己鍾意傳統同例行公事，有時可能會對改變比較抗拒。以下係我喺各方面測出嚟嘅百分比分佈：",
         "traits": {
           "energy": {
-            "title": "Energy",
-            "trait_start": "Introverted (I)",
-            "trait_end": "Extraverted (E)",
-            "percentage": "{percentage}% Introverted"
+            "title": "能量方向",
+            "trait_start": "內向型 (I)",
+            "trait_end": "外向型 (E)",
+            "percentage": "{percentage}% 內向"
           },
           "mind": {
-            "title": "Mind",
-            "trait_start": "Sensing (S)",
-            "trait_end": "Intuition (N)",
-            "percentage": "{percentage}% Sensing"
+            "title": "資訊處理",
+            "trait_start": "實感型 (S)",
+            "trait_end": "直覺型 (N)",
+            "percentage": "{percentage}% 實感"
           },
           "nature": {
-            "title": "Nature",
-            "trait_start": "Thinking (T)",
-            "trait_end": "Feeling (F)",
-            "percentage": "{percentage}% Thinking"
+            "title": "決策方式",
+            "trait_start": "思考型 (T)",
+            "trait_end": "情感型 (F)",
+            "percentage": "{percentage}% 思考"
           },
           "tactics": {
-            "title": "Tactics",
-            "trait_start": "Judging (J)",
-            "trait_end": "Perceiving (P)",
-            "percentage": "{percentage}% Judging"
+            "title": "生活方式",
+            "trait_start": "判斷型 (J)",
+            "trait_end": "感知型 (P)",
+            "percentage": "{percentage}% 判斷"
           },
           "identity": {
-            "title": "Identity",
-            "trait_start": "Assertive (A)",
-            "trait_end": "Turbulent (T)",
-            "percentage": "{percentage}% Assertive"
-          }
-        },
-        "results": {
-          "introversion": {
-            "title": "Introversion",
-            "description": "I prefer to focus on my inner world and thoughts rather than the outer world."
-          },
-          "intuition": {
-            "title": "Intuition",
-            "description": "I prefer to focus on the big picture and future possibilities rather than concrete facts."
-          },
-          "feeling": {
-            "title": "Feeling",
-            "description": "I prefer to make decisions based on personal values and how they affect others."
-          },
-          "judging": {
-            "title": "Judging",
-            "description": "I prefer to plan things in advance and stick to a schedule rather than being spontaneous."
+            "title": "性格身份",
+            "trait_start": "自信型 (A)",
+            "trait_end": "敏感型 (T)",
+            "percentage": "{percentage}% 自信"
           }
         }
       },
       "strengths_weaknesses": {
-        "title": "Strengths and Weaknesses",
-        "description": "I believe that understanding my strengths and weaknesses is key to my personal and professional development, and serves as a guide on which abilities I need to focus working on and which I should continue to foster. Interestingly, both my colour profile and MBTI results provided very similar conclusions to where my strengths and weaknesses lie:",
+        "title": "強項同弱項",
+        "description": "我覺得了解自己嘅強項同弱項，對於個人成長同專業發展好重要，可以幫我知道邊啲能力要繼續培養，邊啲需要多啲努力去改善。有趣嘅係，無論係我嘅色彩分析定 MBTI 性格測試，結果都指出咗好相似嘅強弱分佈：",
         "strengths": {
-          "title": "Strengths",
+          "title": "強項",
           "list": {
             "reliable": {
-              "title": "Reliable and Responsible",
-              "description": "I am a reliable and responsible individual who can be counted on to deliver and complete tasks on time and to a high standard"
+              "title": "可靠同有責任感",
+              "description": "我係一個可靠、有責任感嘅人，交託比我嘅工作都會準時、高質完成"
             },
             "problem_solving": {
-              "title": "Efficient Problem-Solving",
-              "description": "I excel at finding realistic solutions to complex issues and solving them in a methodical and methodical manner"
+              "title": "高效解難能力",
+              "description": "我擅長搵到務實嘅方法去處理複雜問題，並且有系統咁逐步解決"
             },
             "detail": {
-              "title": "Attention to Detail",
-              "description": "My attention to detail ensures nothing falls through the cracks"
+              "title": "注重細節",
+              "description": "我對細節好敏感，確保每一件事都唔會被忽略"
             }
           }
         },
         "weaknesses": {
-          "title": "Weaknesses",
+          "title": "弱項",
           "list": {
             "risk": {
-              "title": "Risk-Averse",
-              "description": "My preference for the familiar and established ways of doing things can limit potential for innovation and exploration"
+              "title": "怕風險",
+              "description": "我傾向做熟悉同有把握嘅事，呢種習慣有時會限制創新或者探索新方向嘅可能性"
             },
             "critical": {
-              "title": "Self-Critical",
-              "description": "My high self-expectations can lead to unnecessary stress"
+              "title": "對自己太嚴格",
+              "description": "我對自己期望好高，有時會令自己壓力大咗"
             },
             "networking": {
-              "title": "Perfectionism",
-              "description": "I can be overly fixated on doing things the right way"
+              "title": "過度追求完美",
+              "description": "我有時會太執著於每件事都要做到最好，令自己變得唔夠彈性"
             }
           }
         }
@@ -178,7 +160,7 @@
   },
   "skills": {
     "title": "專長 💻",
-    "subtitle": "喺呢度，你可以睇到我而家嘅專長組合，以思維導圖形式呈現，分為程式語言、一般技能同創意技能",
+    "subtitle": "喺呢度，你可以睇到我而家嘅專長組合，喺手機上係以列表形式呈現，而喺桌面上就係思維導圖，內容包括程式語言、一般技能同創意技能",
     "mindmap": {
       "brain_icon_alt": "腦部側面圖示",
       "programming_languages": {

@@ -44,7 +44,7 @@ export default function BusinessCard() {
             src="/profile.jpeg"
             width={150}
             height={150}
-            className="rounded-full m-auto"
+            className="rounded-full m-auto w-[100px] h-[100px] md:w-[150px] md:h-[150px] mt-12 md:mt-0"
             alt={contactT("photo_alt")}
           />
           <h3
@@ -65,7 +65,7 @@ export default function BusinessCard() {
                   href={link}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-white flex justify-center md:justify-normal py-2"
+                  className="text-white text-sm md:text-base flex justify-center md:justify-normal py-2"
                 >
                   <Image
                     src={`/icons/${icon}.svg`}

@@ -17,8 +17,8 @@
       "slides": {
         "software_engineer": {
           "title": "I'm a Software Engineer 🧑🏻‍💻",
-          "content_1": "In 2017, whilst working at a tech startup named JustPark, I took an interest in web development and software engineering. It started off with learning HTML, tweaking some CSS here or there and practising bits of SQL in my spare time.",
-          "content_2": "By 2019, I began taking it more seriously and was doing React courses and attending workshops. In Jan 2020, I began working as a Junior Frontend Engineer and have progressed to a Software Engineer since.",
+          "content_1": "In 2017, whilst working at a tech startup named JustPark, I took an interest in web development and software engineering. It started off with learning HTML, tweaking some CSS here or there and practising bits of SQL in my spare time. By 2019, I began taking it more seriously and was doing React courses and attending workshops. In Jan 2020, I began working as a Junior Frontend Engineer and have progressed to a Software Engineer since.",
+          "content_2": "My teenage self would never have envisioned a career in Software Engineering, as I thought my preferences were in creative arts. Over time I've come to realise that Engineering is filled with creative solutions to complex issues. I love the problem-solving aspect of coding and the satisfaction of building something from scratch.",
           "img_alt": "A photo of me sitting on the Ngong Ping 360 cable car ride in Hong Kong, with the mountains in the background"
         },
         "wife": {
@@ -35,14 +35,14 @@
         },
         "travel": {
           "title": "I love to travel ✈️",
-          "content_1": "As a child, I travelled to Hong Kong every 2 - 3 years to visit family. I adore the food and culture there, but above all I'm amazed by the country's landscape - that amongst all the skyscrapers you can still see the backdrop of mountains and nature. I've also enjoyed exploring other parts of Asia, including the Maldives, Thailand, South Korea, Singapore, Taiwan and Japan.",
-          "content_2": "Over the years, I've also seen more of Europe, including Portugal, Spain, Greece and Iceland. In 2024, my wife and I did our first Europe road trip together so we could bring our pup on holiday with us. We drove from the UK to Germany, Italy, Croatia, Hungary, and Austria. We absolutely loved being in the car together, watching the beautiful sights of nature along the way and listening to our favourite songs. I've found that travelling has really expanded my horizons and understanding of different cultures, and with each new destination I discover new flavours, experiences and sensations that makes our world beautifully colourful.",
+          "content_1": "As a child, I travelled to Hong Kong every few years to visit family. I adore the food and culture there, and I'm amazed by the country's landscape of skyscrapers against the backdrop of mountains. I've also enjoyed exploring other parts of Asia, including the Maldives, Thailand, South Korea, Singapore, Taiwan and Japan.",
+          "content_2": "In 2024, my wife and I did our first Europe road trip together so we could bring our pup on holiday with us. We drove from the UK to Germany, Italy, Croatia, Hungary, and Austria. We absolutely loved watching the beautiful sights along the way and singing to our favourite songs. I've found travelling has expanded my horizons and understanding of different cultures, and with each new destination I discover new flavours, experiences and sensations that makes our world beautifully colourful.",
           "img_alt": "A photo of me sitting on a swing on the beach in the Maldives"
         },
         "geek": {
           "title": "I'm a Geek 🤓",
-          "content_1": "Growing up, I felt like being geeky was seen as 'uncool', but nowadays I'm proud to embrace my inner Geek. I love reading - my favourite books being the CHERUB series by Robert Muchamore, and I was lucky enough to meet him at a book signing event in June 2016. As an adult I'm still a big fan and have enjoyed reading his latest Robin Hood series. Other favourite reads in my collection include Harry Potter and The Hunger Games.",
-          "content_2": "I also enjoy playing video games - some of my top favourites being Pokémon Yellow, Let's Go Pikachu, Hogwarts Legacy, The Sims 3, and Super Mario Odyssey. In 2019, I started playing Dungeons and Dragons with some colleagues and it turned out that escaping to a fantasy land was a great way to stay sane during lockdown. We've continued to play since and it's always a fantastic laugh and I love how creative and silly we can be. I'm also a huge fan of building Lego - the biggest challenge being a Lego Spider-Man that took three days - and playing board games.",
+          "content_1": "Growing up, I felt like being geeky was seen as 'uncool', but nowadays I'm proud to embrace my inner Geek. I love reading - my favourite books being the CHERUB series by Robert Muchamore, and I was lucky enough to meet him at a book signing event in June 2016. Other favourite reads in my collection include Harry Potter and The Hunger Games.",
+          "content_2": "I also enjoy playing video games - some of my top favourites being Pokémon Yellow, Hogwarts Legacy, and The Sims 3. In 2019, I started playing Dungeons and Dragons and it turned out that escaping to a fantasy land was a great way to stay sane during lockdown. I've continued to play since and it's always a fantastic laugh and I love the creativity. I'm also a huge fan of building Lego, with my biggest challenge being a Lego Spider-Man that took three days.",
           "img_alt": "A photo of me at the Warner Bros. Studio Tour in London, posing in front of a sword in the Gringotts section"
         }
       }
@@ -89,51 +89,33 @@
         "traits": {
           "energy": {
             "title": "Energy",
-            "trait_start": "Introverted (I)",
-            "trait_end": "Extraverted (E)",
-            "percentage": "{percentage}% Introverted"
+            "trait_start": "Extraverted (E)",
+            "trait_end": "Introverted (I)",
+            "percentage": "{percentage}%"
           },
           "mind": {
             "title": "Mind",
-            "trait_start": "Sensing (S)",
-            "trait_end": "Intuition (N)",
-            "percentage": "{percentage}% Sensing"
+            "trait_start": "Intuition (N)",
+            "trait_end": "Sensing (S)",
+            "percentage": "{percentage}%"
           },
           "nature": {
             "title": "Nature",
             "trait_start": "Thinking (T)",
             "trait_end": "Feeling (F)",
-            "percentage": "{percentage}% Thinking"
+            "percentage": "{percentage}%"
           },
           "tactics": {
             "title": "Tactics",
             "trait_start": "Judging (J)",
             "trait_end": "Perceiving (P)",
-            "percentage": "{percentage}% Judging"
+            "percentage": "{percentage}%"
           },
           "identity": {
             "title": "Identity",
             "trait_start": "Assertive (A)",
             "trait_end": "Turbulent (T)",
-            "percentage": "{percentage}% Assertive"
-          }
-        },
-        "results": {
-          "introversion": {
-            "title": "Introversion",
-            "description": "I prefer to focus on my inner world and thoughts rather than the outer world."
-          },
-          "intuition": {
-            "title": "Intuition",
-            "description": "I prefer to focus on the big picture and future possibilities rather than concrete facts."
-          },
-          "feeling": {
-            "title": "Feeling",
-            "description": "I prefer to make decisions based on personal values and how they affect others."
-          },
-          "judging": {
-            "title": "Judging",
-            "description": "I prefer to plan things in advance and stick to a schedule rather than being spontaneous."
+            "percentage": "{percentage}%"
           }
         }
       },
@@ -179,7 +161,7 @@
   },
   "skills": {
     "title": "Skills 💻",
-    "subtitle": "Here you can see my current skillset in the form of a mindmap, broken down into Programming Languages, General and Creative",
+    "subtitle": "Here you can see my current skillset in the form of a a list on mobile and a mindmap on desktop, broken down into Programming Languages, General and Creative",
     "mindmap": {
       "brain_icon_alt": "An illustration icon of a brain's side profile",
       "programming_languages": {
@@ -491,7 +473,7 @@
   },
   "education": {
     "title": "Education 🎓",
-    "subtitle": "Here you can read about what I've studied, from school to online courses I've taken. As you will probably figure out, I was a bit of a bookworm and became particularly interested in studying the English Language and how language worked. It wasn't until I started working at JustPark that I developed an interest in programming languages. In my teenage years, I dismissed coding as being too much of a Science/Maths type stubject for me, but little did I know how much I would come to love it years later.",
+    "subtitle": "Here you can read about what I've studied, from school to online courses I've taken. As you will probably figure out, I was a bit of a bookworm and became particularly interested in studying the English Language and how language worked. It wasn't until I started working at JustPark that I developed an interest in programming languages. In my teenage years, I dismissed coding as being too much of a Science/Maths type subject for me, but little did I know how much I would come to love it years later.",
     "udemy": {
       "title": "Udemy",
       "logo_alt": "The Udemy logo",

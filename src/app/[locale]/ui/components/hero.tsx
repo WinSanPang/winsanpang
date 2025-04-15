@@ -14,7 +14,7 @@ export default function Hero({ title, subtitle }: Props) {
   return (
     <div className="text-center">
       <h1
-        className={`${lobster.className} text-4xl text-white md:text-6xl md:leading-normal md:mb-8`}
+        className={`${lobster.className} text-4xl text-white md:text-6xl md:leading-normal mb-8`}
       >
         <strong>{title}</strong>
       </h1>

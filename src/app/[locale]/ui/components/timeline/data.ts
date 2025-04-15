@@ -41,7 +41,8 @@ export const workData = [
       title: "text-butternut-brown",
       text: "text-butternut-blue",
     },
-    height: "h-[4100px] md:h-[1500px]",
+    height: "h-[4500px] md:h-[1500px]",
+    shorterHeight: "h-[3100px]",
   },
   {
     id: "justpark",
@@ -106,7 +107,8 @@ export const workData = [
       title: "text-justpark",
       text: "text-black",
     },
-    height: "h-[5400px] md:h-[2200px]",
+    height: "h-[5800px] md:h-[2200px]",
+    shorterHeight: "h-[4300px] md:h-[1970px]",
   },
   {
     id: "ofcom",
@@ -128,7 +130,8 @@ export const workData = [
       title: "text-ofcom-red",
       text: "text-ofcom-blue",
     },
-    height: "h-[1280px] md:h-[570px]",
+    height: "h-[1400px] md:h-[570px]",
+    shorterHeight: "h-[1020px] md:h-[540px]",
   },
   {
     id: "handy",
@@ -150,6 +153,7 @@ export const workData = [
       title: "text-handy-blue",
       text: "text-handy-grey",
     },
-    height: "h-[500px]",
+    height: "",
+    shorterHeight: "",
   },
 ]

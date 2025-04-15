@@ -86,7 +86,7 @@ export default function ColourProfile() {
           ),
         })}
       </p>
-      <div className="grid grid-cols-2 gap-4 mx-40 my-8">
+      <div className="grid md:grid-cols-2 gap-4 md:mx-40 my-8">
         {colourTraits.map(({ key, textColour }) => (
           <div key={key} className="px-8">
             <p className={`font-bold ${textColour}`}>
@@ -98,7 +98,7 @@ export default function ColourProfile() {
           </div>
         ))}
       </div>
-      <div className="flex justify-center gap-20 mt-4">
+      <div className="flex justify-center flex-wrap md:flex-nowrap gap-20 mt-4">
         {colourProfiles.map(({ behaviour, colour, percentages }) => (
           <div key={behaviour} className="flex justify-center flex-wrap">
             <p className="font-bold md:text-xl">
@@ -109,7 +109,7 @@ export default function ColourProfile() {
             </p>
             <div className="relative text-black md:text-xl font-bold ">
               <div
-                className={`w-[400px] h-[400px] rounded-full ${colour} my-8`}
+                className={`w-[300px] h-[300px] md:w-[400px] md:h-[400px] rounded-full ${colour} my-8`}
               />
               {percentages.map(({ percentage, position }) => (
                 <p

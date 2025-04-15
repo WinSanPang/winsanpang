@@ -11,7 +11,7 @@ export default function Page() {
     <div>
       <Hero title={t("title")} subtitle={t("subtitle")} />
       <Mindmap />
-      <SvgRepoCredit />
+      <SvgRepoCredit mobileHidden />
     </div>
   )
 }

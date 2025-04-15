@@ -38,7 +38,7 @@ export default function Page() {
         >
           <strong>{t("carousel_section.title")}</strong>
         </h2>
-        <p className="md:mb-8">
+        <p className="mb-8">
           {t("carousel_section.subtitle")}{" "}
           <ArrowRightIcon className="h-5 w-5 inline-block text-sky-500" />
         </p>
