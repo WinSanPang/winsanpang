@@ -17,7 +17,7 @@ export default function StrengthsWeaknesses() {
             {t(`${copyContext}.strengths.title`)}
           </p>
           <div className="flex justify-center">
-            <ul className="text-left pl-5">
+            <ul className="md:text-left pl-5">
               {strengths.map((strength) => (
                 <div key={strength} className="mb-8">
                   <li className="font-bold text-lg before:content-['💪'] before:mr-2 mb-2">
@@ -37,7 +37,7 @@ export default function StrengthsWeaknesses() {
             {t(`${copyContext}.weaknesses.title`)}
           </p>
           <div className="flex justify-center">
-            <ul className="text-left pl-5">
+            <ul className="md:text-left pl-5">
               {weaknesses.map((weakness) => (
                 <div key={weakness} className="mb-8">
                   <li className="font-bold text-lg before:content-['⚠️'] before:mr-2 mb-2">

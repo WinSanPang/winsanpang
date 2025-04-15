@@ -23,7 +23,7 @@ export default function Hero({ title, subtitle }: Props) {
           {subtitle}
         </h2>
       )}
-      <div className="border-b border-white m-8" />
+      <div className="border-b border-white m-4 md:m-8" />
     </div>
   )
 }

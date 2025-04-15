@@ -14,7 +14,7 @@ export default function Page() {
   return (
     <div>
       <Hero title={t("title")} subtitle={t("subtitle")} />
-      <div className="md:flex justify-center gap-2">
+      <div className="flex flex-wrap justify-center md:gap-2">
         {portfolioSections.map(({ id, colours }) => (
           <Link
             key={id}
@@ -32,10 +32,10 @@ export default function Page() {
           <section
             id={id}
             key={id}
-            className={`bg-gradient-to-r ${colours.from} ${colours.to} m-12 p-12 border-2 rounded-lg text-center`}
+            className={`bg-gradient-to-r ${colours.from} ${colours.to} mt-8 md:m-12 p-4 md:p-12 border-2 rounded-lg text-center`}
           >
             <h3
-              className={`${lobster.className} text-white text-2xl md:text-4xl mb-8`}
+              className={`${lobster.className} text-white text-2xl md:text-4xl mb-4 md:mb-8`}
             >
               {t(`${id}.title`)}
             </h3>
