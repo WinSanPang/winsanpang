@@ -20,7 +20,12 @@ export default function Navigation() {
     { name: "contact", href: "/contact" },
   ]
 
-  const sanitisedPathname = pathname.replace(/^\/[a-z]{2}(\/|$)/, "/")
+  const sanitisedPathname = pathname.replace(
+    /^\/[a-z]{2}(-[A-Z]{2})?(?=\/|$)/,
+    ""
+  )
+
+  console.log("sanitisedPathname", sanitisedPathname)
 
   return (
     <Navbar fluid className="bg-cyan-950">
