@@ -109,7 +109,7 @@ export default function ColourProfile() {
             </p>
             <div className="relative text-black md:text-xl font-bold ">
               <div
-                className={`w-[300px] h-[300px] md:w-[400px] md:h-[400px] rounded-full ${colour} my-8`}
+                className={`w-[300px] h-[300px] md:w-[400px] md:h-[400px] rounded-full ${colour} my-8 animate-flip`}
               />
               {percentages.map(({ percentage, position }) => (
                 <p

@@ -60,7 +60,7 @@ export default function MyersBriggsProfile() {
           <p className="font-bold mb-12 md:text-lg">
             {t(`${copyContext}.traits.${key}.title`)}
           </p>
-          <div className={`absolute top-[38%] ${position}`}>
+          <div className={`absolute top-[38%] ${position} animate-tilt`}>
             <p className="font-bold">
               {t(`${copyContext}.traits.${key}.percentage`, { percentage })}
             </p>
