@@ -65,7 +65,7 @@ export default function BusinessCard() {
                   href={link}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-white text-sm md:text-base flex justify-center md:justify-normal py-2"
+                  className="text-white text-sm md:text-base flex justify-center md:justify-normal py-2 hover:text-sky-500 hover:underline transition-all duration-500"
                 >
                   <Image
                     src={`/icons/${icon}.svg`}

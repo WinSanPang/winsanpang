@@ -1,5 +1,7 @@
 import { getTranslations } from "next-intl/server"
 
+import localeToCharCount from "@/app/[locale]/lib/utils"
+
 import Hero from "@/app/[locale]/ui/components/hero"
 import Timeline from "@/app/[locale]/ui/components/timeline/timeline"
 
@@ -35,7 +37,15 @@ export default async function Page({
 
   return (
     <div>
-      <Hero title={t("title")} subtitle={t("subtitle")} />
+      <Hero
+        title={t("title")}
+        subtitle={t("subtitle")}
+        emoji={{ icon: "🧑🏻‍💻", animation: "animate-coding" }}
+        charCount={localeToCharCount({
+          locale,
+          charCounts: { en: 5, "zh-HK": 8, hu: 16 },
+        })}
+      />
       <Timeline />
     </div>
   )

@@ -4,6 +4,8 @@ import Image from "next/image"
 
 import { lobster } from "@/app/[locale]/ui/fonts"
 
+import localeToCharCount from "@/app/[locale]/lib/utils"
+
 import Hero from "@/app/[locale]/ui/components/hero"
 
 import { portfolioSections } from "@/app/[locale]/portfolio/data"
@@ -40,13 +42,21 @@ export default async function Page({
 
   return (
     <div>
-      <Hero title={t("title")} subtitle={t("subtitle")} />
+      <Hero
+        title={t("title")}
+        subtitle={t("subtitle")}
+        emoji={{ icon: "📁", animation: "animate-spin" }}
+        charCount={localeToCharCount({
+          locale,
+          charCounts: { en: 7, "zh-HK": 6, hu: 16 },
+        })}
+      />
       <div className="flex flex-wrap justify-center md:gap-2">
         {portfolioSections.map(({ id, colours }) => (
           <Link
             key={id}
             href={`#${id}`}
-            className={`${colours.background} rounded-full p-2 m-2 border-2 ${colours.border}`}
+            className={`${colours.background} rounded-full p-2 m-2 border-2 ${colours.border}  hover:scale-110 transition-all duration-500`}
           >
             <strong>
               <span className={colours.title}> {t(`${id}.title`)}</span>

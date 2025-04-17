@@ -3,6 +3,8 @@ import Link from "next/link"
 
 import { ArrowRightIcon } from "@heroicons/react/24/outline"
 
+import localeToCharCount from "@/app/[locale]/lib/utils"
+
 import "@/app/[locale]/ui/global.css"
 import { lobster } from "@/app/[locale]/ui/fonts"
 import Hero from "@/app/[locale]/ui/components/hero"
@@ -57,6 +59,11 @@ export default async function Page({
               {chunks}
             </Link>
           ),
+        })}
+        emoji={{ icon: "👋", animation: "animate-wave" }}
+        charCount={localeToCharCount({
+          locale,
+          charCounts: { en: 9, "zh-HK": 14, hu: 16 },
         })}
       />
       <div className="md:px-28 md:pb-12 text-white text-center">

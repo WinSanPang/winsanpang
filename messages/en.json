@@ -9,7 +9,7 @@
     "photo_alt": "A photograph of me smiling at the camera"
   },
   "home": {
-    "title": "Hi, I'm Win 👋",
+    "title": "Hi, I'm Win",
     "subtitle": "Hello, my name is Win San Pang and welcome to my personal website 👋 Please feel free to navigate your way around and find out more about my career as a Software Engineer, educational experience, skills, portfolio and personal interests. If you'd prefer to just take a look at my CV, click <cv>here</cv> to view it in PDF format.",
     "carousel_section": {
       "title": "Who am I?",
@@ -160,7 +160,7 @@
     }
   },
   "skills": {
-    "title": "Skills 💻",
+    "title": "Skills",
     "subtitle": "Here you can see my current skillset in the form of a a list on mobile and a mindmap on desktop, broken down into Programming Languages, General and Creative",
     "mindmap": {
       "brain_icon_alt": "An illustration icon of a brain's side profile",
@@ -199,7 +199,7 @@
     }
   },
   "work": {
-    "title": "Work 🧑🏻‍💻",
+    "title": "Work",
     "subtitle": "I'm an accomplished Full Stack Software Engineer with a strong emphasis on frontend development. I have 5+ years experience in creating high-quality user interfaces that enhance conversion rates and user engagement. I transitioned from customer service background to web development, demonstrating commitment, self-motivation, and initiative. Below you'll find a timeline of my career journey so far - feel free to scroll down or use the buttons to navigate the sections :)",
     "timeline": {
       "butternut_box": {
@@ -472,7 +472,7 @@
     }
   },
   "education": {
-    "title": "Education 🎓",
+    "title": "Education",
     "subtitle": "Here you can read about what I've studied, from school to online courses I've taken. As you will probably figure out, I was a bit of a bookworm and became particularly interested in studying the English Language and how language worked. It wasn't until I started working at JustPark that I developed an interest in programming languages. In my teenage years, I dismissed coding as being too much of a Science/Maths type subject for me, but little did I know how much I would come to love it years later.",
     "udemy": {
       "title": "Udemy",
@@ -519,7 +519,7 @@
     }
   },
   "portfolio": {
-    "title": "Portfolio 📁",
+    "title": "Portfolio",
     "subtitle": "Here you can find some projects I've participated in and the websites that have been subsequently built.",
     "the_cerberus_affair": {
       "title": "The Cerberus Affair",
@@ -551,7 +551,7 @@
     }
   },
   "contact": {
-    "title": "Contact 📱",
+    "title": "Contact",
     "subtitle": "Please feel free to get in touch with me via the contact details below. Whether it's a job opportunity, a collaboration project, or even just some general feedback about my website, I'd love to hear from you!",
     "role_title": "Software Engineer",
     "photo_alt": "A photograph of me smiling at the camera",

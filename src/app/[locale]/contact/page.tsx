@@ -1,5 +1,7 @@
 import { getTranslations } from "next-intl/server"
 
+import localeToCharCount from "@/app/[locale]/lib/utils"
+
 import Hero from "@/app/[locale]/ui/components/hero"
 import BusinessCard from "@/app/[locale]/ui/components/business-card"
 import SvgRepoCredit from "@/app/[locale]/ui/components/svg-repo-credit"
@@ -36,7 +38,15 @@ export default async function Page({
 
   return (
     <div>
-      <Hero title={t("title")} subtitle={t("subtitle")} />
+      <Hero
+        title={t("title")}
+        subtitle={t("subtitle")}
+        emoji={{ icon: "📱", animation: "animate-screen" }}
+        charCount={localeToCharCount({
+          locale,
+          charCounts: { en: 7, "zh-HK": 4, hu: 16 },
+        })}
+      />
       <BusinessCard />
       <SvgRepoCredit />
     </div>
