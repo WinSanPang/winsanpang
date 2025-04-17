@@ -56,7 +56,7 @@ export default async function Page({
           <Link
             key={id}
             href={`#${id}`}
-            className={`${colours.background} rounded-full p-2 m-2 border-2 ${colours.border}  hover:scale-110 transition-all duration-500`}
+            className={`${colours.background} rounded-full p-2 m-2 border-2 ${colours.border} animate-bounce`}
           >
             <strong>
               <span className={colours.title}> {t(`${id}.title`)}</span>

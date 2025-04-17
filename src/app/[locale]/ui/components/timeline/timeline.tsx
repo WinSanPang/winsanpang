@@ -16,7 +16,7 @@ export default function Timeline() {
           <a
             key={id}
             href={`#${id}`}
-            className={`${colours.background} text-center rounded-full p-1 md:p-2 md:m-2 border-2 ${colours.border} hover:scale-110 transition-all duration-500`}
+            className={`${colours.background} text-center rounded-full p-1 md:p-2 md:m-2 border-2 ${colours.border} animate-bounce`}
           >
             <strong>
               <span className={colours.title}>{t(`${id}.company_name`)}</span>
