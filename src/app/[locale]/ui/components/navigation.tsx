@@ -7,17 +7,19 @@ import { usePathname } from "next/navigation"
 import LanguageDropdown from "@/app/[locale]/ui/components/language-dropdown"
 import { Navbar } from "flowbite-react"
 
+import { Routes } from "@/app/[locale]/lib/definitions"
+
 export default function Navigation() {
   const pathname = usePathname()
   const t = useTranslations("navigation")
 
   const navigation = [
-    { name: "home", href: "/" },
-    { name: "skills", href: "/skills" },
-    { name: "work", href: "/work" },
-    { name: "education", href: "/education" },
-    { name: "portfolio", href: "/portfolio" },
-    { name: "contact", href: "/contact" },
+    { name: "home", href: Routes.Home },
+    { name: "skills", href: Routes.Skills },
+    { name: "work", href: Routes.Work },
+    { name: "education", href: Routes.Education },
+    { name: "portfolio", href: Routes.Portfolio },
+    { name: "contact", href: Routes.Contact },
   ]
 
   const sanitisedPathname = pathname

@@ -577,5 +577,31 @@
   },
   "shared": {
     "name": "Win San Pang"
+  },
+  "metadata": {
+    "home": {
+      "title": "Win San Pang - Software Engineer",
+      "description": "Hi, I'm Win San Pang, a Software Engineer based in London. Welcome to my personal website where you can find out more about my career, educational experience, skills, portfolio and personal interests."
+    },
+    "skills": {
+      "title": "Skills | Win San Pang",
+      "description": "See my current skillset broken down into Programming Languages (including React, Typescript, Javascript and Apollo GraphQL), General and Creative."
+    },
+    "work": {
+      "title": "Work | Win San Pang",
+      "description": "I'm an accomplished Full Stack Software Engineer with a strong emphasis on frontend development. I have 5+ years experience in creating high-quality user interfaces that enhance conversion rates and user engagement."
+    },
+    "education": {
+      "title": "Education | Win San Pang",
+      "description": "Read about my educational experience, including my University studies at King's College London and online Udemy courses I've taken for programming."
+    },
+    "portfolio": {
+      "title": "Portfolio | Win San Pang",
+      "description": "Here you can find some projects I've participated in and the websites that have been subsequently built."
+    },
+    "contact": {
+      "title": "Contact | Win San Pang",
+      "description": "Here you can find my contact information - whether it's a job opportunity, a collaboration project, or even just some general feedback about my website, I'd love to hear from you!"
+    }
   }
 }

@@ -1,4 +1,4 @@
-import { useTranslations } from "next-intl"
+import { getTranslations } from "next-intl/server"
 import Link from "next/link"
 import Image from "next/image"
 
@@ -8,8 +8,35 @@ import Hero from "@/app/[locale]/ui/components/hero"
 
 import { portfolioSections } from "@/app/[locale]/portfolio/data"
 
-export default function Page() {
-  const t = useTranslations("portfolio")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+
+  const t = await getTranslations({
+    locale,
+    namespace: "metadata",
+  })
+
+  return {
+    title: t("portfolio.title"),
+    description: t("portfolio.description"),
+  }
+}
+
+export default async function Page({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+
+  const t = await getTranslations({
+    locale,
+    namespace: "portfolio",
+  })
 
   return (
     <div>

@@ -1,4 +1,4 @@
-import { useTranslations } from "next-intl"
+import { getTranslations } from "next-intl/server"
 import Link from "next/link"
 
 import { ArrowRightIcon } from "@heroicons/react/24/outline"
@@ -12,8 +12,35 @@ import ColourProfile from "@/app/[locale]/ui/components/colour-profile/colour-pr
 import MyersBriggsProfile from "@/app/[locale]/ui/components/myers-briggs-profile/myers-briggs-profile"
 import StrengthsWeaknesses from "@/app/[locale]/ui/components/strengths-weaknesses/strengths-weaknesses"
 
-export default function Page() {
-  const t = useTranslations("home")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+
+  const t = await getTranslations({
+    locale,
+    namespace: "metadata",
+  })
+
+  return {
+    title: t("home.title"),
+    description: t("home.description"),
+  }
+}
+
+export default async function Page({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+
+  const t = await getTranslations({
+    locale,
+    namespace: "home",
+  })
 
   return (
     <>
