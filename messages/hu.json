@@ -46,5 +46,335 @@
         }
       }
     }
+  },
+  "skills": {
+    "title": "Skilljeim",
+    "subtitle": "Itt láthatod a jelenlegi készségeimet egy elmetérkép formájában, három kategóriára bontva: Programozási nyelvek, Általános és Kreatív",
+    "mindmap": {
+      "brain_icon_alt": "An illustration icon of a brain's side profile",
+      "programming_languages": {
+        "title": "Programming Languages"
+      },
+      "general": {
+        "problem_solving": "Problémamegoldás",
+        "multi_tasking": "Többfeladatos munkavégzés",
+        "communication": "Kommunikáció",
+        "teamwork": "Csapatmunka",
+        "attention_to_detail": "Részletekre való odafigyelés",
+        "leadership": "Vezetői készség",
+        "cantonese": "Kínai (kantoni) nyelv",
+        "customer_service": "Ügyfélszolgálat"
+      },
+      "creative": {
+        "imovie": "iMovie",
+        "photoshop": "Photoshop",
+        "photography": "Photography",
+        "creative_writing": "Creative writing"
+      }
+    }
+  },
+  "work": {
+    "title": "Munka",
+    "subtitle": "Tapasztalt Full Stack Software Engineer vagyok, aki a frontend fejlesztésre helyezi a hangsúlyt. Több mint 5 év tapasztalattal rendelkezem magas színvonalú felhasználói felületek készítésében, amelyek javítják az átváltási arányokat és a felhasználói elköteleződést. Ügyfélszolgálati háttérből váltottam át a webfejlesztés világába, ami elkötelezettséget, önmotivációt és kezdeményezőkészséget mutat. Az alábbiakban látható a karrierem idővonala eddig – görgess lejjebb, vagy használd a gombokat a szakaszok közötti navigáláshoz :)",
+    "timeline": {
+      "butternut_box": {
+        "summary": "Junior Frontend Mérnökként csatlakoztam a Butternut Box csapatához, és az évek során Szoftvermérnökké léptem elő. Főként az Acquisition csapatban dolgoztam, ahol a feladatom kiváló minőségű UI és UX fejlesztése volt, azzal a céllal, hogy támogassam a vállalat nemzetközi növekedését és terjeszkedését.",
+        "roles": {
+          "software_engineer": {
+            "title": "Szoftvermérnök",
+            "start_date": "2021. február",
+            "end_date": "Jelenleg is",
+            "responsibilities": {
+              "acquisition": {
+                "heading": "Acquisition termékterület",
+                "description": "Elsősorban az Acquisition digitális termékek fejlesztésén dolgoztam, magas színvonalú felhasználói felületeket készítve. AB tesztelést alkalmaztam a termékfunkciók fejlesztésében, ami 13%-os átváltási arány növekedést eredményezett és több regisztrációt hozott. Főbb funkciók: főoldal, publikus ügyfélszolgálati és landing oldalak, a teljes regisztrációs és fizetési folyamat, valamint az ajánlj egy barátot program."
+              },
+              "localisation": {
+                "heading": "Lokalizációs szakértő",
+                "description": "Támogattam a vállalat terjeszkedését öt új országban és négy új nyelven, olyan eszközök használatával, mint a Phrase és az i18n."
+              },
+              "blog": {
+                "heading": "Belső blogrendszer fejlesztése",
+                "description": "Egy másik mérnökkel közösen belső blogrendszert fejlesztettünk, majd később optimalizáltam és továbbfejlesztettem, amikor ez a funkció az Acquisition termékterülethez került."
+              },
+              "debugging": {
+                "heading": "Hibakeresés és incidenskezelés",
+                "description": "Proaktívan hibakeresést végeztem és megoldottam az incidenscsatornán bejelentett problémákat."
+              },
+              "quality": {
+                "heading": "Kódkarbantartás és minőség",
+                "description": "Korábbi QA tapasztalataimat felhasználva kialakítottam és fejlesztettem a hivatalos QA folyamatot, hogy a funkciók és kiadások magas színvonalúak legyenek. Gyakran végeztem kódtisztítást és refaktorálást – egyszer több mint 13 000 sor törlésével egyetlen Pull Requestben."
+              },
+              "testing": {
+                "heading": "Tesztlefedettség",
+                "description": "Automatizált teszteket írtam és tartottam karban különböző keretrendszerekben, mint például Cypress, Jest, RSpec és Cucumber-Rails."
+              },
+              "optimisation": {
+                "heading": "Core Web Vitals optimalizálás",
+                "description": "Olyan fejlesztéseket hajtottam végre, amelyek jelentősen javították a Core Web Vitals és Lighthouse pontszámokat (asztali: +25%, mobil: +68%), így növelve az SEO teljesítményt."
+              },
+              "documentation": {
+                "heading": "Részletes dokumentáció írása",
+                "description": "Átfogó dokumentációkat készítettem, például kutatási jegyzeteket, lokalizációs folyamatokat, kulcsfontosságú funkciók leírását és utólagos értékeléseket."
+              },
+              "knowledge_sharing": {
+                "heading": "Tudásmegosztás",
+                "description": "React oktatásokat tartottam a frontend tudásukat bővíteni kívánó fejlesztőknek."
+              },
+              "project_leadership": {
+                "heading": "Projektvezetés",
+                "description": "Számos kulcsfontosságú projektet vezettem, beleértve az ügyfélregisztrációs folyamat többszöri jelentős újraépítését."
+              },
+              "mentorship": {
+                "heading": "Csapatvezetés és mentorálás",
+                "description": "A menedzser távollétében csapatvezetőként működtem. Mentoráltam junior mérnököket, támogatva őket szakmai fejlődésükben."
+              },
+              "communication": {
+                "heading": "Kommunikációs készségek",
+                "description": "Hatékonyan működtem együtt és magyaráztam el komplex technikai megoldásokat technikai és nem technikai közönség számára is – többek között termékmenedzserek, designerek és döntéshozók számára."
+              },
+              "recruitment": {
+                "heading": "Toborzás",
+                "description": "Részt vettem az új jelöltek interjúztatásában, segítve a legjobb fejlesztői tehetségek kiválasztását."
+              }
+            },
+            "polaroids": {
+              "summer_party": {
+                "img_alt": "Egy fotó rólam a Butternut Box kollégáimmal a nyári bulin",
+                "caption": "Csapatos móka a nyári bulin 😎"
+              },
+              "office_day": {
+                "img_alt": "Egy fotó a kutyámról, Donutról, ahogy egy széken ül az irodában",
+                "caption": "A kutyám, Donut is részt vesz a csapatmegbeszélésen az irodában 🐶"
+              },
+              "christmas_party": {
+                "img_alt": "Egy fotó rólam a Butternut Box kollégáimmal a karácsonyi partin",
+                "caption": "Kiöltözve, ragyogva a karácsonyi bulira ✨"
+              }
+            }
+          }
+        }
+      },
+      "justpark": {
+        "company_name": "JustPark 🚗",
+        "summary": "A JustParknál Customer Happiness Associate-ként kezdtem, majd fokozatosan átléptem a Mérnöki csapatba: először Associate QA Engineerként, majd Associate Frontend Engineerként dolgoztam.",
+        "roles": {
+          "associate_frontend_engineer": {
+            "start_date": "2020. január",
+            "end_date": "2021. február",
+            "responsibilities": {
+              "development": {
+                "heading": "Alkalmazásfejlesztés és karbantartás",
+                "description": "Fejlesztettem, bővítettem és karbantartottam a cég öt fő webalkalmazásának kódbázisát. Feladataim közé tartozott UI komponensek, redukerek és teljes oldalfolyamatok létrehozása React 16 és Redux Toolkit használatával, valamint automatizált tesztek frissítése Jest, Enzyme, Mocha és Cypress segítségével."
+              },
+              "collaboration": {
+                "heading": "Keresztfunkciós együttműködés",
+                "description": "Együttműködtem a Backend, QA és Product csapatokkal a magas színvonalú funkciók és termékfejlesztések időben történő leszállításának érdekében."
+              },
+              "tools": {
+                "heading": "Fejlesztői eszközök",
+                "description": "Számos szoftvert és eszközt használtam – például PhpStorm, Jenkins, JIRA, GitHub, Percy, Zeplin és Paw – a fejlesztés és önálló tesztelés támogatására, biztosítva, hogy a kódváltozások megfeleljenek a tervezett termékdizájnnak."
+              }
+            },
+            "polaroids": {
+              "fav_dev": {
+                "img_alt": "Egy képernyőkép egy beszélgetésről, ahol egy QA kolléga nagyon kedvesen megdicséri a fejlesztői munkámat",
+                "caption": "Magas dicséret egy QA kollégától a fejlesztői munkámért 😍"
+              }
+            }
+          },
+          "associate_qa_engineer": {
+            "start_date": "2019. január",
+            "end_date": "2020. január",
+            "responsibilities": {
+              "testing": {
+                "heading": "Átfogó tesztelés és hibakeresés",
+                "description": "Átfogó tesztelést és hibakeresést végeztem négy fejlesztői csapat termékváltozásain – Frontend, Backend, Mobil (Appok) és Infrastruktúra – főként Backend kódra fókuszálva."
+              },
+              "bdd": {
+                "heading": "Viselkedésalapú fejlesztés (BDD) alkalmazása",
+                "description": "Viselkedésalapú fejlesztési keretrendszert alkalmaztam annak érdekében, hogy a kódváltozások megfeleljenek az üzleti vagy érdekelt felek igényeinek."
+              },
+              "automation": {
+                "heading": "Automatizált tesztelés és hatékonyságnövelés",
+                "description": "Automatizált teszteket készítettem Cypress és TestCafe segítségével, valamint Laravel Seedereket hoztam létre a QA és fejlesztési folyamatok hatékonyságának javítására."
+              },
+              "tools": {
+                "heading": "Fejlesztői eszközök",
+                "description": "Számos szoftvert használtam, mint a Paw, Jenkins, JIRA, GitHub, Percy, Sequel Pro és TablePlus, hogy a kódváltozások alaposan és hatékonyan legyenek tesztelve."
+              },
+              "demos": {
+                "heading": "Termékbemutatók",
+                "description": "Rendszeresen bemutattam a termékváltozásokat a teljes cégnek kétheti Product Demo alkalmakkor, elősegítve az átláthatóságot és az interdiszciplináris együttműködést."
+              },
+              "service_desk": {
+                "heading": "Service Desk kezelése",
+                "description": "A cég Service Desk-jének kezelése: a belső csapatok által bejelentett problémák kivizsgálása, okok feltárása, valamint együttműködés a fejlesztői csapattal a megoldások kidolgozásában."
+              }
+            },
+            "polaroids": {
+              "banter": {
+                "img_alt": "Egy képernyőkép egy beszélgetésről köztem, egy másik QA és egy fejlesztő között, ahol a fejlesztő engem dicsér, mint a legjobb backend QA",
+                "caption": "Klasszikus QA és Dev poénkodás 🤣"
+              }
+            }
+          },
+          "senior_customer_happiness_associate": {
+            "start_date": "2018. január",
+            "end_date": "2019. január",
+            "responsibilities": {
+              "escalations": {
+                "heading": "Panaszkezelés",
+                "description": "Eszkalált ügyfélpanaszok kezelése, valamint normál ügyfélmegkeresések támogatása forgalmas időszakokban."
+              },
+              "mentoring": {
+                "heading": "Képzés és mentorálás",
+                "description": "Új kollégák betanítása és mentorálása a zökkenőmentes beilleszkedés érdekében."
+              },
+              "monitoring": {
+                "heading": "Megfigyelés",
+                "description": "Az ügyféladatbázis monitorozása gyanús tevékenységek szűrésére, visszaélések (pl. chargeback) kezelése."
+              },
+              "collaboration": {
+                "heading": "Együttműködés",
+                "description": "Rendszeres megbeszélések más részlegekkel, mint például terméktervezés és marketing, a közös üzleti célok meghatározására és visszajelzések megosztására az ügyfélszolgálattal."
+              },
+              "reporting": {
+                "heading": "Jelentéskészítés",
+                "description": "Jelentések és prezentációk készítése a heti csapatmegbeszélésekre."
+              }
+            },
+            "polaroids": {
+              "christmas_social": {
+                "img_alt": "Egy fénykép rólam és az Ügyfél Elégedettség csapat tagjaival egy karácsonyi bulin",
+                "caption": "Karácsonyi hangulatban a Customer Happiness csapattal 🤶🎅️"
+              }
+            }
+          },
+          "customer_happiness_associate": {
+            "start_date": "2017. április",
+            "end_date": "2018. január",
+            "responsibilities": {
+              "customer_service": {
+                "heading": "Ügyfelek segítése",
+                "description": "Magas színvonalú, professzionális ügyfélszolgálat nyújtása, ügyfélkérdések és panaszok kezelése telefonon, emailben (Zendesk) és közösségi média felületeken."
+              },
+              "targets": {
+                "heading": "Célok elérése",
+                "description": "Folyamatosan túlteljesítettem a KPI-okat, beleértve az ügyfél-elégedettséget, híváshosszt és az ügykezelések számát."
+              },
+              "collaboration": {
+                "heading": "Együttműködés",
+                "description": "Közös munka több részleggel – pénzügy, ügyfélkapcsolatok – az ügyfélproblémák megoldása érdekében."
+              }
+            },
+            "polaroids": {
+              "positive_feedback": {
+                "img_alt": "Négy pozitív ügyfél-visszajelzés képernyőképe, amit JustPark ügyfelektől kaptam",
+                "caption": "Kedves visszajelzések boldog JustPark ügyfelektől 🥰"
+              }
+            }
+          }
+        }
+      },
+      "ofcom": {
+        "company_name": "Ofcom 📺",
+        "summary": "Az Ofcom-nál dolgoztam mint Consumer Contact Associate, ahol alapos ismereteket szereztem a távközlési és műsorszórási szabályozásokról, valamint továbbfejlesztettem a szakmai készségeimet a vásárlói megkeresések kezelésében.",
+        "roles": {
+          "consumer_contact_associate": {
+            "title": "Consumer Contact Associate",
+            "start_date": "2015. június",
+            "end_date": "2016. december",
+            "responsibilities": {
+              "customer_service": {
+                "heading": "Professzionális ügyfélszolgálat",
+                "description": "Magas színvonalú, professzionális ügyfélszolgálat nyújtása a fogyasztók távközlési és műsorszórási kérdéseivel és panaszokkal kapcsolatban telefonon."
+              },
+              "targets": {
+                "heading": "Célok teljesítése",
+                "description": "Következetesen teljesítettem a KPI-kat, beleértve a minőségértékelési célokat a készített esetek nyilvántartásának és a híváskezelési minőségi szabványokat, mind a hívásidőt, mind az ügyfél-elégedettséget figyelembe véve."
+              },
+              "collaboration": {
+                "heading": "Csapatmunka",
+                "description": "Kapcsolattartás a Ofcom szakpolitikai és nyomozó csapataival, együttműködés ezekkel az osztályokkal, ha szükséges a fogyasztói megkeresések megoldásában."
+              }
+            },
+            "polaroids": {
+              "christmas": {
+                "img_alt": "A fényképem, amit kinyomtattam, és karácsonyfadíszként akasztottam fel",
+                "caption": "Az Ofcom karácsonyfáján szerepeltem Lego és Pokemon iránti szeretetem miatt 🎄"
+              }
+            }
+          }
+        }
+      },
+      "handy": {
+        "company_name": "Handy 🧹",
+        "summary": "I started at Handy as a Customer Service Agent and quickly progressed to the role of Customer Service Shift Leader. This was my first job after graduating from university and I learned a lot about customer service, leadership, and teamwork.",
+        "roles": {
+          "customer_service_shift_leader": {
+            "title": "Customer Service Shift Leader",
+            "start_date": "Oct 2014",
+            "end_date": "May 2015",
+            "responsibilities": {
+              "customer_service": {
+                "heading": "Quality Customer Service",
+                "description": "Providing exemplary customer service over the phone and via email."
+              },
+              "leadership": {
+                "heading": "Leadership Skills",
+                "description": "Promoted to the role of Shift Leader, with responsibilities including coordinating the customer service team, handling escalations, training new team members, and interviewing applicants."
+              },
+              "awards": {
+                "heading": "Team Awards",
+                "description": "Was awarded the titles: 'Above and Beyond', 'Best Team Player' and 'Employee of the Week'."
+              }
+            },
+            "polaroids": {
+              "halloween_social": {
+                "img_alt": "A photograph of me with Handy colleagues at a Halloween team social",
+                "caption": "Dressed up as a Vampire for the Handy Halloween Party 🧛"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "education": {
+    "title": "Tanulmányok",
+    "subtitle": "Itt olvashatsz arról, hogy mit tanultam – az iskolától kezdve egészen az online kurzusokig, amiket elvégeztem. Valószínűleg hamar rájössz, hogy elég nagy könyvmoly voltam, és különösen érdekelt az angol nyelv tanulmányozása, illetve az, hogyan működik maga a nyelv. Csak amikor elkezdtem dolgozni a JustParknál, akkor alakult ki bennem az érdeklődés a programozási nyelvek iránt. Tizenévesen úgy gondoltam, a kódolás túl tudományos/matematikai dolog hozzám képest, de akkor még nem sejtettem, mennyire meg fogom szeretni később.",
+    "udemy": {
+      "logo_alt": "A Udemy logója"
+    },
+    "kings_college_london": {
+      "logo_alt": "A King's College London logója"
+    },
+    "highams_park": {
+      "logo_alt": "A Highams Park Hatévfolyamos Főiskola logója"
+    },
+    "willowfield": {
+      "logo_alt": "A Willowfield Iskola logója"
+    }
+  },
+  "contact": {
+    "title": "Kapcsolat",
+    "subtitle": "Nyugodtan vedd fel velem a kapcsolatot az alábbi elérhetőségeim egyikén. Legyen szó álláslehetőségről, közös projektről vagy akár csak általános visszajelzésről a weboldalam kapcsán – nagyon szívesen hallanék felőled!",
+    "photo_alt": "Egy fénykép rólam, ahogy mosolyogva nézek a kamerába",
+    "phone": {
+      "icon_alt": "Egy illusztrált telefon ikon"
+    },
+    "email": {
+      "icon_alt": "Egy illusztrált boríték ikon"
+    },
+    "linkedin": {
+      "icon_alt": "A LinkedIn logója"
+    },
+    "github": {
+      "icon_alt": "A GitHub logója"
+    },
+    "instagram": {
+      "icon_alt": "Az Instagram logója"
+    }
   }
 }

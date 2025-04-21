@@ -4,7 +4,6 @@ import localeToCharCount from "@/app/[locale]/lib/utils"
 
 import Hero from "@/app/[locale]/ui/components/hero"
 import Mindmap from "@/app/[locale]/ui/components/mindmap/mindmap"
-import SvgRepoCredit from "@/app/[locale]/ui/components/svg-repo-credit"
 
 export async function generateMetadata({
   params,
@@ -44,11 +43,10 @@ export default async function Page({
         emoji={{ icon: "💻", animation: "animate-float" }}
         charCount={localeToCharCount({
           locale,
-          charCounts: { en: 5, "zh-HK": 4, hu: 16 },
+          charCounts: { en: 5, "zh-HK": 4, hu: 7 },
         })}
       />
       <Mindmap />
-      <SvgRepoCredit mobileHidden />
     </div>
   )
 }

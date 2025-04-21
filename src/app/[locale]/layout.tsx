@@ -6,9 +6,11 @@ import { ReactNode } from "react"
 import "@/app/[locale]/ui/global.css"
 import { inter } from "@/app/[locale]/ui/fonts"
 import Navigation from "@/app/[locale]/ui/components/navigation"
+import Footer from "@/app/[locale]/ui/components/footer"
 
 type Props = {
   children: ReactNode
+  params: Promise<{ locale: string }>
 }
 
 export default async function RootLayout({ children, params }: Props) {
@@ -29,11 +31,7 @@ export default async function RootLayout({ children, params }: Props) {
             <Navigation />
             <div className="p-6 md:px-28 bg-gray-900">{children}</div>
           </main>{" "}
-          <footer className="bg-gray-900 text-white p-6 text-center">
-            <div className="border-b border-white border-dashed my-8 mx-28" />
-            <p>© {new Date().getFullYear()} Win San Pang</p>
-            <p>{t("made_with_love")}</p>
-          </footer>
+          <Footer />
         </NextIntlClientProvider>
       </body>
     </html>

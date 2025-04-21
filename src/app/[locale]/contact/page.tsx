@@ -4,7 +4,6 @@ import localeToCharCount from "@/app/[locale]/lib/utils"
 
 import Hero from "@/app/[locale]/ui/components/hero"
 import BusinessCard from "@/app/[locale]/ui/components/business-card"
-import SvgRepoCredit from "@/app/[locale]/ui/components/svg-repo-credit"
 
 export async function generateMetadata({
   params,
@@ -44,11 +43,10 @@ export default async function Page({
         emoji={{ icon: "📱", animation: "animate-screen" }}
         charCount={localeToCharCount({
           locale,
-          charCounts: { en: 7, "zh-HK": 4, hu: 16 },
+          charCounts: { en: 7, "zh-HK": 4, hu: 8 },
         })}
       />
       <BusinessCard />
-      <SvgRepoCredit />
     </div>
   )
 }

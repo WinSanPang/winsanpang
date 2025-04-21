@@ -1,10 +1,7 @@
 import { useTranslations } from "next-intl"
-import Link from "next/link"
 import Image from "next/image"
 
 import { education } from "./data"
-
-import { lobster } from "@/app/[locale]/ui/fonts"
 
 export default function Certificate() {
   const educationT = useTranslations("education")

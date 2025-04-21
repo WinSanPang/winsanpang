@@ -52,7 +52,7 @@ export default function Mindmap() {
           alt={t("brain_icon_alt")}
           width={300}
           height={300}
-          className="hidden md:block absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
+          className="hidden md:block absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 animate-screen"
         />
         <h3
           className={`${lobster.className} text-center text-2xl md:text-4xl text-indigo-800 font-bold md:mt-8 mb-8 [text-shadow:_-1.0px_1.0px_2.0px_white,1.0px_1.0px_2.0px_white,1.0px_-1.0px_0_white,-1.0px_-1.0px_0_white]`}
@@ -88,7 +88,7 @@ export default function Mindmap() {
           alt="An illustration icon of a brain's side profile"
           width={300}
           height={300}
-          className="hidden md:block absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
+          className="hidden md:block absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 animate-screen"
         />
         <h3
           className={`${lobster.className} text-center text-2xl md:text-4xl text-purple-800 font-bold md:mt-8 mb-8 [text-shadow:_-1.0px_1.0px_2.0px_white,1.0px_1.0px_2.0px_white,1.0px_-1.0px_0_white,-1.0px_-1.0px_0_white]`}

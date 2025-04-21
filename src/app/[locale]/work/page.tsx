@@ -43,7 +43,7 @@ export default async function Page({
         emoji={{ icon: "🧑🏻‍💻", animation: "animate-coding" }}
         charCount={localeToCharCount({
           locale,
-          charCounts: { en: 5, "zh-HK": 8, hu: 16 },
+          charCounts: { en: 5, "zh-HK": 8, hu: 6 },
         })}
       />
       <Timeline />
