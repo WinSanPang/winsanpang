@@ -24,7 +24,7 @@ export default async function RootLayout({ children, params }: Props) {
   })
 
   return (
-    <html lang="en" className="scroll-smooth">
+    <html lang={locale} className="scroll-smooth">
       <body className={`${inter.className} antialiased overscroll-none`}>
         <NextIntlClientProvider messages={messages}>
           <main className="flex min-h-screen flex-col">
