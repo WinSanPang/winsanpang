@@ -1,6 +1,7 @@
 import { NextIntlClientProvider } from "next-intl"
 import { getMessages } from "next-intl/server"
 import { getTranslations } from "next-intl/server"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 import { ReactNode } from "react"
 import "@/app/[locale]/ui/global.css"
@@ -30,6 +31,7 @@ export default async function RootLayout({ children, params }: Props) {
           <main className="flex min-h-screen flex-col">
             <Navigation />
             <div className="p-6 md:px-28 bg-gray-900">{children}</div>
+            <SpeedInsights />
           </main>{" "}
           <Footer />
         </NextIntlClientProvider>
