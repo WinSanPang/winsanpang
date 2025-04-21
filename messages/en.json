@@ -523,7 +523,7 @@
     "subtitle": "Here you can find some projects I've participated in and the websites that have been subsequently built.",
     "the_cerberus_affair": {
       "title": "The Cerberus Affair",
-      "description_1": "The Cerberus Affair website was built bespoke to complement my neighbour's book launch in May 2020 and provide an interactive and engaging experience to potential readers and fans, allowing them to find out a bit more about the story, characters and the author. I was solely responsible for the entire creation of the website, from the design through to building and deploying it to production.",
+      "description_1": "The Cerberus Affair website was built bespoke to complement my neighbour's book launch in May 2020. The aim of this project was to provide an interactive and engaging experience to potential readers and fans, allowing them to find out a bit more about the story, characters and the author. I was solely responsible for the entire creation of the website, from the design through to building and deploying it to production.",
       "description_2": "The website was built using React and my inspiration for the design came from reading the book as research for the project. This ensured that the website would be an accurate representation of the story and enhance readers' interest in the book. You can view the website and find out more about The Cerberus Affair by visiting:",
       "img_alt_1": "The Cerberus Affair website homepage",
       "img_alt_2": "The Cerberus Affair website read the book page",
