@@ -561,29 +561,32 @@
     "svg_repo_credit": "圖示由<svgrepo>SVG Repo</svgrepo>提供 🧠",
     "made_with_love": "用 NextJS 同 Tailwind CSS 製作，充滿 ❤️ 同心機～"
   },
+  "shared": {
+    "name": "彭詠珊"
+  },
   "metadata": {
     "home": {
-      "title": "Win San Pang - 軟件工程師",
-      "description": "你好，我係 Win San Pang，一位住喺倫敦嘅軟件工程師。歡迎嚟到我個人網站，可以了解更多關於我嘅工作經驗、教育背景、技能、作品集同個人興趣。"
+      "title": "彭詠珊 - 軟件工程師",
+      "description": "你好，我係 彭詠珊，一位住喺倫敦嘅軟件工程師。歡迎嚟到我個人網站，可以了解更多關於我嘅工作經驗、教育背景、技能、作品集同個人興趣。"
     },
     "skills": {
-      "title": "技能 | Win San Pang",
+      "title": "技能 | 彭詠珊",
       "description": "睇下我而家用緊嘅技能，包括程式語言（例如 React、Typescript、Javascript 同 Apollo GraphQL）、通用技能同創意方面嘅技能。"
     },
     "work": {
-      "title": "工作經驗 | Win San Pang",
+      "title": "工作經驗 | 彭詠珊",
       "description": "我係一位經驗豐富嘅全端軟件工程師，特別專注做前端開發。擁有超過五年打造高質素用戶介面嘅經驗，幫助提升轉化率同用戶互動。"
     },
     "education": {
-      "title": "教育背景 | Win San Pang",
+      "title": "教育背景 | 彭詠珊",
       "description": "了解下我嘅學習歷程，包括我喺倫敦國王學院讀大學時嘅經歷，仲有我喺 Udemy 上面修讀過嘅編程課程。"
     },
     "portfolio": {
-      "title": "作品集 | Win San Pang",
+      "title": "作品集 | 彭詠珊",
       "description": "呢度可以睇到我參與過嘅項目，仲有啲已經建好嘅網站。"
     },
     "contact": {
-      "title": "聯絡我 | Win San Pang",
+      "title": "聯絡我 | 彭詠珊",
       "description": "你可以喺呢度搵到我嘅聯絡方法 — 無論係工作機會、合作項目，或者對我網站有咩意見，我都好樂意聽你講！"
     }
   }
