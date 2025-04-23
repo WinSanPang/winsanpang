@@ -10,7 +10,7 @@
   },
   "home": {
     "title": "你好啊, 我係阿珊",
-    "subtitle": "你好，我叫彭詠珊，歡迎嚟到我嘅個人網站 👋 歡迎你隨便瀏覽，了解下我做 Software Engineer 嘅經歷、學歷、專長、作品集同埋興趣。如果你想即刻睇我嘅履歷，click <cv>呢度</cv> 就可以下載 PDF 格式啦!",
+    "subtitle": "你好，我叫彭詠珊，歡迎嚟到我嘅個人網站 👋 歡迎你隨便瀏覽，了解下我做 Software Engineer 嘅經歷、學歷、專長、作品集同埋興趣。你亦可以直接睇同下載我嘅 <cv>履歷</cv>（PDF格式）。",
     "carousel_section": {
       "title": "我係邊個?",
       "subtitle": "Click 下一步可以了解更多關於我嘅野!",

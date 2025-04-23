@@ -9,7 +9,7 @@
   },
   "home": {
     "title": "Halihó, Win vagyok!",
-    "subtitle": "Hali, a nevem Win San Pang, és üdvözöllek a személyes weboldalamon 👋 Nyugodtan böngéssz az oldalon, és ismerd meg a szoftverfejlesztői pályafutásomat, tanulmányaimat, készségeimet, portfóliómat és személyes érdeklődési köreimet. Ha inkább csak az önéletrajzomat szeretnéd megnézni, kattints <cv>ide</cv>, hogy PDF formátumban megtekintsd.",
+    "subtitle": "Hali, a nevem Win San Pang, és üdvözöllek a személyes weboldalamon 👋 Nyugodtan böngéssz az oldalon, és ismerd meg a szoftverfejlesztői pályafutásomat, tanulmányaimat, készségeimet, portfóliómat és személyes érdeklődési köreimet. Alternatívaként megnézheted és letöltheted az <cv>önéletrajzomat</cv> PDF formátumban.",
     "carousel_section": {
       "title": "Ki vagyok én?",
       "subtitle": "Kattints végig a körhintán, hogy többet megtudj rólam!",
@@ -42,7 +42,7 @@
           "title": "Geek vagyok 🤓",
           "content_1": "Gyerekként úgy éreztem, hogy geeknek lenni „cikinek” számít, de ma már büszkén vállalom a bennem élő geeket. Imádok olvasni – a kedvenc könyvsorozatom Robert Muchamore CHERUB-sorozata, és hatalmas szerencsémre 2016 júniusában egy dedikáláson találkozhattam is vele. Felnőttként is nagy rajongója vagyok, és nagyon élveztem a legújabb Robin Hood-sorozatát is. További kedvenc könyveim közé tartozik a Harry Potter és Az éhezők viadala.",
           "content_2": "Emellett szeretek videojátékokat játszani – a legnagyobb kedvenceim a Pokémon Yellow, Let's Go Pikachu, Hogwarts Legacy, The Sims 3 és a Super Mario Odyssey. 2019-ben elkezdtem Dungeons and Dragons-t játszani néhány kollégámmal, és kiderült, hogy egy fantáziavilágba menekülni remek módja a józanság megőrzésének a karantén alatt. Azóta is rendszeresen játszunk, mindig rengeteget nevetünk, és imádom, hogy mennyire kreatívak és bolondosak lehetünk. Emellett hatalmas Lego-rajongó vagyok – a legnagyobb kihívásom egy három napig tartó Lego Pókember építése volt –, és imádok társasjátékozni is.",
-          "img_alt": ""
+          "img_alt": "Egy fotó rólam a Warner Bros. Stúdiótúrán Londonban, ahol a Gringotts részlegen egy kard előtt pózolok"
         }
       }
     }
@@ -51,7 +51,7 @@
     "title": "Skilljeim",
     "subtitle": "Itt láthatod a jelenlegi készségeimet egy elmetérkép formájában, három kategóriára bontva: Programozási nyelvek, Általános és Kreatív",
     "mindmap": {
-      "brain_icon_alt": "An illustration icon of a brain's side profile",
+      "brain_icon_alt": "Egy agy oldalnézeti illusztrációs ikonja",
       "programming_languages": {
         "title": "Programming Languages"
       },
