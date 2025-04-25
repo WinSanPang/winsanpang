@@ -45,6 +45,116 @@
           "img_alt": "Egy fotó rólam a Warner Bros. Stúdiótúrán Londonban, ahol a Gringotts részlegen egy kard előtt pózolok"
         }
       }
+    },
+    "working_style_section": {
+      "title": "Hogyan dolgozom",
+      "subtitle": "Az alábbiakban megtalálod a DISC személyiség-elemzésem részletes bontását és a Myers–Briggs típusindikátor (MBTI) eredményeimet. Hiszek abban, hogy fontos megértenünk, hogyan dolgozunk, és hogyan tudunk jobban együttműködni másokkal. Úgy gondolom, hogy az erősségeim és gyengeségeim ismerete segít abban, hogy tudatosabb legyek, és hatékonyabban kommunikáljak másokkal – akár a magánéletben, akár a munkahelyen.",
+      "colour_profile": {
+        "title": "DISC személyiség-elemzés",
+        "description": "Ezek a kördiagramok azt mutatják, hogyan viselkedem természetes módon és hogyan alkalmazkodom, a <url>C-me</url> által készített DISC személyiség-elemzés riport alapján. A színek a következő négy különböző jellemvonást szimbolizálják:",
+        "colours": {
+          "blue": {
+            "title": "Hűvös kék",
+            "description": "Precíz, megfontolt, kérdező, óvatos és formális"
+          },
+          "green": {
+            "title": "Föld zöld",
+            "description": "Gondoskodó, bátorító, megosztó, türelmes és nyugodt"
+          },
+          "yellow": {
+            "title": "Napfény sárga",
+            "description": "Társaságkedvelő, dinamikus, kifejező, lelkes és meggyőző"
+          },
+          "red": {
+            "title": "Tüzes piros",
+            "description": "Versengő, követelőző, eltökélt, akaratos és céltudatos"
+          }
+        },
+        "natural": {
+          "title": "Természetes viselkedés",
+          "description": "A természetes viselkedésem kevésbé szűrt, ösztönösebb hozzáállást tükröz a feladatokhoz – így viselkedem, amikor kényelmes, biztonságos környezetben vagyok.",
+          "analysis": "A természetes preferenciám az, hogy logikát alkalmazzak, részleteket elemezzek és átgondolt döntéseket hozzak, miközben támogatást és tiszteletet mutatok a környezetemben lévők felé."
+        },
+        "adapted": {
+          "title": "Alkalmazkodott viselkedés",
+          "description": "Az alkalmazkodott viselkedésem inkább tanult és módosított viselkedésmintákat tükröz, például azt, hogyan viselkedem munkahelyi környezetben.",
+          "analysis": "Ahogy az ábrán is látható, ez a viselkedésem kiegyensúlyozottabb – visszafogom a természetes 'kék' hajlamaimat, és inkább közvetlen, célorientált megközelítést alkalmazok."
+        }
+      },
+      "myers_briggs": {
+        "title": "Myers–Briggs Típusindikátor (MBTI)",
+        "description": "A Myers–Briggs Típusindikátor (MBTI) egy személyiségteszt, amely négy tengely mentén osztja be az embereket, és ezek kombinációjával 16 különböző személyiségtípust határoz meg. A <url>16Personalities</url> oldalon végzett tesztem alapján a személyiségtípusom: Logisztikus (ISTJ-A) – olyan ember, aki szorgalmas, gyakorlatias, megbízható, precíz, és erős kötelességtudat vezérli. Rendszert és struktúrát viszek abba, amit csinálok, bár tudom, hogy a hagyományokhoz és rutinokhoz való ragaszkodásom néha megnehezíti az alkalmazkodást a változásokhoz. Az eredmények az alábbi arányokat mutatták az egyes dimenziók mentén:",
+        "traits": {
+          "energy": {
+            "title": "Energia",
+            "trait_start": "Extravertált (E)",
+            "trait_end": "Introvertált (I)",
+            "percentage": "{percentage}%"
+          },
+          "mind": {
+            "title": "Észlelés",
+            "trait_start": "Intuíció (N)",
+            "trait_end": "Érzékelés (S)",
+            "percentage": "{percentage}%"
+          },
+          "nature": {
+            "title": "Döntéshozatal",
+            "trait_start": "Gondolkodás (T)",
+            "trait_end": "Érzelem (F)",
+            "percentage": "{percentage}%"
+          },
+          "tactics": {
+            "title": "Életstílus",
+            "trait_start": "Megítélő (J)",
+            "trait_end": "Észlelő (P)",
+            "percentage": "{percentage}%"
+          },
+          "identity": {
+            "title": "Önbizalom",
+            "trait_start": "Magabiztos (A)",
+            "trait_end": "Szorongó (T)",
+            "percentage": "{percentage}%"
+          }
+        }
+      },
+      "strengths_weaknesses": {
+        "title": "Erősségek és gyengeségek",
+        "description": "Úgy gondolom, hogy az erősségeim és gyengeségeim megértése kulcsfontosságú a személyes és szakmai fejlődésem szempontjából. Segít eligazodni abban is, hogy mely képességekre érdemes jobban fókuszálnom, és melyeket érdemes továbbfejlesztenem. Érdekesség, hogy mind a DISC személyiség-elemzés, mind az MBTI eredmények hasonló következtetéseket vontak le az erősségeim és gyengeségeim tekintetében:",
+        "strengths": {
+          "title": "Erősségek",
+          "list": {
+            "reliable": {
+              "title": "Megbízható és felelősségteljes",
+              "description": "Megbízható és felelősségteljes személy vagyok, akire mindig lehet számítani a feladatok határidőre és magas színvonalon történő elvégzésében"
+            },
+            "problem_solving": {
+              "title": "Hatékony problémamegoldás",
+              "description": "Kiválóan találok reális megoldásokat összetett problémákra, módszeres és átgondolt módon kezelem őket"
+            },
+            "detail": {
+              "title": "Részletekre való odafigyelés",
+              "description": "Az apró részletekre való odafigyelésem biztosítja, hogy semmi ne kerülje el a figyelmemet"
+            }
+          }
+        },
+        "weaknesses": {
+          "title": "Gyengeségek",
+          "list": {
+            "risk": {
+              "title": "Kockázatkerülő",
+              "description": "A megszokott, bevált módszerekhez való ragaszkodásom korlátozhatja az innováció és felfedezés lehetőségét"
+            },
+            "critical": {
+              "title": "Túlzott önkritika",
+              "description": "A magammal szemben támasztott magas elvárások gyakran felesleges stresszhez vezethetnek"
+            },
+            "networking": {
+              "title": "Perfekcionizmus",
+              "description": "Gyakran túlságosan ragaszkodom ahhoz, hogy mindent 'helyesen' csináljak"
+            }
+          }
+        }
+      }
     }
   },
   "skills": {
@@ -53,9 +163,10 @@
     "mindmap": {
       "brain_icon_alt": "Egy agy oldalnézeti illusztrációs ikonja",
       "programming_languages": {
-        "title": "Programming Languages"
+        "title": "Programnyelvek"
       },
       "general": {
+        "title": "Általános",
         "problem_solving": "Problémamegoldás",
         "multi_tasking": "Többfeladatos munkavégzés",
         "communication": "Kommunikáció",
@@ -66,10 +177,9 @@
         "customer_service": "Ügyfélszolgálat"
       },
       "creative": {
-        "imovie": "iMovie",
-        "photoshop": "Photoshop",
-        "photography": "Photography",
-        "creative_writing": "Creative writing"
+        "title": "Kreatív",
+        "photography": "Fotózás",
+        "creative_writing": "Kreatív írás"
       }
     }
   },
@@ -310,30 +420,30 @@
       },
       "handy": {
         "company_name": "Handy 🧹",
-        "summary": "I started at Handy as a Customer Service Agent and quickly progressed to the role of Customer Service Shift Leader. This was my first job after graduating from university and I learned a lot about customer service, leadership, and teamwork.",
+        "summary": "A Handy-nél kezdtem, mint ügyfélszolgálati munkatárs, majd gyorsan előléptettek műszakvezetői pozícióba. Ez volt az első munkahelyem az egyetem után, és rengeteget tanultam az ügyfélszolgálatról, a vezetői készségekről és a csapatmunkáról.",
         "roles": {
           "customer_service_shift_leader": {
-            "title": "Customer Service Shift Leader",
-            "start_date": "Oct 2014",
-            "end_date": "May 2015",
+            "title": "Ügyfélszolgálati műszakvezető",
+            "start_date": "2014. október",
+            "end_date": "2015. május",
             "responsibilities": {
               "customer_service": {
-                "heading": "Quality Customer Service",
-                "description": "Providing exemplary customer service over the phone and via email."
+                "heading": "Minőségi ügyfélszolgálat",
+                "description": "Példamutató ügyfélszolgálat nyújtása telefonon és e-mailben."
               },
               "leadership": {
-                "heading": "Leadership Skills",
-                "description": "Promoted to the role of Shift Leader, with responsibilities including coordinating the customer service team, handling escalations, training new team members, and interviewing applicants."
+                "heading": "Vezetői készségek",
+                "description": "Előléptettek műszakvezetővé, ahol feladataim közé tartozott az ügyfélszolgálati csapat koordinálása, az eszkalációk kezelése, az új munkatársak betanítása és az állásinterjúk lebonyolítása."
               },
               "awards": {
-                "heading": "Team Awards",
-                "description": "Was awarded the titles: 'Above and Beyond', 'Best Team Player' and 'Employee of the Week'."
+                "heading": "Csapatszintű elismerések",
+                "description": "Olyan díjakat nyertem el, mint a 'Above and Beyond', 'Legjobb csapattag' és a 'Hét dolgozója'."
               }
             },
             "polaroids": {
               "halloween_social": {
-                "img_alt": "A photograph of me with Handy colleagues at a Halloween team social",
-                "caption": "Dressed up as a Vampire for the Handy Halloween Party 🧛"
+                "img_alt": "Egy fénykép Win San Pangról a Handy csapattal egy halloweeni csapatbulin",
+                "caption": "Vámpírnak öltözve a Handy halloweeni bulin 🧛"
               }
             }
           }
@@ -357,6 +467,24 @@
       "logo_alt": "A Willowfield Iskola logója"
     }
   },
+  "portfolio": {
+    "title": "Portfólió",
+    "subtitle": "Itt találhatók olyan projektek, amelyekben részt vettem, valamint az ezekből készült weboldalak.",
+    "the_cerberus_affair": {
+      "description_1": "A The Cerberus Affair weboldalt kifejezetten a szomszédom könyvbemutatójának kiegészítésére építettem 2020 májusában. Célja az volt, hogy interaktív és élvezetes élményt nyújtson az olvasóknak és rajongóknak, lehetőséget adva nekik arra, hogy jobban megismerjék a történetet, a szereplőket és a szerzőt. A weboldal teljes elkészítéséért – a tervezéstől a megvalósításon át a gyártásba állításig – egyedül én feleltem.",
+      "description_2": "Az oldal React segítségével készült, a designhoz az inspirációt pedig maga a könyv olvasása adta, amelyet kutatásként végeztem a projekt előtt. Ez biztosította, hogy a weboldal hűen tükrözze a történetet, és fokozza az érdeklődést az olvasók körében. A weboldalt megtekintheted, és többet is megtudhatsz a The Cerberus Affair-ről itt:",
+      "img_alt_1": "A The Cerberus Affair weboldal kezdőlapja",
+      "img_alt_2": "A The Cerberus Affair weboldal 'olvass bele a könyvbe' oldala",
+      "img_alt_3": "A The Cerberus Affair weboldal 'rólunk' oldala"
+    },
+    "connected_learning": {
+      "description_1": "A Connected Learning a #UKvsCOVID 2020-as hackathon keretében született, amelyet a Women Driven Development szervezett azért, hogy segítséget nyújtson a koronavírus-járvány és az országos lezárás által okozott főbb problémák kezelésében. Az oktatási szektor is jelentős mértékben megszenvedte a korlátozásokat, mivel a hagyományos tantermi oktatás lehetetlenné vált, és a szülőkre hárult a nyomás, akik gyakran túlterheltek voltak az online tanulási lehetőségek sokaságával, nem tudva, hol kezdjék, vagy hogyan használják őket.",
+      "description_2": "A hackathon során én vállaltam a vezető szerepet a ConnectEducate csapat megalakításában, és nyolc másik nővel együtt létrehoztuk a Connected Learning platformot – egy felhasználóbarát online tanulási felületet, amely segíti a szülőket abban, hogy célzott forrásokat érjenek el, és ami még fontosabb, hogy kapcsolatba léphessenek ellenőrzött mentorokkal, akik támogatni tudják gyermekeik oktatási igényeit. A platform React és Ruby on Rails technológiával készült.",
+      "img_alt_1": "A Connected Learning weboldal kezdőlapja",
+      "img_alt_2": "A Connected Learning weboldal források oldala",
+      "img_alt_3": "A Connected Learning weboldal rólunk oldala"
+    }
+  },
   "contact": {
     "title": "Kapcsolat",
     "subtitle": "Nyugodtan vedd fel velem a kapcsolatot az alábbi elérhetőségeim egyikén. Legyen szó álláslehetőségről, közös projektről vagy akár csak általános visszajelzésről a weboldalam kapcsán – nagyon szívesen hallanék felőled!",
@@ -375,6 +503,36 @@
     },
     "instagram": {
       "icon_alt": "Az Instagram logója"
+    }
+  },
+  "footer": {
+    "svg_repo_credit": "Vektorok és ikonok: <svgrepo>SVG Repo</svgrepo> 🧠",
+    "made_with_love": "Készült NextJS és Tailwind CSS segítségével. Két kezem munkája, made with ❤️"
+  },
+  "metadata": {
+    "home": {
+      "title": "Win San Pang – Szoftvermérnök",
+      "description": "Szia! Win San Pang vagyok, Londonban élő szoftvermérnök. Üdvözöllek a személyes weboldalamon, ahol többet megtudhatsz a karrieremről, tanulmányaimról, készségeimről, portfóliómról és személyes érdeklődési köreimről."
+    },
+    "skills": {
+      "title": "Készségek | Win San Pang",
+      "description": "Tekintsd meg a jelenlegi készségeimet, kategóriákra bontva: Programozási nyelvek (például React, Typescript, Javascript, Apollo GraphQL), Általános és Kreatív."
+    },
+    "work": {
+      "title": "Munka | Win San Pang",
+      "description": "Tapasztalt Full Stack Szoftvermérnök vagyok, aki a frontend fejlesztésre helyezi a hangsúlyt. Több mint 5 év tapasztalatom van kiváló minőségű felhasználói felületek készítésében, amelyek növelik az átváltási arányokat és a felhasználói elköteleződést."
+    },
+    "education": {
+      "title": "Tanulmányok | Win San Pang",
+      "description": "Olvass a tanulmányi hátteremről, beleértve a King's College Londonon folytatott egyetemi tanulmányaimat, valamint az általam elvégzett online Udemy programozási kurzusokat."
+    },
+    "portfolio": {
+      "title": "Portfólió | Win San Pang",
+      "description": "Itt találhatók azok a projektek, amelyekben részt vettem, és az ezekből készült weboldalak."
+    },
+    "contact": {
+      "title": "Kapcsolat | Win San Pang",
+      "description": "Itt találod az elérhetőségeimet – legyen szó álláslehetőségről, együttműködésről, vagy akár csak egy visszajelzésről a weboldalam kapcsán, örömmel hallok felőled!"
     }
   }
 }

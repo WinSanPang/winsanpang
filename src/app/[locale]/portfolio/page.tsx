@@ -48,7 +48,7 @@ export default async function Page({
         emoji={{ icon: "📁", animation: "animate-spin" }}
         charCount={localeToCharCount({
           locale,
-          charCounts: { en: 7, "zh-HK": 6, hu: 16 },
+          charCounts: { en: 7, "zh-HK": 6, hu: 7 },
         })}
       />
       <div className="flex flex-wrap justify-center md:gap-2">
