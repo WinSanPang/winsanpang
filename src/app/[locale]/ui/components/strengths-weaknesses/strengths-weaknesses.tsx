@@ -19,14 +19,14 @@ export default function StrengthsWeaknesses() {
           <div className="flex justify-center">
             <ul className="md:text-left pl-5">
               {strengths.map((strength) => (
-                <div key={strength} className="mb-8">
-                  <li className="font-bold text-lg before:content-['💪'] before:mr-2 mb-2">
+                <li key={strength} className="mb-8">
+                  <div className="font-bold text-lg before:content-['💪'] before:mr-2 mb-2">
                     {t(`${copyContext}.strengths.list.${strength}.title`)}
-                  </li>
+                  </div>
                   <p>
                     {t(`${copyContext}.strengths.list.${strength}.description`)}
                   </p>
-                </div>
+                </li>
               ))}
             </ul>
           </div>
@@ -39,16 +39,16 @@ export default function StrengthsWeaknesses() {
           <div className="flex justify-center">
             <ul className="md:text-left pl-5">
               {weaknesses.map((weakness) => (
-                <div key={weakness} className="mb-8">
-                  <li className="font-bold text-lg before:content-['⚠️'] before:mr-2 mb-2">
+                <li key={weakness} className="mb-8">
+                  <div className="font-bold text-lg before:content-['⚠️'] before:mr-2 mb-2">
                     {t(`${copyContext}.weaknesses.list.${weakness}.title`)}
-                  </li>
+                  </div>
                   <p>
                     {t(
                       `${copyContext}.weaknesses.list.${weakness}.description`
                     )}
                   </p>
-                </div>
+                </li>
               ))}
             </ul>
           </div>
